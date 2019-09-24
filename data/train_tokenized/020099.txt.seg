@@ -1,0 +1,30 @@
+Thông_tin khách đi máy_bay bị lộ từ hãng đến đại_lý
+
+Cục Hàng_không đã kết_luận về việc tuân_thủ quy_định pháp_luật chuyên_ngành hàng_không về bảo_mật thông_tin hành_khách của các hãng hàng_không Vietnam_Airlines , Vietjet và Jetstar_Pacific .
+
+Dù các hãng hàng_không sử_dụng phần_mềm đặt chỗ , giữ chỗ , bán vé có uy_tín trên thế_giới nhưng qua thanh_tra , Cục Hàng_không nhận thấy thông_tin của hành_khách mua vé máy_bay có nguy_cơ bị lộ từ hai nguồn .
+Đi máy_bay bằng vé nội_bộ cũng bị lộ thông_tin
+Thứ nhất , thông_tin hành_khách chuyến bay đã bị lộ từ cán_bộ , nhân_viên của hãng hàng_không , nhân_viên phòng bán vé của các hãng hàng_không hoặc của nhân_viên phục_vụ mặt_đất tại sân_bay .
+Cơ_sở để đưa ra nhận_định này là chính các thành_viên đoàn thanh_tra đi máy_bay bằng vé miễn cước dành cho nội_bộ vẫn nhận được tin nhắn mời đi taxi .
+Trong khi đó , chỉ những nhân_viên nói trên của hãng hàng_không mới có_thể xem được thông_tin đặt chỗ của hành_khách không đặt vé qua đại_lý ( đại_lý bán vé chỉ xem được thông_tin hành_khách do đại_lý bán vé ) .
+Nguồn làm lộ thông_tin thứ hai là nhân_viên đại_lý bán vé máy_bay có_thể cung_cấp thông_tin hành_khách đi máy_bay cho tổ_chức , cá_nhân bên ngoài ( đối_với hành_khách được đại_lý đó đặt chỗ , giữ chỗ , bán vé ) .
+Tổ_chức , cá_nhân sử_dụng thông_tin của hành_khách là các trung_tâm môi_giới taxi trên mạng Internet ( tương_tự Uber và Grab ) do doanh_nghiệp Việt_Nam thiết_lập và điều_hành .
+Đây là những tổ_chức chủ_yếu sử_dụng các thông_tin của hành_khách đi máy_bay .
+Việc mua và sử_dụng thông_tin hành_khách đi máy_bay chủ_yếu do các trung_tâm môi_giới thông_tin taxi thực_hiện thay_vì các công_ty vận_chuyển taxi như thời_gian năm 2015 trở_về trước .
+Cục Hàng_không đã thu_thập một_số đầu_mối sử_dụng thông_tin hành_khách đi máy_bay , kiến_nghị chuyển cơ_quan có thẩm_quyền xem_xét xử_lý .
+Có chương_trình giám_sát người sử_dụng nhưng vẫn lộ
+Theo Cục Hàng_không Việt_Nam , Vietnam_Airlines sử_dụng hệ_thống đặt , giữ chỗ , bán vé do Sabre_Airlines_Solution cung_cấp .
+Đây là nhà_cung_cấp phần_mềm đặt chỗ , giữ chỗ , bán vé có uy_tín trên thế_giới và đang cung_cấp dịch_vụ này cho nhiều hãng hàng_không trên thế_giới cùng sử_dụng .
+Trong hệ_thống đã có các giải_pháp khá chặt_chẽ để bảo_mật thông_tin hành_khách đi máy_bay như ghi_nhận , lưu_trữ việc truy_cập vào của người sử_dụng , không cho_phép người sử_dụng trích xuất được danh_sách hành_khách kèm theo số điện_thoại và chuyến bay liên_lạc .
+Còn Vietjet , Jetstar_Pacific hiện chưa có chương_trình giám_sát hoạt_động của người sử_dụng được cấp quyền truy_cập hệ_thống đặt chỗ , bán vé một_cách hữu_hiệu .
+Trong khi đó , cũng như Vietnam_Airlines , hệ_thống đặt chỗ của hai hãng này đều có_thể cho_phép nhân_viên có quyền truy_cập hệ_thống trích xuất được danh_sách khách_hàng của cả chuyến bay với đầy_đủ thông_tin .
+Tuy_nhiên , dù có chương_trình giám_sát người sử_dụng , Vietnam_Airlines vẫn chưa ngăn_ngừa được triệt_để tình_trạng lộ thông_tin hành_khách .
+Tiếp_thị taxi hướng đến khách Vietnam_Airlines , đi sân_bay xa
+Thông_tin hành_khách đi máy_bay có_thể bị lộ thông_qua một_số tài_khoản của hệ_thống đặt giữ chỗ , bán vé cấp cho cán_bộ , nhân_viên của hãng , đối_tác làm thủ_tục chuyến bay tại các sân_bay , nhân_viên đại_lý bán vé hoặc tài_khoản truy_cập vào các chương_trình phần_mềm ( sử_dụng công_cụ API ) kết_nối vào hệ_thống đặt giữ chỗ , bán vé cấp cho cán_bộ , nhân_viên của hãng .
+Bên cạnh đó , một_số máy_tính của các nhân_viên sử_dụng hệ_thống đặt giữ chỗ của cả 3 hãng có cài_đặt các phần_mềm liên_lạc như Viber , Skype , Zalo , email .
+Việc cho_phép nhân_viên được sử_dụng nhiều phần_mềm liên_lạc này nếu không có sự giám_sát chặt_chẽ sẽ gia_tăng nguy_cơ lộ thông_tin hành_khách .
+Kiểm_tra hoạt_động về việc sử_dụng tài_khoản truy_cập hệ_thống đặt giữ chỗ SABRE của Vietnam_Airlines cho thấy vẫn còn xảy ra hiện_tượng sử_dụng chung các tài_khoản giữa các nhân_viên đại_lý bán vé ; tài_khoản cấp cho nhân_viên đại_lý đã thôi làm_việc nhưng chưa được thu_hồi và chuyển_đổi người sử_dụng .
+Qua thanh_tra , Cục Hàng_không nhận_định hành_khách bị nhắn_tin dịch_vụ taxi là có chọn_lọc , tập_trung vào hành_khách đã được chốt sổ đặt chỗ , giữ chỗ , bán vé trên các chuyến bay của Vietnam_Airlines được cho có thu_nhập cao hơn hành_khách các hãng hàng_không giá rẻ .
+Tin nhắn dịch_vụ taxi được hướng đến hành_khách đi đến các sân_bay Nội_Bài , Cam_Ranh , Liên_Khương có địa_thế xa so với trung_tâm thành_phố .
+
+Các hãng hàng_không đều có nguy_cơ lộ thông_tin hành_khách từ nhân_viên của hãng đến đại_lý - Ảnh : TUẤN_PHÙNG

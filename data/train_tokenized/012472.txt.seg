@@ -1,0 +1,29 @@
+Vụ hệ_thống ngàn tỉ , tàu lửa suýt tông nhau : Do người vận_hành ?
+
+Tổng_công_ty Đường_sắt VN vừa có văn_bản thừa_nhận nhiều sự_cố xảy ra tại những nơi được lắp hệ_thống tín_hiệu tự_động , nhưng lại cho_rằng đa_số sự_cố là do con_người chứ không phải thiết_bị .
+
+Văn_bản này là để phản_hồi bài " Hệ_thống tín_hiệu tự_động ngàn tỉ : nguy_cơ tàu lửa đụng nhau " đăng trên Tuổi_Trẻ ngày 15-11 .
+Trả_lời Tuổi_Trẻ về vấn_đề thiết_bị tín_hiệu 6502 của Trung_Quốc áp_dụng cho hệ_thống đường_đôi , còn ở VN sử_dụng đường_sắt đơn có_thể chưa phù_hợp , Tổng_công_ty Đường_sắt VN giải_thích tại Trung_Quốc vẫn có đường_sắt đơn và họ vẫn xài thiết_bị 6502 .
+Khi áp_dụng vào VN , hệ_thống tín_hiệu tuân_thủ các quy_chuẩn kỹ_thuật hiện_hành .
+Ngành đường_sắt còn cho_rằng dù là hệ_thống tự_động , nhưng con_người có_thể vận_hành độc_lập bằng tay trong những trường_hợp đặc_biệt hoặc có trở_ngại .
+Về sự_cố hai tàu " suýt " tông nhau ở ga Suối_Vận đêm 14-7 , Tổng_công_ty Đường_sắt VN quy trách_nhiệm do nhân_viên trực_ban ngủ_gật , lúc tỉnh dậy tự tháo niêm_phong kẹp chì và quay thiết_bị chuyển_hướng đoàn tàu bằng tay .
+" Sự_cố xảy ra không phải lỗi của thiết_bị tín_hiệu 6502 " - Tổng_công_ty Đường_sắt VN đánh_giá .
+Tuy_nhiên , việc đổ lỗi cho người lao_động là chưa thuyết_phục .
+Nếu thiết_bị 6502 giúp tàu tránh nhau tự_động thì tại_sao nhân_viên trong ga lại thao_tác đón tàu bằng cách thủ_công ?
+Cục Đường_sắt VN từng có quy_định : " Cấm đón hai tàu vào ga cùng một lúc , cấm đón một tàu và gửi một tàu cùng chiều một lúc " , nhưng hiện_nay thiết_bị 6502 tại ga Suối_Vận đều thực_hiện được các thao_tác trên cùng một lúc .
+Cục Đường_sắt cũng cho_biết ga Suối_Vận và 6 ga khác như Gia_Huynh , Sông_Phan ( Bình_Thuận ) , Trản_Táo , Long_Khánh , Bảo_Chánh , Gia_Ray ( Đồng_Nai ) nếu mở tín_hiệu 6502 cho tàu vào ga tránh nhau là vi_phạm quy_chuẩn vì độ dốc lớn ( trên 6 ‰ ) .
+Do_đó , thay_vì đón tàu bằng hệ_thống tự_động , nhân_viên đường_sắt lại phải thường_xuyên mở niêm_phong kẹp chì thiết_bị để điều_hành chạy_tàu bằng phương_pháp thủ_công .
+Đây chính là những bất cập , ảnh hưởng đến an toàn chạy tàu .
+Các chuyên_gia đường_sắt cho_rằng dù lý giải kiểu gì thì việc để " hai tàu vào một đường cùng lúc " là một sự cố nghiêm trọng , đe dọa tính mạng hành khách đi tàu .
+Thiết_bị tự_động là để hạn_chế được sai_lầm của con_người có_thể gây ra , nhưng giờ_đây con_người lại được phép " can_thiệp " hệ_thống tự_động , khi sơ_suất thì làm mất an_toàn chạy_tàu .
+Trong nội_dung văn_bản trả_lời báo Tuổi_Trẻ , Tổng_công_ty Đường_sắt VN cho_rằng thiết_bị 6502 vẫn an_toàn , không bất_cập , nhưng trên thực_tế thì lãnh_đạo ngành này lại đề_nghị các công_ty phải rà_soát , tìm nguyên_nhân sự_cố thiết_bị 6502 , SSI ( nhất_là sự_cố trật bánh ) để yêu_cầu các nhà_thầu khắc_phục .
+Dự_án hệ_thống tín_hiệu có mục_tiêu làm tăng năng_lực vận_tải , tăng hệ số an toàn và giảm nhân lực trong quá_trình chạy_tàu ở các ga . Nhưng các mục_tiêu này vẫn còn là dấu_hỏi , bởi tới nay quá_trình vận_hành phải trở_lại hình_thức thủ_công .
+Để " sống chung " với những bất_cập của thiết_bị tín_hiệu , ngành đường_sắt yêu_cầu một_số ga phải " đẻ ra " thêm quy_tắc , biện_pháp kiểm_chứng , chế_độ " hô đáp mệnh_lệnh " giữa trực_ban chạy_tàu với nhân_viên quay thiết_bị chuyển_hướng tàu ...
+Tuy_nhiên , theo tìm_hiểu , ở các ga sử_dụng phương_pháp nói trên cũng đang gặp phiền_toái , bởi lúc quay bằng tay thì thiết_bị 6502 không ghi lại được thao_tác trực_ban trên đài điều_khiển .
+Còn thiết_bị SSI có ghi lại được , nhưng muốn đọc phải gửi dữ_liệu về nhà_thầu Alstom ( Pháp ) để giải_mã .
+Do_đó , ngành đường_sắt phải tốn thêm tiền lắp_đặt hệ_thống camera ở toàn_bộ các ga sử_dụng thiết_bị 6502 , SSI để giám_sát hoạt_động của người lao_động .
+Theo Cục Đường_sắt VN , thời_gian qua các ga như Trảng_Bom , Hố_Nai ( Đồng_Nai ) , Sông_Mao , Sông_Lòng_Sông ( Bình_Thuận ) , Cà_Ná ( Ninh_Thuận ) dù được đầu_tư làm thêm và kéo_dài đường tránh trong ga nhưng vẫn chưa đồng_bộ hoá hệ_thống tín_hiệu .
+Điều này dẫn đến một ga đồng_thời sử_dụng hình_thức quay thiết_bị chuyển_hướng tàu vừa tự_động vừa thủ_công , dẫn đến khó_khăn trong công_tác quản_lý , đồng_thời không phát_huy hết năng_lực của các ga .
+Theo đánh_giá của chuyên_gia đường_sắt , những bất_cập trong quá_trình vận_hành thiết_bị làm ảnh_hưởng tới năng_lực vận_tải của đường_sắt , tiềm ẩn nguy_cơ mất an toàn , bởi chế độ " hô đáp mệnh_lệnh " thủ_công giữa con_người với nhau trong quá_trình điều_hành chạy tàu có_thể dễ nhầm_lẫn .
+
+Đoàn tàu chạy qua khu_vực lắp_đặt hệ_thống tín_hiệu 6502 của Trung_Quốc tại ga Suối_Vận - nơi từng xảy ra sự_cố hai tàu suýt đụng nhau - Ảnh : QUANG_KHẢI

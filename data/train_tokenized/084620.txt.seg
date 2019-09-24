@@ -1,0 +1,18 @@
+Cảnh_báo mã độc Red_Alert 2.0 tấn_công chiếm tài_khoản
+
+Một loại mã độc mới trên nền_tảng Android , được gọi là Red_Alert 2.0 , có khả_năng lấy trộm thông_tin và chiếm quyền kiểm_soát tài_khoản ngân_hàng trực_tuyến , vượt_qua các bước yêu_cầu xác_thực hai bước .
+
+Theo các ngân_hàng , các chuyên_gia về an toàn , an_ninh thông_tin , hiện_tại có hơn 60 ứng_dụng ngân_hàng trực_tuyến và mạng xã_hội đang là mục_tiêu tấn_công của mã độc này .
+Một_số tính_năng chính của mã độc gồm : Đánh_cắp thông_tin xác_thực , danh_bạ và nhiều thông_tin cá_nhân nhạy_cảm khác ; chặn tin nhắn SMS và có các kỹ_thuật vượt qua xác_thực bằng SMS OTP .
+Ngoài_ra mã độc có_thể giả_mạo và hiển_thị phủ lên trên giao_diện ứng_dụng hợp_pháp đang chạy cũng như chặn các cuộc_gọi đến từ ngân_hàng nhằm không cho khách_hàng nhận được cảnh_báo tài_khoản bị tấn_công .
+Cách_thức lây_nhiễm như sau : mã độc sẽ giả_mạo các ứng_dụng nổi_tiếng , hợp_pháp trên các kho cung_cấp ứng_dụng của Android như Watsapp , Viber , … trên các cửa_hàng ứng_dụng không chính_thống của bên thứ ba hoặc dưới dạng cập_nhật Flash_Player giả_mạo hoặc liên_kết , tệp_tin đính kèm trong email , tin_nhắn SMS .
+Sau khi nhiễm vào ứng_dụng di_động , Red_Alert 2.0 sẽ đợi người dùng mở ứng_dụng Mobile_Banking .
+Nếu phát_hiện đây là ứng_dụng có mô_phỏng , Red_Alert 2.0 sẽ giả_mạo giao_diện và hiển_thị phủ lên trên giao_diện ứng_dụng Mobile_Banking đang chạy , báo lỗi và yêu_cầu người dùng đăng_nhập lại .
+Sau đó mã độc sẽ ghi lại và gửi thông_tin đăng_nhập cho tin_tặc để thực_hiện giao_dịch bất_hợp_pháp .
+Theo các ngân_hàng , mã độc này có_thể vượt qua các công_nghệ xác_thực 2 yếu_tố thông_qua tính_năng chặn tin nhắn trên thiết_bị di_động bị nhiễm mã độc .
+Do_vậy các ngân_hàng khuyến_nghị người dùng chỉ tải ứng_dụng từ kho chính_thống như Play_Store với Android và App_Store với iOS .
+Người dùng không tải và cài đặt ứng_dụng thông_qua các kho lưu_trữ , liên_kết không rõ nguồn_gốc , kiểm_tra bản_quyền ứng_dụng trước khi cài_đặt bất_kỳ ứng_dụng nào .
+Người dùng cũng không tuỳ_tiện trả_lời những câu_hỏi yêu_cầu thông_tin người dùng , mật_khẩu đăng_nhập , thông_tin thẻ , đặc_biệt lưu_ý thông_điệp yêu_cầu đó hiển_thị dưới dưới dạng hình_ảnh , hiển_thị phủ nền trên nền ứng_dụng đang chạy .
+Nên cài_đặt phần_mềm phòng_chống mã_độc của nhà_cung_cấp có uy_tín để hạn_chế nguy_cơ bị lây_nhiễm đồng_thời thường_xuyên cập_nhật hệ_điều_hành theo chính_sách của hãng trên các thiết_bị di_động .
+
+Các ngân_hàng cảnh_báo người dùng nên cài_đặt phần_mềm phòng_chống mã_độc của nhà_cung_cấp có uy_tín để hạn_chế nguy_cơ bị mã độc tấn_công .

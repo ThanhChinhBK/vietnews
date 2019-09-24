@@ -1,0 +1,24 @@
+' Huấn_luyện ' thành_công robot hai chân vượt địa_hình phức_tạp
+
+Được chế_tạo với khả_năng đi trên các bậc đá với độ cao khác nhau mà không bị ngã , robot Berkeley có_thể được dùng cho công_tác cứu_hộ cứu nạn .
+
+Những robot có_thể di_chuyển hiện_nay thường gặp vấn_đề trên dạng địa_hình không bằng_phẳng vì mỗi bước_đi của chúng sẽ khác nhau về chiều cao và khoảng_cách .
+Các nhà_khoa_học tại Đại_học California , Mỹ đã khắc_phục vấn_đề này khi dùng công_nghệ máy học ( machine learning ) để ‘ dạy ’ robot thích_nghi với bề_mặt gập_ghềnh .
+Thuật_toán AI phức_tạp sẽ hướng_dẫn robot di_chuyển dựa theo quy_tắc nghiêm_ngặt về vị_trí đặt_chân , do_đó khoảng_cách và chiều cao của mỗi bước_đi trở_nên khá cứng_nhắc .
+Điều này dẫn đến robot bị ngã khi đi trên địa_hình gồ_ghề vì mỗi bước chân chắc_chắn phải không giống nhau thì mới tránh khỏi việc ngã , trượt , khiến chuyển_động chậm đi .
+Nhóm nghiên_cứu đã vượt qua khó_khăn này bằng cách dùng máy học để ‘ dạy ’ robot hai chân làm_sao để xử_lý bước chân hợp_lý hơn .
+Hệ_thống của họ cho_phép robot đi_lại thoải_mái hơn , giúp chúng linh_hoạt hơn bất_kì phiên_bản robot nào trước đó .
+Họ tạo ra các bài kiểm_tra , sử_dụng các tảng đá đa_dạng về chiều cao và khoảng_cách được thay_đổi ngẫu_nhiên .
+Bất_ngờ , mỗi robot trong thử_nghiệm đã có_thể di_chuyển trên các địa_hình nhân_tạo dễ_dàng mà không ngã , ngay cả khi chúng chưa từng gặp địa_hình tương_tự trước đó .
+Chúng không hề " biết " trước địa_hình sẽ như_thế_nào , chỉ vị_trí đặt bước chân tiếp_theo được cung_cấp cho robot , một kịch_bản tương_đồng với những gì chúng sẽ đối_mặt trong thực_tế .
+Hiện_tại , chúng hoàn_toàn ‘ mù ’ và không_thể sử_dụng dữ_liệu hình_ảnh để tính_toán bước_đi tiếp_theo .
+Thay vào đó , nhóm nghiên_cứu cung_cấp khoảng_cách và độ cao của mỗi viên đá và hệ_thống AI sẽ sử_dụng phép toán_học phức_tạp để tính_toán bước tiếp_theo .
+Tuy_nhiên , nhiều ý_kiến lo_sợ giới quân_sự trên thế_giới sẽ sớm áp_dụng công_nghệ này và tạo ra robot sát_thương có khả_năng truy_đuổi mục_tiêu trên chiến_trường mà không e_sợ bất_cứ loại địa_hình nào .
+Ngược_lại , nhóm kỹ_sư cho_biết công_nghệ của họ có_thể được sử_dụng trong nhiệm_vụ cứu nạn , tìm_kiếm khi thiên_tai xảy ra .
+Trong tương_lai , những robot cứu_hộ cần phải di_chuyển trên khu_vực đổ_nát và địa_hình khó_khăn một_cách nhanh_chóng nhằm tìm_kiếm người mắc_kẹt hoặc bị_thương .
+Họ chia_sẻ trên blog : " Chúng là những cỗ_máy tuyệt_vời trong việc định_hướng trên địa_hình không có cấu_trúc nhất_định và không đồng_đều .
+Thêm vào đó , chúng linh_hoạt hơn nhiều so với các robot di_chuyển bằng bánh_xe , vốn_dĩ gặp khó_khăn khi điều hướng trên địa_hình nhiều khoảng trống hay chiều cao thay_đổi liên_tục .
+Khả_năng của robot hai chân trên địa_hình rời_rạc và khó đoán giúp chúng trở_thành ứng_cử_viên tiềm_năng cho công_việc thám_hiểm không_gian và ứng_phó thiên_tai ' ' .
+
+Dạng địa_hình phức_tạp mà nhóm nghiên_cứu tạo ra để thử_nghiệm robot - Ảnh : Đại_học California .
+Robot không gặp khó_khăn khi di_chuyển trên các khối đá có chiều cao khác nhau - Ảnh : Đại_học California

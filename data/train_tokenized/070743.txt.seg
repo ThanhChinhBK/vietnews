@@ -1,0 +1,44 @@
+Ra_mắt ứng_dụng giúp thí_sinh biết được vị_trí của mình trong kỳ thi THPT Quốc gia 2019
+
+Mới_đây , một nhóm Startup_Việt đã cho ra_mắt ứng_dụng KAMI - một trợ lý ảo hỗ_trợ tính năng tra_cứu điểm thi , phân_tích phổ_điểm , tra_cứu chỉ_tiêu xét tuyển , và gợi_ý chọn trường .
+
+Sản_phẩm ứng_dụng này được phát_triển bởi startup công_nghệ NERD.vn trên nền_tảng trợ_lý ảo VAV của nhóm giảng_viên , sinh_viên trường đại học Công_nghệ - đại học Quốc gia Hà Nội .
+PV báo Người Đưa Tin đã có dịp trao_đổi với TS .
+Nguyễn_Bá_Đạt , một trong những sáng_lập_viên của NERD.vn:
+Thưa TS .
+Nguyễn Bá Đạt , tải KAMI , người dùng có_thể tra_cứu được điểm thi đại học như_thế_nào ?
+Sau khi cài app , người dùng có_thể “ tra cứu điểm thi ngay khi được công_bố ” , tránh tình_trạng chậm_trễ do máy_chủ “ treo ” là một trong những tính_năng quan_trọng của trợ_lý ảo KAMI .
+Bên cạnh việc cung_cấp điểm của thí_sinh , KAMI còn cho_biết thứ_hạng của thí_sinh trong một vùng đối_tượng nhất_định .
+Tiến sĩ có thể nói rõ hơn về tính_năng này ?
+Khái_niệm điểm cao hay thấp tuỳ_thuộc theo độ khó của đề_thi , và theo phổ_điểm .
+Chính vì_vậy , bên cạnh thông_tin về điểm , thứ_hạng của thí_sinh theo môn thi , khối thi , và theo vùng cũng là những thông_tin rất hữu_ích , được các thí_sinh rất quan_tâm .
+Về tính_năng đặc_biệt của KAMI : KAMI có các dữ_liệu để người dùng có_thể tra_cứu một_cách hệ_thống về điểm chuẩn , về tổ_hợp xét tuyển , các ngành xét tuyển ?
+Có rất nhiều nguồn khác nhau như các nguồn báo , website , trang facebook đưa các thông_tin về tuyển_sinh như chỉ_tiêu xét tuyển , điểm chuẩn của các nghành trong những kỳ tuyển_sinh trước , ... tuy_nhiên tra_cứu và tổng_hợp những thông_tin này mất rất nhiều thời_gian và công_sức .
+KAMI hỗ_trợ thí_sinh làm tất_cả các tác_vụ này trên một nền_tảng .
+Hơn_nữa nhờ áp_dụng các công_nghệ mới trong lĩnh_vực xử_lý ngôn_ngữ_tự_nhiên , KAMI hỗ_trợ thí_sinh tra_cứu một_cách nhanh_chóng và tiện_lợi bằng ngôn_ngữ_tự_nhiên tiếng Việt .
+Trước_đây , nhóm giảng_viên và sinh_viên của trường đại học Công_nghệ đã xây_dựng thành_công trợ lý ảo VAV , trợ lý KAMI có kế_thừa điều gì từ trợ lý tiền_nhiệm không , thưa tiến sĩ ?
+Trợ_lý VAV là một sản_phẩm nghiên_cứu tuyệt_vời của nhóm các giảng_viên và sinh_viên trường đại học Công_nghệ , đại học Quốc gia Hà Nội .
+Có_thể nói VAV là một trong những trợ_lý ảo phổ_biến và thành_công nhất cho người Việt tính đến thời_điểm này .
+KAMI kế_thừa tất_cả nền_tảng nghiên_cứu của trợ_lý ảo VAV .
+Ngoài_ra , những cải_tiến KAMI phát_triển hiện có gồm :
+Thứ nhất , tích_hợp hệ tri_thức lớn dưới dạng đồ_thị ( knowledge graph ) chứa hàng triệu đỉnh , hàng trăm triệu cạnh về con_người , tổ_chức , địa_điểm Việt_Nam .
+Nhờ đó , KAMI sẽ có khả_năng hỗ_trợ hỏi_đáp tốt hơn .
+Thứ hai , KAMI được thiết_kế để dễ_dàng cho việc mở_rộng và tích_hợp một tính_năng mới .
+Trong tương_lai gần , các cá_nhân và tổ_chức khác cũng có_thể sử_dụng giao_diện lập_trình ứng_dụng ( API ) của NERD.vn để phát_triển tính_năng trên trợ_lý ảo KAMI .
+Phiên_bản KAMI “ tiếp_sức mùa thi ” lần này là bản thử_nghiệm đầu_tiên .
+Bằng cách nào mà KAMI chứa nguồn dữ_liệu khổng_lồ đến như_vậy ?
+Tại NERD.vn , chúng_tôi phát_triển rất nhiều những công_cụ về xử_lý ngôn_ngữ_tự_nhiên , trích xuất và tổng_hợp thông_tin tự_động từ rất nhiều nguồn khác nhau như Wikipedia , các trang báo , các Website , ...
+Ngoài_ra , chúng_tôi kết_hợp những công_nghệ lưu_trữ và tổ_chức dữ_liệu tiên_tiến như graph - DB để việc truy_vấn và phân_tích thông_tin trở_nên dễ_dàng và hiệu_quả .
+Dự_kiến hướng phát_triển các tính_năng của KAMI trong thời_gian tới ?
+Sau phiên_bản “ tiếp_sức mùa thi ” thử_nghiệm , KAMI sẽ được tích_hợp rất nhiều các tính_năng như : 1 ) hỗ_trợ đời_sống hàng ngày như : hỏi thời_tiết , hỏi ngày_tháng , đặt lịch , ... 2 ) hỗ_trợ tính_năng giải_trí : nghe nhạc , trò_chuyện , ... 3 ) hỗ_trợ hỏi_đáp và nhiều tính_năng khác nữa .
+Tiến sĩ có thể chia_sẻ đôi điều về nhóm xây_dựng và phát_triển KAMI ?
+Các thành_viên của NERD.vn đều mang mong_muốn xây_dựng một sản_phẩm có_thể “ hiểu ” được người Việt , phục_vụ tốt cho người “ Việt ” .
+Vì_thế , KAMI luôn cố_gắng cập_nhật những tính_năng cần_thiết phục_vụ cho con_người Việt trong đời_sống hàng ngày .
+Một_số thành_viên trong nhóm chúng_tôi đã từng học tại trường đại học Công_nghệ , đại học Quốc gia Hà Nội .
+Ngoài_ra , trong những sự_kiện đặc_biệt , KAMI sẽ có những phiên_bản / tính_năng đặc_biệt giành riêng cho sự_kiện đó .
+Với cộng_đồng , KAMI sẽ luôn là một trợ_lý ảo miễn_phí cho người dùng Việt .
+Trân_trọng cảm_ơn TS .
+Nguyễn Bá Đạt về cuộc trao_đổi !
+Dưới đây là hình ảnh sử dụng ứng dụng KAMI :
+
+Nguyễn_Bá_Đạt .

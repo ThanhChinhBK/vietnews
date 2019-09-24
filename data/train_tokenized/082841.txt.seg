@@ -1,0 +1,31 @@
+Tiền điện tăng có thực do tăng_giá và dùng nhiều ?
+
+Giá điện tháng 4 " tăng vọt " ! Đó chỉ là cảm_nhận của một_số người hay_là thực_tế ?
+
+Mọi người đều biết rằng số tiền điện bằng lượng điện tiêu_thụ nhân với giá điện .
+Chúng_ta có_thể nhẩm tính xấp_xỉ theo công_thức : tỉ_lệ tăng số tiền điện bằng tỉ_lệ tăng lượng điện tiêu_thụ cộng với tỉ_lệ tăng_giá điện .
+Theo biểu giá điện mới , tỉ_lệ tăng_giá điện dao_động từ ít_nhất là 8,33 % đến 8,4 % tuỳ theo lượng điện_năng tiêu_thụ thuộc bậc nào .
+Do_đó , nếu giả_sử một hộ gia_đình có số tiền điện tăng 50 % thì lượng điện tiêu_thụ phải tăng xấp_xỉ 40 % .
+Con_số này dù lớn , nhưng không là gì nếu ai đó cho rằng tiền điện của họ tăng hơn 1,7 đến trên 2 lần .
+Theo giải_thích về cách tính tiền điện trong tháng 4 của một công_ty điện_lực , chúng_ta có_thể thấy nhiều điều bất_hợp_lý .
+Cách tính này làm phát_sinh một khoản " rò_rỉ " tiền điện mà không phải do khách_hàng .
+Theo minh_hoạ của công_ty điện_lực , một khách_hàng tiêu_thụ 292kWh trong 31 ngày ( kỳ hoá_đơn 13-3 đến 12-4 ) , số ngày sử_dụng điện theo giá cũ là 7 ngày ( tính đến thời_điểm biểu giá điện mới có hiệu_lực ngày 20-3 ) và số ngày dùng điện tính theo giá mới là 24 ngày .
+Tuy_nhiên , cách mà công_ty điện_lực vận_dụng các biểu giá điện cũ và mới để tính tiền điện lại không hợp_lý .
+Cụ_thể , công_ty điện_lực phân_bổ số kWh điện trong mỗi bậc giá điện để áp_dụng cho 2 biểu giá khác nhau .
+Với 50kWh ở bậc 1 , công_ty điện_lực đã phân_bổ 11kWh cho 7 ngày đầu ( tính theo biểu giá điện cũ ) và 39kWh cho 24 ngày sau ( tính theo biểu giá điện mới ) .
+Cách phân_bổ cũng tương_tự ở các bậc tiếp_theo .
+Như_vậy , mặc_dù tổng_số kWh điện phân_bổ cho 7 ngày đầu vẫn là 66kWh và 24 ngày sau là 226kWh , song cách tính này rất bất_hợp_lý bởi thời_gian có tính tuần_tự và sự gia_tăng số kWh điện_năng tiêu_thụ cũng phải theo kiểu luỹ kế , chứ không_thể " nhảy_cóc " giữa 2 biểu giá theo 2 thời_kỳ như_vậy được .
+Khách_hàng không_thể chỉ dùng 11kWh trong 7 ngày đầu rồi " để_dành " 39kWh điện cho từ 7 ngày sau đó để áp_dụng biểu giá mới .
+Nhìn theo một chiều_hướng khác , trong mỗi biểu giá điện cũ và mới , ứng với 66kWh và 226kWh cho 2 giai_đoạn , việc phân_bổ chỉ 11kWh điện ở bậc 1 , 11kWh ở bậc 2 , 23kWh bậc 3 và 21kWh bậc 4 trong biểu giá điện cũ cũng cho thấy tính bất_hợp_lý của nó .
+Trong khi hạn_mức ở bậc 1 lên đến 50kWh thì tại_sao khách_hàng chỉ được tính cho 11kWh , còn lại chuyển sang các bậc giá cao hơn ?
+Tương_tự , tại_sao khách_hàng chỉ được phân_bổ 11kWh cho bậc 2 ( hạn_mức 50 kWh ) , 23kWh cho bậc 3 ( hạn_mức 100 kWh ) và 21kWh còn lại cho bậc 4 ( hạn_mức 100 kWh ) trong số 66kWh , trong khi hạn_mức điện tiêu_thụ được tính cho từng bậc khách_hàng sử_dụng vẫn chưa hết ?
+Rõ_ràng cách tính này đã vô_tình hay cố_tình đẩy mức điện_năng tiêu_thụ của khách_hàng lên tính ở bậc giá cao hơn .
+Tổng_số tiền mà khách_hàng phải trả theo cách tính này lên đến 594.715 đồng ( chưa tính 10 % VAT ) .
+Theo cách tính hợp_lý hơn , trong 66kWh phân_bổ cho 7 ngày đầu , 50kWh trong đó nên được tính theo giá bậc 1 , 16kWh tiếp_theo sẽ được phân_bổ cho mức giá bậc 2 .
+Cách tính này phù_hợp với thời_hiệu 7 ngày của biểu giá cũ đến ngày 20-3 .
+Như_vậy , tổng_số tiền thanh_toán cho cả 292kWh điện chỉ là 541.046 đồng ( chưa tính VAT ) .
+Có_nghĩa cùng một mức điện_năng tiêu_thụ và cũng là mức sản điện mà EVN cung_ứng , khách phải trả nhiều hơn 53.702 đồng chỉ vì cách tính .
+Những người sử_dụng điện càng nhiều , hai cách tính tạo ra sự chênh_lệch càng lớn .
+Con_số này xấp_xỉ khoảng 10 % số tiền điện phải trả , tức tương_đương hoặc cao hơn tỉ_lệ tăng_giá điện bình_quân 8,3 % của biểu giá điện mới .
+
+Công_nhân ngành điện phun nước_cất làm sạch sứ khi đường_dây đang truyền_tải điện - ẢNH : Đ._HÙNG

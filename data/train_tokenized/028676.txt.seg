@@ -1,0 +1,54 @@
+Dãy số Fibonacci và những bí_ẩn trong tự_nhiên
+
+Bạn có từng thắc_mắc vì_sao hoa_loa_kèn có 3 cánh , hoa cúc_vạn_thọ 13 cánh , hoa_cúc tây 21 cánh , hoa_cúc thường có 34 hoặc 55 hoặc 89 cánh ?
+
+Fibonacci là dãy số kinh_điển trong toán_học được tìm thấy cách đây hơn 800 năm .
+Đến nay các nhà_khoa_học phát_hiện nhiều trùng_hợp thú_vị về dãy số này trong tự_nhiên .
+Dãy Fibonacci là dãy vô_hạn các số_tự_nhiên bắt_đầu bằng 1 và 1 , sau đó các số tiếp_theo sẽ bằng tổng của 2 số liền trước nó .
+Cụ_thể , các số đầu_tiên của dãy Fibonacci là 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 , 55 , 89 , 144 , 233 , 377 , 610 ...
+2 bài_toán thỏ và ong
+Leonardo_Fibonacci là nhà_toán_học người Ý , được một_số người xem là " nhà_toán_học tài_ba nhất_thời Trung_cổ " .
+Tên_tuổi của ông gắn liền với dãy Fibonacci .
+Dãy số Fibonacci công_bố vào năm 1202 trong cuốn sách Liber_Abacci , được tìm ra qua 2 bài_toán kinh_điển : bài_toán con thỏ và bài_toán số " cụ tổ " của một con ong đực .
+Bài_toán thứ nhất đưa ra giả_thiết các đôi thỏ nếu đủ 2 tháng tuổi thì sau mỗi tháng sẽ đẻ được một đôi thỏ con ( giả_sử các đôi thỏ luôn gồm 2 con đực và cái và không chết ) .
+Từ một đôi thỏ sơ_sinh ở tháng đầu_tiên , Finonnaci muốn tính số thỏ có được ở 1 tháng bất_kỳ .
+Sau khi thống_kê , Fibonacci nhận_thấy tháng thứ 1 và tháng 2 chỉ có 1 đôi thỏ .
+Tháng thứ 3 có 2 đôi , tháng thứ 4 có 3 đôi , tháng 5 có 5 đôi , và cứ thế , số thỏ tháng sau sẽ bằng tổng_số thỏ của 2 tháng trước cộng lại .
+Bài_toán thứ hai yêu_cầu tìm số tổ_tiên của loài ong đực .
+Nhiều người chỉ biết đến Fibonacci qua bài_toán con thỏ , nhưng thật_ra còn bài_toán về nguồn_gốc của ong đực .
+Trong sinh_học , ong nếu được thụ_tinh - tức có cả bố và mẹ , sẽ thành ong cái , ngược_lại sẽ là ong đực .
+Khi đi tìm nguồn_gốc của ong đực , Fibonacci nhận_thấy : nếu bắt_đầu với 1 con ong đực thì thế_hệ trước của nó là 1 con ong cái .
+Thế_hệ trước con ong cái này là 2 con ong gồm 1 đực , 1 cái .
+Thế_hệ trước đó nữa sẽ bao_gồm 3 con ong gồm 1 ong cái ( sinh ra ong đực ) và 2 ong đực và cái ( sinh ra ong cái ) .
+Cứ thế tính tiếp_tục ta cũng sẽ được dãy 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 55 …
+Quan_hệ với tỉ_lệ vàng
+Trong toán_học và nghệ_thuật , hai số được coi có tỉ_lệ vàng nếu tỉ_số giữa tổng 2 số đó với số lớn bằng tỉ_số giữa số lớn với số nhỏ .
+Khi giải phương_trình , ta được tỉ_lệ này xấp_xỉ 1,61803 .
+Còn trong dãy Finonacci , tỉ_lệ giữa 2 số liên_tiếp nhau gần bằng con_số này .
+Ví_du : 3/2 = 1,5 ; 5/3 = 1,66 ; 8/5 = 1,6 ; 13/8 = 1,625 … Khi các số trong dãy Finonacci càng lớn thì tỉ_số giữa càng gần tỉ_lệ vàng .
+Đây là tỉ_lệ được sử_dụng rất nhiều trong nghệ_thuật vì sẽ tạo ra sự hài_hoà và cân_đối .
+Ngoài_ra , khi vẽ các hình_vuông và hình_chữ_nhật với độ dài cạnh tương_ứng với các số trong dãy Fibonacci và nối các điểm biểu_diễn tỉ_lệ vàng với nhau ta được đường_cong hoàn_hảo như trên .
+Sự kì_diệu trong tự_nhiên
+Trong tự_nhiên có nhiều điều trùng_hợp với dãy số Fibonacci hay tỉ_lệ vàng .
+Hầu_hết các bông hoa có số cánh hoa là một trong các số : 3 , 5 , 8 , 13 , 21 , 34 , 55 hoặc 89 .
+Ví_dụ : Hoa_loa_kèn có 3 cánh , hoa mao lương vàng có 5 cánh , hoa cải ô_rô thường có 8 cánh , hoa cúc_vạn_thọ có 13 cánh , hoa_cúc tây có 21 cánh , hoa_cúc thường có 34 , hoặc 55 hoặc 89 cánh .
+Các số Fibonacci cũng xuất_hiện trong bông hoa hướng_dương .
+Cụ_thể trong hoa hướng_dương , những nụ nhỏ được xếp thành 2 tập_hợp các đường_xoắn_ốc : một tập cuộn theo chiều kim đồng_hồ , một ngược theo chiều kim đồng_hồ .
+Số các đường_xoắn_ốc hướng thuận chiều kim đồng_hồ thường là 34 còn ngược chiều kim đồng_hồ là 55 .
+Đôi_khi các số này là 55 và 89 , và thậm_chí là 89 và 144 .
+Tất_cả các số này đều là các số Fibonacci kế_tiếp nhau .
+Nếu quan_sát các ' mắt ' trên vỏ của một trái khóm chúng_ta cũng thường thấy được số mắt trên 2 đường vòng_cung chéo trên vỏ trái thơm là 2 số Fibonacci nào đó ví_dụ như 13 và 21 .
+Số nhánh của 1 cây từ khi đi từ gốc lên ngọn thường cũng tuân theo dãy Fibonacci khi từ 1 nhánh lên 2 nhánh , 3 nhánh rồi 5 , 8 , 13 nhánh .
+Những chiếc lá trên một nhành cây cũng mọc cách nhau những khoảng tương_ứng với dãy số Fibonacci .
+Ngoài_ra còn rất nhiều hình_ảnh khác trong tự_nhiên có liên_quan đến dãy Fibonacci và tỉ_lệ vàng .
+
+Bài_toán con thỏ khởi_nguồn cho dãy Fibonacci - Ảnh : abc.net.au .
+Trong ảnh , màu đỏ là ong đực , màu xanh là ong cái - Ảnh : Dave_Cushman .
+Đường cong biểu_diễn tỉ_lệ vàng cũng như các dãy số Fibonacci - Ảnh : Livescience .
+Các số Fibonacci thể_hiện trên hoa hướng_dương - Ảnh : Slideplayer.com.br .
+Số mắt khóm trên những vòng chéo có liên_quan đến dãy số Fibonacci - Ảnh : wordpress.com .
+Số nhánh trên một cây - Ảnh : worcester.com.au .
+Hình_dạng một vỏ ốc giống như đường_cong tỉ_lệ vàng - Ảnh : Alamy .
+Lỗ tai người và đường_cong tỉ_lệ vàng - Ảnh : Alamy .
+Hình_ảnh các cơn bão thường thấy - Ảnh : Getty_Images .
+Khuôn_mặt người cân đối_với tỉ_lệ vàng - Ảnh : worcester.com.au

@@ -1,0 +1,31 @@
+Lan_toả công_tắc nụ_cười
+
+Sáng_chế có tên ' Lan_toả nụ_cười ' do nhóm NewCP gồm Nguyễn_Trần_Duy_Khang , Nguyễn_Đức_Hoàng , Huỳnh_Trung_Nhật , Nguyễn_Minh_Hiếu , Hoàng_Nghĩa - lớp 11 Trường THPT chuyên Lê_Quý_Đôn , Đà_Nẵng - thực_hiện .
+
+Tình_cờ xem được video bệnh_nhân ung_thư khi soi một chiếc gương đặc_biệt , phải cười mới có_thể thấy được ảnh của mình qua gương , giúp tâm_trạng người_bệnh phấn_chấn hơn , nhóm các bạn đã hình_thành ý_tưởng chế_tạo thiết_bị điều_khiển các vật_dụng bằng nụ_cười .
+Hệ_thống giúp con_người bằng nụ_cười có_thể điều_khiển bật / tắt đèn_điện .
+Cười xoa_dịu căng_thẳng
+Nhóm trưởng Duy_Khang nói dường_như chúng_ta ngày_nay đang bị cuốn vào vòng xoáy của công_việc và học_tập , vào những mối quan_hệ cá_nhân .
+Áp_lực , mệt_mỏi , căng_thẳng dồn_nén để rồi khi về đến nhà , dễ xảy ra những cuộc cãi_vã giữa các thành_viên trong gia_đình .
+" Lứa tuổi học_sinh cũng dần ít cười hơn .
+Nhiều bạn từ áp_lực tâm_lý , dần im_lặng và trầm_tính , thậm_chí dẫn đến trầm_cảm " - Duy_Khang bộc_bạch .
+Các thành_viên NewCP nhất_trí với nhau rằng cười là giải_pháp đơn_giản hiệu_quả nhất để xoa_dịu vấn_đề , đưa mọi người lại gần nhau hơn .
+Nhóm bạn cùng chế_tạo thiết_bị bao_gồm một camera , một bộ_xử_lý thông_tin , các dây nối và một thiết_bị bất_kỳ trong nhà .
+Camera sẽ nhận_diện nụ_cười truyền đến bộ_xử_lý thông_tin .
+Ở đây , máy_tính sử_dụng thuật_toán 68 Landmarks nhận_diện và so_sánh sự khác nhau giữa các điểm cơ_bản trên mặt mỗi người , từ đó xuất thông_tin đầu_ra là người sử_dụng có đang cười hay không .
+Nếu cười , thay_đổi trạng_thái của đèn đang kết_nối ( bật sang tắt hoặc tắt sang bật ) .
+Nụ_cười lúc này đóng vai_trò như một công_tắc .
+Hoàng_Nghĩa thông_tin theo tiến_sĩ Isha_Gupta và Murray_Grossan , một nụ_cười ( dù là gượng_ép ) cũng có_thể đánh_lừa não bộ rằng con_người chúng_ta đang vui , từ đó kích_thích tiết ra các hormon tăng cảm_giác phấn_chấn và hạnh_phúc , giúp giảm cảm_giác thất_vọng , suy_sụp .
+Các hormon này sẽ góp_phần cải_thiện sức_khoẻ tinh_thần của con_người , giúp người dùng vui_vẻ hơn , yêu_đời hơn .
+Cải_thiện sức_khoẻ tinh_thần
+Nguyễn_Minh_Hiếu chia_sẻ khó_khăn nhất là thuật_toán để nhận_diện khuôn_mặt .
+Trong khoảng hai tháng thiết_kế , lập_trình cho sản_phẩm , nhóm đã đưa ra đến ba phiên_bản sử_dụng các thuật_toán xử_lý nụ_cười khác nhau .
+Hiện_tại sản_phẩm đã có_thể sử_dụng camera để nhận_diện hình_ảnh , video , xử_lý để kiểm_tra " cười " , sau đó laptop sẽ truyền_thông tin qua Arduino để điều_khiển bật / tắt đèn và một_số thiết_bị khác như loa , cửa ... với độ_chính_xác cao .
+Sau khi hoàn_thiện thiết_bị , nhóm đã đưa sản_phẩm đến Trường tư_thục chuyên_biệt Thanh_Tâm ( quận Ngũ_Hành_Sơn , Đà_Nẵng ) để thử_nghiệm .
+Các em học_sinh ở đây rất thích_thú khi một nụ_cười của mình có_thể làm căn phòng từ tối trở_thành sáng , hay đang im_ắng lại trở_nên vui_nhộn ( bật nhạc ) .
+Huỳnh_Trung_Nhật chia_sẻ : " Nhóm NewCP mong_muốn đưa sản_phẩm của mình đến nhiều hơn các trường chuyên_biệt dành cho trẻ khuyết_tật , trẻ tự kỷ , trầm_cảm để góp_phần cải_thiện sức_khoẻ tinh_thần của các em " .
+Các soeur hiệu_trưởng , hiệu phó Trường tư_thục chuyên_biệt Thanh_Tâm cho_biết rất ủng_hộ sáng_chế của nhóm NewCP .
+Ban_giám_hiệu trường mong_muốn nhóm phát_triển thêm các sản_phẩm có dạng đồ_chơi trẻ_em như đèn_kéo_quân , xe điều_khiển ... sử_dụng chính công_nghệ này .
+Theo các soeur , đồ_chơi có sự tiếp_cận trực_tiếp và thường_xuyên nhất với trẻ_em , từ đó sẽ có nhiều tác_động tích_cực hơn lên sức_khoẻ tinh_thần của những đứa trẻ đặc_biệt .
+
+Nhóm NewCP điều_khiển đèn_chiếu sáng bằng nụ_cười - Ảnh : U - Invent

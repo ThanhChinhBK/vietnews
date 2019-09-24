@@ -1,0 +1,38 @@
+Công_nghệ thẻ , ví điện_tử có an_toàn không ?
+
+Nhiều ngân_hàng , trung_gian thanh_toán và các nhà_cung_cấp dịch_vụ ví điện_tử đang phát_triển và áp_dụng nhiều công_nghệ mới nhằm đảm_bảo an_toàn tối_đa cho người dùng thanh_toán không tiền_mặt .
+
+Theo quy_định của Ngân_hàng Nhà_nước , từ năm 2019 , các ngân_hàng cần xác_thực OTP cho những giao_dịch có giá_trị lớn bằng các giải_pháp an_toàn bảo_mật cao , như phần_mềm tạo mã OTP ( soft OTP ) , thiết_bị nhận mã OTP ( Token ) , Token OTP loại nâng_cao , xác_thực bằng dấu_hiệu nhận_dạng sinh trắc học ...
+Quy_định này nhằm tăng_cường an_ninh bảo_mật các dịch_vụ ngân_hàng trực_tuyến , giảm_thiểu rủi_ro trong thanh_toán .
+Đầu năm 2019 , Ngân_hàng Quốc_tế ( VIB ) công_bố triển_khai thành_công giải_pháp an_toàn bảo_mật mới - MyVIB_Smart_OTP trong thanh_toán trực_tuyến trên Internet ( bao_gồm Internet_Banking và Mobile_Banking ) .
+Phần_mềm tạo mã MyVIB_Smart OTP cho_phép người dùng lấy mã OTP ngay trên ứng_dụng ngân_hàng di_động MyVIB thay_vì phải lấy qua SMS hoặc Token .
+Theo đó , khách_hàng VIB khi thực_hiện giao_dịch trực_tuyến với hạn_mức bất_kỳ sẽ có thêm lựa_chọn .
+Hình_thức tạo mã này có lợi_thế vượt_trội là không cần sóng điện_thoại , nên đặc_biệt thuận_tiện cho các khách_hàng đi du_lịch hay công_tác nước_ngoài không sử_dụng chế_độ chuyển vùng mà vẫn thực_hiện giao_dịch nhanh_chóng .
+Ngoài_ra , MyVIB_Smart OTP có khả_năng nhận_diện giao_dịch giá_trị cao và cung_cấp OTP nâng_cao tương_ứng cho chính giao_dịch đó .
+Nhờ vậy , khả_năng bảo_vệ giao_dịch cho khách_hàng được đảm_bảo hơn .
+Đại_diện VIB cho_biết ứng_dụng của họ cũng được áp_dụng những công_nghệ bảo_mật tiên_tiến nhất kết_hợp cùng việc giám_sát hệ_thống 24/7 x365 và kiểm_thử lỗ_hổng bảo_mật bằng các giải_pháp và công_nghệ tiên_tiến được thực_hiện bởi các chuyên_gia an_ninh mạng , giúp các lỗ_hổng an_ninh được nhận_biết nhanh_chóng và xử_lý kịp_thời .
+Trong khi đó , giải_pháp thanh_toán không tiếp_xúc ( contactless ) và công_nghệ thanh_toán QR của Ngân_hàng Sacombank đang được đông_đảo người dùng đón_nhận .
+Với hình_thức thanh_toán contactless , khách_hàng chỉ cần chạm thẻ không tiếp_xúc lên máy POS có công_nghệ NFC trong vài giây để hoàn_thành giao_dịch và không cần ký xác_nhận các hoá_đơn dưới 400.000 đồng .
+Với hình_thức thanh_toán QR , khách_hàng tải miễn_phí ứng_dụng tích_hợp nhiều giải_pháp tài_chính Sacombank_Pay từ Google_Play hoặc App_Store về thiết_bị di_động , tích_hợp thông_tin thẻ và dùng thiết_bị di_động quét mã QR tại các đơn_vị chấp_nhận giao_dịch để thanh_toán thay_vì dùng thẻ nhựa .
+Chủ thẻ không_chỉ có_thể quét mã QR để thanh_toán tại thị_trường Việt_Nam mà_còn trên phạm_vi toàn_cầu ...
+Các công_ty cung_cấp ví điện_tử được xem là những người đi đầu trong việc ứng_dụng công_nghệ nhằm đem đến sự tiện_lợi nhất cho người dùng trong quá_trình sử_dụng cũng như đảm_bảo an_toàn cao nhất cho người dùng lẫn tiền trong ví của họ .
+Theo tìm_hiểu của chúng_tôi , hầu_hết các ví điện_tử hiện_nay như : MoMo , VNPT Pay , Moca , AirPay … đều ứng_dụng công_nghệ xác_thực hai lớp ( 2 - Factor_Authentication ) vào các thanh_toán của người dùng , đặc_biệt là các giao_dịch có giá_trị lớn .
+Xác_thực 2 lớp là sự kết_hợp của một mật_khẩu do chính người dùng tự đặt và một mã xác_thực OTP được gửi tới số điện_thoại người dùng đăng_ký .
+Cách xác_thực này đang được hầu_hết các hãng công_nghệ hàng_đầu thế_giới như : Apple , Google , Amazon , Microsoft áp_dụng để bảo_mật tài_khoản người dùng .
+Một hình_thức xác_thực khác cũng được khá nhiều ví điện_tử hiện_nay áp_dụng là xác_thực bằng vân tay và khuôn_mặt ( FaceID ) .
+Đây là công_nghệ cho_phép người dùng quét vân tay hoặc nhận_dạng khuôn_mặt để xác_nhận khi đăng_nhập ( tất_nhiên chỉ với thiết_bị di_động có tích_hợp cảm_biến vân tay / nhận_dạng khuôn_mặt ) giúp đảm_bảo an_toàn cho tài_khoản nhưng vẫn đảm_bảo tiện_lợi và nhanh_chóng .
+Chẳng_hạn , ví AirPay áp_dụng xác_thực sinh trắc học đối_với các giao_dịch có giá_trị cao , khách_hàng phải thực_hiện xác_thực 2 lớp : mật_khẩu thanh_toán và mã OTP để xác_thực giao_dịch .
+" Chúng_tôi cũng xây_dựng hệ_thống quản_trị rủi_ro dựa trên thói_quen giao_dịch của người dùng để phát_hiện , cảnh_báo các giao_dịch bất_thường và tiến_hành ngăn_chặn các hành_vi gian_lận .
+Số tiền giao_dịch tối_đa 1 ngày của người dùng cũng được giới_hạn để hạn_chế rủi_ro cho khách_hàng " , đại_diện AirPay cho_biết .
+Bên cạnh đó , một_số ví còn áp_dụng những công_nghệ hiện_đại hơn nhằm đảm_bảo an_toàn tuyệt_đối cho người dùng cũng như các giao_dịch của họ .
+Chẳng_hạn ví MoMo có tính_năng tự_động khoá ứng_dụng khi người dùng không thao_tác trong vòng 5 phút hoặc ngay khi tắt ứng_dụng .
+MoMo cũng không có chế_độ lưu mật_khẩu , người dùng luôn cần nhập lại mật_khẩu mỗi lần mở ứng_dụng .
+Đặc_biệt , một_số ví_như MoMo còn có khả_năng tự_động phát_hiện giao_dịch bất_thường để cảnh_báo cho khách_hàng .
+Với công_nghệ này , hệ_thống bảo_mật thông_minh sẽ nhận_diện các giao_dịch bất_thường và ngay_lập_tức chặn giao_dịch , khoá tài_khoản MoMo , đồng_thời cảnh_báo tới người dùng ...
+
+Đồ_hoạ : TƯỜNG_VY .
+Đồ_hoạ : TƯỜNG_VY .
+Đồ_hoạ : TƯỜNG_VY .
+Đồ_hoạ : TƯỜNG_VY .
+Đồ_hoạ : TƯỜNG_VY .
+Đồ_hoạ : TƯỜNG_VY

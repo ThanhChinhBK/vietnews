@@ -1,0 +1,12 @@
+Cách nhận_biết xuất_xứ sản_phẩm qua mã vạch
+
+Các sản_phẩm thường ghi rõ xuất_xứ như “ made in Vietnam ” ... nhưng nhiều nơi lại không ghi khiến việc xác_định xuất_xứ nhiều sản_phẩm trở_thành “ mê_hồn trận ” .
+
+Mỗi sản_phẩm đều có một góc in biểu_tượng mã_vạch .
+Để biết xuất_xứ của mặt_hàng , người tiêu_dùng chỉ cần xem 3 chữ_số đầu_tiên của mã_vạch , ví_dụ nếu 3 chữ_số đầu là 893 sẽ biết ngay mặt_hàng này được sản_xuất ở Việt_Nam , nếu là 690 , 691 , 692 , 693 ... là của Trung_Quốc ...
+Người tiêu_dùng cũng có_thể dùng ứng_dụng Barcode_Scanner và QR Code_Scanner trên Android và iOS giúp kiểm_tra xuất_xứ hàng_hoá .
+Mã_vạch là dấu_hiệu đáng tin_cậy , vì người_ta có_thể làm giả bất_kỳ chi_tiết nào nhưng ít thấy làm giả mã_vạch .
+Tại Việt_Nam , hàng_hoá của các nước trong khu_vực đang được nhập_khẩu khá nhiều , đặc_biệt trong mùa tết .
+Người tiêu_dùng có_thể nhận_biết 3 số đầu của mã sản_phẩm hàng_hoá theo danh_mục mã_vạch của các nước là thành_viên của Tổ_chức Mã_vạch quốc_tế ( EAN ) để biết xuất_xứ ( xem bảng ) .
+
+Mã_vạch có 3 số đầu là 893 ( bên phải ) là trên sản_phẩm của Việt_Nam - Ảnh : T.T . D .

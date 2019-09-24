@@ -1,0 +1,39 @@
+Facebook đã làm gì với mỗi bức ảnh bạn đăng lên ?
+
+Với mỗi bức ảnh người dùng đăng lên nền_tảng , Facebook sẽ nhúng mã theo_dõi bí_mật để thu_thập mọi động_thái liên_quan tới nó rồi sử_dụng cho nhiều mục_đích , trong đó có quảng_cáo .
+
+Theo tạp_chí Forbes , kể từ sau vụ bê_bối lộ thông_tin cá_nhân của hàng chục triệu tài_khoản Facebook liên_quan công_ty phân_tích dữ_liệu chính_trị Cambridge_Analytica , cái tên Facebook gần_như đã đồng_nghĩa với nghi_vấn vi_phạm quyền riêng_tư của người dùng .
+Theo_dõi từ_A_đến_Z
+Ngay trong tuần qua , khi Uỷ_ban thương_mại Liên_bang ( FTC ) công_bố mức phạt 5 tỉ USD kỷ_lục vì vi_phạm quyền riêng_tư với Facebook , một nhà_nghiên_cứu bảo_mật mạng tiếp_tục xới lại vụ_việc vạch trần thủ_đoạn cho thấy Facebook đã theo_dõi hình_ảnh người dùng đăng_tải " từ A - Z " như_thế_nào .
+Anh Edin_Jusupovic khẳng_định trên tài_khoản Twitter : " Facebook đang nhúng_mã theo_dõi bí_mật bên trong mỗi bức ảnh bạn tải về từ nền_tảng của họ " .
+Chuyên_gia nghiên_cứu bảo_mật mạng của Úc và cũng là một sinh_viên luật tại ĐH New_England ( UNE ) cho_biết anh " đã phát_hiện sự bất_thường trong cấu_trúc khi quan_sát bảng mã dữ_liệu của một file hình_ảnh từ một người gửi ban_đầu không xác_định , trong đó chứa cái mà tôi hiểu là một chỉ_dẫn đặc_biệt IPTC " .
+IPTC là viết tắt của cụm_từ " International_Press_Telecommunications_Council " ( Hội_đồng viễn_thông_báo_chí quốc_tế ) .
+IPTC là đơn_vị đã phát_triển ra phương_pháp lưu_trữ thông_tin kiểu chữ trong ảnh , đặt ra các tiêu_chuẩn xuất_bản về mặt kỹ_thuật , trong đó bao_gồm những tiêu_chuẩn cho dữ_liệu metadata ( siêu dữ_liệu ) hình_ảnh .
+Nói cách khác , các chỉ_dẫn IPTC là một bộ metadata mô_tả và cung_cấp thông_tin về dữ_liệu khác .
+Metadata của ảnh cho_phép những thông_tin liên_quan được truyền_tải theo một file hình_ảnh , theo cách_thức truyền_tải dữ_liệu để một phần_mềm , phần cứng , những người dùng cuối đều có_thể hiểu được , bất_chấp định_dạng thông_tin .
+Anh Jusupovic mô_tả việc nhúng mã bí_mật vào ảnh này của Facebook như là " một cấp_độ theo_dõi cực sốc " .
+Bởi với nó , " người_ta hoàn_toàn có khả_năng theo_dõi những bức_ảnh không_chỉ trong khuôn_khổ Facebook , mà ra cả tới những nơi khác ngoài nền_tảng này với mức độ_chính_xác rất kinh_khủng về việc ai là người đăng bức ảnh đó đầu_tiên ( và nhiều hơn_nữa ) " .
+" Các chỉ_dẫn đặc_biệt IPTC " theo đánh_giá của Jusupovic giống như các lớp watermark ( một công_cụ đánh_dấu lên hình_ảnh , xác_định quyền_sở_hữu ) mà Facebook sử_dụng để đánh_dấu ( tag ) vào hình_ảnh bằng một loại mã bí_mật của họ .
+Theo đó , Jusupovic cảnh_báo Facebook có_thể theo_dõi người dùng mà không để lại bất_cứ chứng_cứ nào của việc này .
+Và dĩ_nhiên Facebook nhúng các mã này vào để " theo chân " hình_ảnh của họ đi khắp_nơi sau khi người dùng tải nó lần đầu lên nền_tảng mạng xã_hội .
+Facebook khai_thác mã nhúng bí_mật trên ảnh ra sao ?
+Thủ_thuật này thực_tế không mới , và ở cấp_độ cơ_bản cũng không có ai giấu_giếm về nó .
+Bởi ở phương diện tích_cực , nó được dùng để theo_dõi , bảo_vệ tác quyền hình_ảnh , giải_quyết những tranh_chấp liên_quan xâm_phạm bản_quyền , giúp người dùng có thêm công_cụ bảo_vệ họ trong thế_giới số .
+Ngoài_ra , nó cũng có_thể được dùng trong các chiến_dịch quảng_cáo nhắm vào những đối_tượng cụ_thể và theo_dõi mối liên_hệ giữa các người dùng khác nhau .
+Với kỹ_thuật nhúng mã nói trên , khi có trong tay một bức_ảnh , ta sẽ biết mình lấy nó từ nguồn nào .
+Theo một chuyên_gia phân_tích trên trang Hackerfactor , metadata đã được bổ_sung từ năm 2016 .
+Cũng như_thế , với phương_pháp mã_hoá này , Facebook sẽ biết ngay một bức_ảnh được tải lên nền_tảng của họ là ảnh lần đầu đăng lên hay không .
+Nhưng dĩ_nhiên không_chỉ là vậy .
+Tài_khoản SongForPenny , một thành_viên trên diễn_đàn Reddit có những giải_thích rất rõ_ràng , chi_tiết về cách Facebook theo_dõi người dùng với dữ_liệu theo_dõi được nhúng trong các bức_ảnh được tải lên .
+Theo đó , khi bạn đăng một bức_ảnh lên Facebook , mạng xã_hội này sẽ " tag " nó với một mã bí_mật nhúng vào , chẳng_hạn là chuỗi ký_tự " A 008 E8 E9 7 FA 55 " .
+Sau đó , một người bạn " A " trên Facebook tải bức_ảnh đó về .
+Người A này gửi hình_ảnh qua tin nhắn cho một bạn khác , một người bạn không biết là bạn " B " , và một người bạn khác của họ nữa là bạn C.
+Bạn B không hoạt_động trên Facebook , mà chỉ có_thể chủ_yếu tham_gia một diễn_đàn mạng khác , ví_dụ như Reddit .
+Khi bạn B đăng bức hình đó lên trang Reddit , Facebook sẽ " biết " ngay chuyện này vì hệ_thống rà quét của họ hoạt_động trên mọi nền_tảng web .
+Sau khi quan_sát thấy điều này vài lần , Facebook " hiểu " ra bạn là một người nào đó có quan_hệ gần với bạn B.
+Và từ đó Facebook cũng biết những mối quan_hệ " bạn của bạn " của bạn là gì , biết về một người mà chính bản_thân bạn cũng không biết .
+Và đây là một_cách khác nữa để Facebook hiểu được các mối liên_hệ giữa mọi người .
+" Khi người thứ nhất đăng lên một loạt ảnh giống như người thứ 2 đã đăng , vậy thì Facebook sẽ hiển_thị cho họ cùng những nội_dung quảng_cáo giống nhau " , đó chỉ là một ví_dụ giải_thích cho cách khai_thác dữ_liệu này của Facebook từ tài_khoản SongForPenny .
+
+Ảnh chụp bảng mã của anh Edin_Jusupovic để chứng_minh Facebook đã " nhúng " các mã theo_dõi bí_mật với hình_ảnh người dùng đăng lên Facebook như_thế_nào - Ảnh : EDIN_JUSUPOVIC .
+Tỉ_phú Mark_Zuckerberg , ông chủ Facebook , đang trình_bày tại một sự_kiện của công_ty tại San_Jose , Mỹ - Ảnh : AFP

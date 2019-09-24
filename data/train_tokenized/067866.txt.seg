@@ -1,0 +1,16 @@
+Đà_Nẵng : Người_dân có_thể tự kiểm_soát chỉ_số điện hàng ngày
+
+Đó là tiện_ích độc lạ vừa được ngành điện TP. Đà_Nẵng áp_dụng lần đầu_tiên .
+
+Đây là tiện_ích độc_đáo và lần đầu_tiên triển_khai trên cả nước .
+Ý_tưởng phát_triển hệ_thống tra_cứu chỉ_số điện hàng ngày , tự_động cảnh_báo sản_lượng điện tiêu_thụ hình_thành trên cơ_sở phát_triển hệ_thống đo xa , thực_hiện chủ_trương minh_bạch chỉ_số công_tơ điện .
+Và quan_trọng nhất là cung_cấp cho người_dân một công_cụ để khách_hàng tự theo_dõi , kiểm_tra hàng ngày chỉ_số điện của gia_đình , giúp khách_hàng chủ_động điều_chỉnh kế_hoạch sử_dụng điện phù_hợp ; kịp_thời phát_hiện sản_lượng điện tăng bất_thường do rò_rỉ , thất_thoát điện_năng ; không gây phiền_hà khách_hàng khi ghi_nhận chỉ_số điện .
+Đồng_thời , xoá_bỏ những thông_tin tiêu_cực , những thông_tin suy_diễn về việc không minh_bạch chỉ_số điện , ghi sai chỉ_số điện …
+Theo tìm_hiểu của PV báo Người Đưa_Tin , hệ_thống này cập_nhật chỉ_số công_tơ điện 4 lần / ngày , mỗi lần đo cách nhau 6 tiếng ; Hiển_thị sản_lượng điện đã tiêu_thụ trong kỳ , từ ngày đầu kỳ đến thời_điểm gần nhất hệ_thống thu_thập được .
+Tạm tính hoá_đơn tiền điện theo sản_lượng đã ghi_nhận ; Có biểu_đồ so_sánh sản_lượng điện tiêu_thụ , số ngày sử_dụng điện , so với 02 tháng trước đó và cùng kỳ năm trước ; Tự_động cảnh_báo sản_lượng điện vượt quá ngưỡng thiết_lập ( khách_hàng tự thiết_lập , có 2 tuỳ chọn vượt quá sản_lượng điện thiết_lập hoặc quá tỷ_lệ % thiết_lập so với tháng trước ) gửi đến khách_hàng qua email , sms .
+Các tiện_ích bổ_sung : tra_cứu lịch tạm ngừng cung_cấp điện tra_cứu lịch_sử nhận email , sms ; chức_năng tính tiền điện trong kỳ đổi giá theo sản_lượng của khách_hàng ; chức_năng tính tiền điện theo sản_lượng của khách_hàng theo giá cũ và giá mới để so_sánh mức tăng so với biểu giá cũ .
+Người_dân sẽ chủ_động kiểm_soát được số điện hàng ngày , biết được tiền điện tạm tính tại thời_điểm tra_cứu thì khách_hàng còn có_thể thiết_lập được mức cảnh_báo nếu sản_lượng điện tiêu_thụ vượt quá ngưỡng thiết_lập .
+Theo ngành điện TP. Đà_Nẵng , có 2 tuỳ chọn thiết_lập : theo sản_lượng điện hoặc theo tỷ_lệ_phần_trăm so với tháng trước .
+Ví_dụ , nếu khách_hàng thiết_lập ngưỡng cảnh_báo 300kWh và 10 % thì hàng ngày hệ_thống kiểm_tra các ngưỡng thiết_lập này , nếu lượng điện đã tiêu_thụ hiện_tại vượt quá 300kWh hoặc vượt 10 % so với cùng kỳ tháng trước thì sẽ gửi email cảnh_báo ngay cho khách_hàng .
+
+Người_dân TP. Đà_Nẵng có_thể theo_dõi , tự kiểm_soát chỉ_số điện hàng ngày .

@@ -1,0 +1,27 @@
+Ứng_dụng nhận_biết mặt người của sinh_viên
+
+Công_trình của Nguyễn_Thành_An và Nguyễn_Phát_Tài có_thể ứng_dụng trong an_ninh , giám_sát , tối_ưu công_cụ tìm_kiếm từ kho dữ_liệu hình_ảnh ...
+
+Nguyễn_Thành_An và Nguyễn_Phát_Tài ( ĐH Khoa_học_tự_nhiên - ĐH Quốc_gia TP. HCM ) giành giải nhất lĩnh_vực công_nghệ_thông_tin Giải_thưởng sinh_viên nghiên_cứu khoa_học Euréka 2017 với đề_tài " Tổng_hợp và tìm_kiếm trên video dựa vào phát_hiện và nhận_biết mặt người " .
+Sản_phẩm là hệ_thống xác_định , ghi_nhớ diện_mạo con_người , có_thể ứng_dụng trong an_ninh , giám_sát , nhà thông_minh , tối_ưu công_cụ tìm_kiếm từ kho dữ_liệu hình_ảnh ...
+Quét mặt người trong hàng ngàn thước phim
+Để dễ hình_dung , Phát_Tài lấy ví_dụ : " Nếu khán_giả thích xem nhân_vật bà nội Dadisa trong phim Cô_dâu 8 tuổi dài hơn 2.100 tập , hệ_thống sẽ tự_động tìm_kiếm và tổng_hợp những phân_cảnh có đối_tượng này .
+Tương_tự , các clip tường_thuật kỳ họp Quốc_hội dài hơn hai tiếng , người dùng có_thể ra_lệnh cho hệ_thống nhận_diện một_số đại_biểu mà họ quan_tâm và tách phần phát_biểu đó để tiện theo_dõi " .
+Hiện_tại , các trang_web hầu_hết tìm_kiếm video dựa theo tiêu_đề , mô_tả bằng chữ .
+Tuy_nhiên , hệ_thống này tìm_kiếm dựa trên nội_dung hình_ảnh , quét toàn_bộ thước phim , nhận_diện từng người lạ , người quen ( so với bộ dữ_liệu đã được huấn_luyện ) và ghi_nhớ thời_gian họ xuất_hiện .
+Nhóm đã chạy chương_trình trên kho video " ngốn " khoảng 16GB về 500 người nổi_tiếng như chính_trị_gia , nghệ_sĩ trong và ngoài nước .
+Về bản_chất , nhóm sinh_viên đã xây dựng mô hình mạng neuron học sâu ( deep learning ) trong trí_tuệ_nhân_tạo , có khả năng học cách phân_loại hình_ảnh , thậm_chí tốt hơn con_người trong một_số trường_hợp .
+Thành_An cho_biết một_số ứng_dụng khác của hệ_thống như : trên nền_tảng di_động giúp mở khoá điện_thoại bằng nhận_diện khuôn_mặt ( face ID ) của iPhoneX ; tích_hợp vào camera an_ninh tại văn_phòng , trường_học để nhận_biết ai bước qua cửa vào thời_gian nào ; tích_hợp vào hệ_thống nhà thông_minh , giúp truyền_hình , máy_lạnh biết cách " ứng_xử " phù_hợp với từng thành_viên trong gia_đình , thậm_chí thiết_lập cơ_chế cảnh_báo nếu có người lạ vào nhà ...
+Thuê máy_chủ ở Singapore , Hoa_Kỳ
+Để phục_vụ công_tác nghiên_cứu , nhóm đã thuê khoảng bốn máy_chủ ( server ) ở Singapore với mức 5-10 USD / tháng .
+Riêng hai ngày thi Euréka , nhóm tốn hơn 200 USD để thuê server tốt hơn tại Hoa_Kỳ .
+Mặc_dù trong nước có cung_cấp dịch_vụ này nhưng phương_thức thanh_toán rườm_rà , lắp_đặt tốn thời_gian nên nhóm chọn cách thuê máy từ xa " tốn_kém nhưng tiện hơn " .
+" Điều_kiện máy_móc trong nước cũng còn hạn_chế , sinh_viên chủ_yếu tự_lực_cánh_sinh " , An cho_biết khi đang nghiên_cứu thạc_sĩ năm đầu .
+" Mỗi lần xử_lý bộ dữ_liệu 16GB cần siêu máy_tính trong 4-8 tiếng .
+Nhưng không phải lúc_nào cũng có tiền thuê nên nhóm chủ_yếu sử_dụng máy_tính_cá_nhân mất 12-24 tiếng .
+Với nghiên_cứu lớn hơn có_khi phải chạy hai tuần , một tháng " .
+Cho_rằng cuộc_sống là người thầy thứ hai , An và Tài từng xách balô sang Google và Viện JAIST ( Nhật ) thực_tập theo đúng hướng nghiên_cứu .
+Khi trở_về các bạn đủ " cứng_cáp " để hoàn_thiện đề_tài tham_dự Euréka .
+" Nhóm theo_đuổi đề_tài này từ cuối năm hai vì tin vào xu_thế ứng_dụng và khả_năng thương_mại cao của công_nghệ nhận_diện gương_mặt ở hiện_tại và tương_lai " - Thành_An chia_sẻ .
+
+Thành_An , Phát_Tài ( từ trái qua ) trong lễ trao Giải_Euréka 2017 - Ảnh : H.T .

@@ -1,0 +1,30 @@
+Máy kiểm_soát nồng_độ cồn tự_động ' khoá ' xe_máy
+
+Thiết_bị gắn trên xe_máy giúp người uống rượu_bia tự đo nồng_độ cồn , nếu vượt mức cho_phép xe sẽ không nổ máy và tự_động báo về điện_thoại cho người_thân biết .
+
+Với đề_tài thiết_bị kiểm_soát thông_minh và nâng_cao an_toàn cho lái_xe khi sử_dụng rượu_bia , bạn Nguyễn_Văn_Sỹ , học_sinh lớp 11/2 Trường THPT Phan_Châu_Trinh ( huyện Tiên_Phước , Quảng_Nam ) đã ẵm giải nhì cuộc_thi Khoa_học_kỹ_thuật tỉnh Quảng_Nam dành cho học_sinh trung_học năm_học 2017-2018 .
+Gần_gũi với cuộc_sống
+Sỹ kể từ cuối lớp 10 , khi nhà_trường phát_động phong_trào sáng_tạo , Sỹ hình_thành nhiều ý_tưởng nhưng muốn phải tạo ra một thiết_bị gì gần_gũi với cuộc_sống thường_nhật quanh mình hơn .
+Bạn kể nhiều lần thấy người_thân trong gia_đình cũng như hàng_xóm thường hay uống rượu_bia xong thì chạy xe_máy về nhà , có người té ngã giữa đường phải nhập_viện cấp_cứu .
+" Mình le_lói ý_tưởng có thiết_bị đo nồng_độ cồn người sử_dụng rượu_bia .
+Thiết_bị đó phải gắn với xe_máy , để làm_sao nếu nồng_độ cồn vượt mức cho_phép , xe sẽ không hoạt_động được " - Sỹ kể lại .
+Sau thời_gian dài mày_mò , phát_triển thêm ý_tưởng đa_năng cho sản_phẩm , phải đến nửa đầu lớp 11 , Sỹ mới chế_tạo được thiết_bị kiểm_soát thông_minh và nâng_cao an_toàn cho lái_xe khi sử_dụng rượu_bia .
+Thiết_bị này có các chức_năng như giúp người lái biết được nồng_độ cồn trong hơi thở và máu , chỉ cho_phép khởi_động xe sau khi đã kiểm_tra nồng_độ cồn qua khí thở , cảnh_báo nguy_hiểm khi nồng_độ cồn quá cao và tự_động liên_lạc cho người_thân .
+Ngoài_ra thiết_bị còn định_vị vị_trí người say rượu_bia thông_qua tin_nhắn hay Google maps để người_thân dễ_dàng xác_định .
+" Thiết_bị này gần_gũi với cuộc_sống , có_thể phần_nào giảm đi số vụ tai_nạn đáng tiếc xảy ra cho người lái và người tham_gia giao_thông trên đường " - Sỹ nói .
+Đánh vào nhận_thức người lái_xe
+Về nguyên_lý hoạt_động thiết_bị , Sỹ cho biết đầu_tiên người lái_xe phải thổi vào một ống gắn ở đầu xe_máy để đo nồng_độ cồn .
+Khi thổi vào tức đã bật button nhận_biết có người thổi vào , đồng_thời cảm_biến MQ3 sẽ nhận_biết có nồng_độ cồn đi vào rồi xuất tín_hiệu ra cho Arduino xử_lý .
+Nếu nồng_độ chưa vượt ngưỡng cho_phép , Arduino sẽ gửi tín_hiệu tới relay để mở dây nguồn của IC xe vì đó là bộ_phận phát lửa trực_tiếp cho động_cơ có_thể hoạt_động .
+Màn_hình LCD sẽ hiển_thị nồng_độ cồn và báo cho người lái_xe biết " Có an_toàn " .
+Còn nếu nồng_độ cồn vượt ngưỡng cho_phép ( 0,2 mg / l khí thở ) , Arduino sẽ gửi tín_hiệu tới module relay để đóng dây nguồn IC xe_máy .
+Sau đó LCD hiển_thị nồng_độ cồn lên màn_hình và báo " Không an_toàn " .
+Lúc đó động_cơ xe_máy sẽ tự_động ngắt , người lái không_thể nổ máy xe được .
+Đồng_thời , điện_thoại sẽ tự_động gọi về một_số điện_thoại của người_thân đã được cài_đặt sẵn .
+Sử_dụng với tên danh_bạ " Nguy_hiểm " lúc đó , người_thân sẽ biết được độ cồn đã vượt ngưỡng cho_phép .
+Và một thao_tác giao_tiếp với thiết_bị định_vị là phải gửi tin nhắn tới thiết_bị định_vị thông_qua trình_duyệt để nhận_định vị_trí người lái_xe đã ngầm định sẵn để người_thân biết .
+Sỹ cho biết thiết_bị này không ngắt hẳn động_cơ của xe_máy ; khi muốn xe hoạt_động lại chỉ cần , gọi một người bình_thường không sử_dụng rượu_bia thổi vào ống đo thì có_thể nổ máy .
+Sau cuộc_thi , Sỹ áp_dụng cho người_thân và hàng_xóm đều được mọi người thích_thú , đánh_giá cao .
+" Nhiều chú cảnh_sát giao_thông cũng thấy thích_thú với thiết_bị này , muốn đem giới_thiệu trong các buổi tuyên_truyền về Luật giao_thông " - Sỹ kể .
+
+Thiết_bị kiểm_soát thông_minh và nâng_cao an_toàn cho lái_xe khi sử_dụng rượu_bia được gắn trên đầu xe_máy của Sỹ - Ảnh : L.T .

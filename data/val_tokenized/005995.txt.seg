@@ -1,0 +1,28 @@
+Trí_tuệ_nhân_tạo đánh_bại con_người trong game mê_cung
+
+Học cách định_hướng như con_người , chương_trình trí_tuệ_nhân_tạo mới nhất của Google , Deepmind , đã đánh_bại các game thủ trong trò_chơi mê_cung , The_Guardian đưa tin .
+
+Bối_cảnh là môi_trường ảo , DeepMind và game thủ có nhiệm_vụ truy_tìm phần_thưởng xuyên qua chuỗi phòng_ốc , đường đi xa_lạ và ngẫu_nhiên .
+Được trang_bị hệ_thống tế_bào lưới nhân_tạo , AI tỏ ra nhanh hơn và tận_dụng đường tắt thỉnh_thoảng xuất_hiện trong trò_chơi .
+Nhân_viên nghiên_cứu cao_cấp Dharshan_Kumaran chia_sẻ : " Nó hành_động như loài vật , chọn đường_thẳng bất_cứ nơi nào có_thể và đường tắt bất_kì lúc_nào xuất_hiện .
+Với tế_bào lưới , sự thể_hiện của AI tăng đáng_kể đến mức vượt mặt một tay_chơi chuyên_nghiệp " .
+Trước đó , các nhà_khoa_học phát_hiện về sự tồn_tại của tế_bào lưới nhân_tạo trong AI ( tế_bào lưới là nền_tảng cho hoạt_động xác_định phương_hướng , được xác_định ở người và động_vật_có_vú năm 2005 ) .
+Khi đào_tạo AI di_chuyển qua địa_hình , các nhà_khoa_học nhận_thấy AI tự phát_triển hoạt_động điện khá giống quá_trình diễn ra trong các tế_bào não chuyên_biệt phát_triển kỹ_năng điều hướng .
+Sau khi phát_hiện các tế_bào lưới nhân_tạo , nhóm nghiên_cứu chương_trình DeepMind tạo ra một phiên_bản tăng_cường và kết_quả là nó đánh_bại các game thủ chuyên_nghiệp trong trò_chơi .
+Kỳ_tích này đánh_dấu cột mốc quan_trọng trong lĩnh_vực trí_tuệ_nhân_tạo .
+Vì mặc_dù AI đã chứng_minh khả_năng siêu_phàm về nhận_diện vật_thể , game cờ_vây , Go , poker , nhưng về khả_năng điều hướng trong không_gian lại là thử_thách rất khác .
+Điều này tiết_lộ tiềm_năng phát_triển vượt_bậc cho các chương_trình thông_minh mô_phỏng hoạt_động não người .
+Ngoài_ra , phát_hiện này mở_đường cho những kỹ_sư máy_tính xây_dựng nhiều mô_hình giúp giới khoa_học hiểu hơn về não người .
+" Không cần các cuộc thử_nghiệm trên người hay động_vật , chúng_ta hoàn_toàn có_thể dùng AI và mạng_lưới neuron nhân_tạo để hiểu cách não bộ vận_hành , thực_hiện các chức_năng khác nhau lên cơ_thể " - Caswell_Barry nhà thần_kinh học công_tác tại University_College_London cùng làm_việc trong dự_án khẳng_định .
+Báo_cáo trên tạp_chí Nature ( đăng ngày 9-5 ) , các nhà_khoa_học mô_tả cách họ xây_dựng mạng_lưới tế_bào thần_kinh sâu , một chương_trình máy_tính với nhiều lớp neuron nhân_tạo xử_lý thông_tin .
+Sau đó , họ dạy chương_trình về điều hướng trong không_gian cơ_bản , cho nó một_số dấu_hiệu mã_hoá tốc_độ , phương_hướng như trong não chuột .
+AI cứ thế học và phản_hồi tốt hơn , có_thể dự_đoán nó đang ở đâu khi di_chuyển trong môi_trường ảo .
+¼ lượng neuron nhân_tạo trên mỗi lớp thuộc mạng_lưới tế_bào thần_kinh sâu đã hoạt_động như các tế_bào lưới sinh_học .
+Nói cách khác , AI đã nắm_bắt chiến_lược khám_phá thế_giới như não người đã trải qua .
+" Chúng_tôi ngạc_nhiên là chương_trình đã chạy hiệu_quả .
+Mức_độ giống nhau quá rõ rang " - Caswell chia_sẻ .
+Tế_bào lưới là nền_tảng cho quá_trình điều hướng ở người và các động_vật_có_vú .
+Các tế_bào hình lục_giác với kích_thước to_nhỏ khác nhau , thậm_chí nhiều tế_bào phủ lên nhau thành mạng_lưới vô_hình được cho là giúp động_vật_có_vú nhận_thức vị_trí của chúng và tính_toán đường đi ngắn nhất đến mục_tiêu .
+
+Mê_cung tại Longleat_House , Wiltshire - Ảnh minh_hoạ : JASON_HAWKES .
+Hình_dung về mê_cung trong nhiệm_vụ tìm đường của DeepMind - Ảnh : DEEPMIND

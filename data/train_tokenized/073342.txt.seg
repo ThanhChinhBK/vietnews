@@ -1,0 +1,31 @@
+Học_trò chế hệ_thống định_vị phà , ứng_dụng xem nhà từ xa
+
+Hệ_thống giao_tiếp giữa con_người và thiết_bị điện , định_vị tàu qua xã đảo Thạnh_An ... thật_sự hữu_ích nếu được áp_dụng vào đời_sống .
+
+Xuất_phát từ thực_tiễn cuộc_sống , nhiều bạn trẻ đam_mê công_nghệ đã có những sáng_tạo thú_vị .
+Lớp 11 mày_mò trí_tuệ_nhân_tạo
+Lấy cảm_hứng từ bộ phim Iron_man với căn phòng thông_minh dựa trên trí_tuệ_nhân_tạo , Võ_Ngọc_Khang , học_sinh lớp 11 chuyên_toán - tin Trường THPT chuyên_Thoại_Ngọc_Hầu ( Long_Xuyên , An_Giang ) , đã thiết_kế hệ_thống giao_tiếp giữa con_người và thiết_bị điện qua động_tác chỉ tay .
+HoverRoom là sản_phẩm thuộc lĩnh_vực trí_tuệ_nhân_tạo ( AI ) do Khang thực_hiện .
+Sản_phẩm đã đoạt giải nhì tại cuộc thi Young_Makers_Challenge 2017 .
+Để bật , tắt đèn , tivi , người dùng chỉ vào vật trong ba giây ; để chuyển kênh_truyền_hình , người dùng chỉ ngón tay lên hoặc xuống .
+Đó là những bài_học cơ_bản do hệ_thống máy_tính tiếp_nhận và tìm_hiểu về khung xương , cử_động tay người ...
+Sử_dụng nền_tảng OpenCV3 , Caffe_Deep learning và MSCOCO_Model , Khang tạo ra một máy_chủ có khả_năng nhận_biết khung xương con_người trên ảnh chụp , hiểu các hướng chỉ tay .
+Trong đó , OpenCV3 là một mã nguồn mở đọc hình_ảnh từ camera , truyền ảnh sang Caffe cũng như hiển_thị khung xương người lên màn_hình .
+Còn Caffe_Deep learning là một phần_mềm xây_dựng mạng neuron nhân_tạo - cơ_sở cho AI .
+MSCOCO là mã nguồn chứa dữ_liệu dành cho AI có_thể học được , ở đây Khang sử_dụng phương_pháp Keypoint model ( đánh_dấu ) để máy_tính học khung xương con_người .
+Tận_dụng server của Amazon và GPU có sẵn trên laptop , Khang_tạo môi_trường cho máy_tính học dữ_liệu ( cử_động khung xương người dùng ) .
+Khang cho_biết : " Em đang mày_mò giúp hệ_thống học và nhận_diện cảm_xúc để lựa_chọn bài_hát phù_hợp tâm_trạng người dùng .
+Toàn_bộ kiến_thức tạo ra HoverRoom là do em học từ thầy ...
+Ban giám_khảo cuộc_thi nói vui rằng nếu sản_phẩm đạt mức hoàn_thiện , Khang có_thể sẽ trở_thành " Iron man " đầu_tiên của Việt_Nam .
+Định_vị tàu qua xã đảo Thạnh_An
+Hiện_tại phải mất 45 phút để đi tàu đò từ Cần_Thạnh sang xã đảo Thạnh_An .
+Vì nhiều nguyên_nhân , các chuyến tàu thường_xuyên xuất_phát trễ giờ , người_dân phải chờ_đợi rất mất thời_gian .
+Câu_chuyện đó được bí_thư Đoàn biên_phòng TP. HCM kể lại cho đại_diện Trường ĐH Công_nghệ_thông_tin ( ĐH Quốc_gia TP. HCM ) , từ đó các bạn này nảy_sinh đề_tài nghiên_cứu mang tính phục_vụ cộng_đồng , dự_kiến thử_nghiệm vào tháng 3-2018 .
+TS Trịnh_Lê_Huy ( giảng_viên khoa kỹ_thuật máy_tính Trường ĐH Công_nghệ_thông_tin ) đã thực_hiện hệ_thống định_vị thời_gian thật trên tàu phà sử_dụng tại huyện đảo Cần_Giờ .
+Hệ_thống định_vị tàu , bến và người dùng cho_biết chính_xác tàu đang ở đâu , cách bờ bao_xa , khi nào đến bờ , người dùng có kịp đến bến đón chuyến tàu tiếp_theo hay không ...
+Hệ_thống này bao_gồm nhiều module phát / nhận tín_hiệu gắn trên tàu , ở bốn bến và phần_mềm ứng_dụng trên điện_thoại_di_động …
+Anh Lê_Đức_Thịnh , bí_thư Đoàn trường , cho_biết : " Nhóm nghiên_cứu đã chạy thử hệ_thống trên xe_gắn_máy trong nội_ô , chuẩn_bị sau tết sẽ liên_hệ địa_phương , chủ tàu để chạy thử trên tàu ở Cần_Giờ .
+Ngoài_ra , chúng_tôi đang hoàn_chỉnh đề_án gửi doanh_nghiệp để họ tài_trợ dự_án xã_hội này , chi_phí 50-60 triệu đồng " .
+
+Võ_Ngọc_Khang trình_diễn hệ_thống máy_tính đã được dạy về khung xương người - Ảnh : K.N .
+Thiết_bị điện giao_tiếp với người dùng bằng ngôn_ngữ - Ảnh : Đ . A .

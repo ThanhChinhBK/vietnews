@@ -1,0 +1,38 @@
+Nhà phát_minh 12 tuổi thắng giải 25.000 đô_la
+
+" Điều tuyệt_vời mà tôi thích nhất ở em là không hề sợ thất_bại " - cô_giáo của Gitanjali_Rao nói về cô học_trò đã giành giải cao nhất trong cuộc_thi dành cho các nhà_khoa_học trẻ từ lớp 5 đến lớp 8 .
+
+Không yên_tâm khi thấy cha_mẹ và những người xung_quanh phải dùng que thử để kiểm_tra nồng_độ chì trong nước mà kết_quả thì không đáng tin_cậy , cô_bé Gitanjali_Rao đã phát_minh thiết_bị điện_tử giúp công_việc này tiện_lợi và chính_xác hơn .
+Ở nhiều phương_diện , Gitanjali_Rao cũng như bao cô bạn cùng độ tuổi .
+Em linh_hoạt , thích nói_chuyện và nụ_cười luôn bừng sáng .
+Điểm khác_biệt nhất , theo báo CS Monitor , có_lẽ là sự say_sưa của em khi nói về các ống nano cacbon , bo_mạch vi_xử_lý Arduino cùng các phản_ứng giữa chì acetate và chloride .
+Em thích nghiên_cứu và thích tìm ra giải_pháp cho các vấn_đề thực_tế .
+Yêu thích khoa_học
+Mới_đây thôi em đã giành giải cao nhất trong cuộc_thi dành cho các nhà_khoa_học trẻ từ lớp 5 đến lớp 8 có tên Discovery_Education 3M Young_Scientist_Challenge với phát_minh là thiết_bị cầm tay giúp kiểm_định lượng chì trong nước .
+Cuộc khủng_hoảng nước nhiễm chì tại thành_phố Flint , bang Michigan ( Mỹ ) từng gây xôn_xao dư_luận Mỹ nhiều năm qua đã thôi_thúc cô_bé Gitanjali_Rao tìm cách giải_quyết .
+" Điều thực_sự nổi_bật ở Gitanjali chính là cách em đã biến niềm đam_mê để tạo ra sự khác_biệt thông_qua sáng_kiến của mình " - bà Kathleen_Shafer , chuyên_gia nghiên_cứu về công_nghệ nhựa , cũng là người đã đồng_hành cùng em Gitanjali trong tư_cách cố_vấn suốt mùa_hè năm_ngoái , nhận_xét .
+" Tôi thấy rõ điều này ngay từ phút đầu_tiên gặp cô_bé " .
+Với Gitanjali , nghĩ ra một giải_pháp mới không phải là chuyện lạ , bởi khoa_học suy_luận chính là môn_học em yêu thích nhất .
+" Khoa_học giúp em quan_sát nhiều cách tiếp_cận để giải_quyết các vấn_đề nảy_sinh trong đời_sống " - cô_bé học_sinh lớp 7 Trường trung_học STEM School_Highlands_Ranch , bang Colorado chia_sẻ .
+Năm lên 9 , Gitanjali lần đầu_tiên đọc được những thông_tin về cuộc khủng_hoảng nước nhiễm chì tại Flint , nơi gia_đình em sống .
+Tìm_hiểu về nó , em nhận ra có rất ít cách giúp mọi người xác_định xem nguồn nước họ dùng có bị ô_nhiễm hay không .
+" Em đã không nghĩ tới chuyện làm ra thiết_bị cho tới khi thấy bố_mẹ gặp rất nhiều khó_khăn lúc muốn kiểm_tra nồng_độ chì bằng que thử " - em nói .
+Cái thì báo nước an_toàn , cái lại cho thấy nước nhiễm chì .
+Giải_pháp chính_xác hơn là lấy mẫu nước rồi gửi đi phân_tích thì vừa mất thời_gian vừa tốn_kém .
+" Em đã muốn làm gì đó để thay_đổi chuyện này , không_chỉ cho bố_mẹ mà_còn cho những người_dân ở Flint và những nơi giống Flint trên thế_giới " - Gitanjali nói .
+Đừng sợ thất_bại
+Ý_tưởng đến với em sau lần đọc được bài báo về các cảm_biến ống nano cacbon , những cảm_biến hoá_học ở cấp_độ nguyên_tử trên trang_web của Viện Công_nghệ Massachusetts .
+Trong bài báo có nói tới tác_dụng của việc sử_dụng loại cảm_biến này để phát_hiện các loại khí độc_hại và em nghĩ tại_sao không thử dùng nó để phát_hiện chì trong nước .
+Vậy là em bắt_tay nghiên_cứu về các ống nano cacbon cũng như đặc_tính của chì , tìm_hiểu xem loại hoá_chất nào sẽ phản_ứng .
+Em cho rằng chì acetate là hợp_chất phổ_biến nhất của chì có trong nước và chloride sẽ là loại ion em sử_dụng để tạo phản_ứng với chì acetate .
+Em đã cân_nhắc các lựa_chọn rồi quyết_định dùng bo_mạch vi_xử_lý Arduino để tiếp_nhận và truyền dữ_liệu .
+Thế_là thiết_bị dò chì trong nước có tên Tethys ( được đặt theo tên nữ_thần nước_ngọt Hi_Lạp ) ra_đời với chip máy_tính và pin bên trong , có_thể nhúng xuống_nước và thiết_bị kết_nối bluetooth để truyền dữ_liệu vào điện_thoại .
+Một ứng_dụng miễn_phí do Gitanjali thiết_kế với sự hỗ_trợ của cô Simi_Basu - giáo_viên dạy môn khoa_học máy_tính của em - sẽ hiển_thị kết_quả kiểm_nghiệm tức_thời trên điện_thoại .
+" Tôi rất ấn_tượng với cô_bé .
+Lần nào gặp lại em cũng đã vượt trước 10 bước " - cô Simi_Basu bày_tỏ niềm tự_hào về cô trò nhỏ của mình .
+" Điều tuyệt_vời mà tôi thích nhất ở em là không hề sợ thất_bại " - cô_giáo nói .
+Gitanjali còn có những kế_hoạch lớn hơn_nữa trong tương_lai .
+Đó là học ngành miễn_dịch học và di_truyền tại Viện Công_nghệ Massachusetts ở Cambridge .
+Những lúc không thí_nghiệm hay phát_minh , em thích bơi , làm bánh và chơi ba loại nhạc_cụ là piano , guitar bass và clarinet .
+
+Em Gitanjali_Rao - Ảnh : CS_MONITOR

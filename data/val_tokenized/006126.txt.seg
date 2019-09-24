@@ -1,0 +1,29 @@
+Sinh_viên chế_tạo_máy đọc sách cho người khiếm_thị
+
+Máy gồm camera , bộ_phận xử_lý và loa . Khi người dùng tra tay lên chữ và bấm nút , camera sẽ chụp lại các ký_tự , chuyển cho hệ_thống xử_lý thành âm_thanh .
+
+Với mong_muốn đưa sách_báo đến gần hơn với người khiếm_thị , nhóm các bạn Nguyễn_Thái_Hoàng , Nguyễn_Khánh_Trình , Tạ_Sinh_Phúc và Bùi_Lê_Đạt ( sinh_viên khoa điện Trường đại_học Bách_khoa - Đại_học Đà_Nẵng ) đã chế_tạo_máy hỗ_trợ đọc sách cho người khiếm_thị .
+Chiếc máy vừa đoạt giải nhất cuộc_thi ASU / AWS EduHackathon 2017 do Trường đại_học bang Arizona , Liên_minh BUILD - IT và Amazon_Web_Services tổ_chức và được đánh_giá là có tính ứng_dụng cao .
+Bùi_Lê_Đạt ( một thành_viên trong nhóm ) cho biết sản_phẩm được thiết_kế khá đơn_giản , xây_dựng trên nền_tảng công_nghệ điện_toán đám mây của AWS chỉ với ba phần chính là camera , bộ_phận xử_lý và loa .
+Khi người khiếm_thị tra tay trên từng dòng chữ và bấm nút , camera gắn ở đầu ngón tay người dùng sẽ chụp lại các ký_tự có trong trang sách , sau đó chuyển qua định_dạng thích_hợp và gửi lên bộ_phận xử_lý .
+Sau khi xử_lý xong , hệ_thống sẽ cho về thông_tin dưới dạng audio chính là các ký_tự trong sách và xuất âm_thanh ra loa hoặc tai_nghe .
+Với cách làm này , người khiếm_thị có_thể đọc được mọi loại sách_báo mà không bị giới_hạn bởi sách chữ_nổi dành riêng cho họ .
+Chia_sẻ về ý_tưởng tạo nên sản_phẩm , Nguyễn_Thái_Hoàng cho_biết : " Mình thấy nhiều người chế_tạo được sản_phẩm dạy_học chữ_nổi cho người khiếm_thị , nhưng vẫn có nhiều sách_báo không có bản chữ_nổi và nhiều người khiếm_thị không biết chữ .
+Họ sẽ thiệt_thòi trong việc tiếp_cận sách_báo " .
+Và Hoàng đã chia_sẻ ý_tưởng của mình cùng các bạn trong lớp và nhanh_chóng nhận được sự góp_sức của ba bạn .
+Sau gần một năm kể từ khi lên ý_tưởng , không ít lần nhóm vấp phải khó_khăn nhưng không hề nản_lòng .
+" Điều khó_khăn nhất_là chúng_mình đều học tự_động_hoá nên việc viết ngôn_ngữ_lập_trình cho máy là lắm gian_nan .
+Nhờ sự hướng_dẫn của thầy Ngô_Đình_Thanh , một giảng_viên trong khoa , nên chúng_mình đã vượt qua khó_khăn đó " , Hoàng nói .
+Hoàng cho_biết việc khó nhất với các bạn là in các chi_tiết .
+" Riêng việc in ngón tay đeo trên máy cũng mất khá nhiều thời_gian và công_sức .
+Có hôm cả nhóm phải ngồi tại phòng EMaker của khoa cả ngày trời .
+In sai phải làm_đi_làm_lại nhưng nhóm vẫn không nản_lòng " .
+Trong vòng ba tháng , nhóm Hoàng đã hoàn_thành sản_phẩm .
+Ngay khi sản_phẩm vừa hoàn_thiện , một_số người khiếm_thị đã tìm đến các bạn với mong_muốn có được một " đôi mắt thông_minh " giúp họ đọc được sách .
+Võ_Văn_Nhật , một người khiếm_thị , chia_sẻ : " Tôi rất thích đọc sách_báo và mong_muốn có một thiết_bị nhỏ gọn , đơn_giản với giá_thành hợp_lý giúp những người khiếm_thị như tôi được thực_hiện niềm ao_ước đó " .
+Vì_vậy nên khi nghe đến sản_phẩm của nhóm các bạn , Nhật tìm đến hỏi_thăm và trao_đổi những mong_muốn của mình .
+Hiện nhóm đang gấp_rút hoàn_thiện phiên_bản tiếng Việt cho máy và đưa vào thử_nghiệm ở người khiếm_thị .
+Các bạn cũng đang thay_thế các thiết_bị trên sản_phẩm với các vi_xử_lý nhỏ gọn hơn và có chức_năng tương_đương nhưng giá_thành rẻ để thiết_bị chỉ còn giá vài trăm_nghìn đồng , có_thể phục_vụ cả người khiếm_thị khó_khăn .
+Các thành_viên của nhóm chia_sẻ trong tương_lai sẽ phát_triển thêm nhiều ứng_dụng hơn cho thiết_bị như có_thể nhận_diện các đồ_vật trong siêu_thị giúp người khiếm_thị biết được mình cần mua gì mà không phải phụ_thuộc vào người khác .
+
+Nhóm của Hoàng và thiết_bị hỗ_trợ đọc sách cho người khiếm_thị - Ảnh : ĐOÀN_NHẠN

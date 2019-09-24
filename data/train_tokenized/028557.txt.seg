@@ -1,0 +1,46 @@
+Cơ_bắp robot - đột_phá trong chế_tạo ' robot mềm '
+
+Loại cơ_robot mới được sáng_chế không_chỉ có sức_mạnh đáng kinh_ngạc mà_còn có_thể ứng_dụng vào nhiều lĩnh_vực khác nhau , từ y_khoa đến thám_hiểm ...
+
+Cho đến nay , vấn_đề khó_khăn nhất mà các nhà_khoa_học phải đối_mặt là thiết_kế và tìm loại vật_liệu thích_hợp để chế_tạo nên một loại robot linh_hoạt , mềm_dẻo có_thể bắt_chước được những cử_động uyển_chuyển như con_người .
+Các loại robot hiện có vẫn mang bộ_điệu cứng_nhắc , cử_động giật_cục rất thiếu tự_nhiên .
+Một_số mẫu robot " mềm " đã được đưa ra thử_nghiệm nhưng đều không thành_công .
+Lý_do là các vật_liệu chế_tạo đều không đủ độ bền và có sức chịu lực như các vật_liệu truyền_thống , nên khả_năng ứng_dụng vào thực_tế là rất thấp .
+Mạnh gấp 1.000 lần trọng_lượng chính nó
+Giờ_đây , bài_toán nan_giải này đã được giải_quyết .
+Các nhà_nghiên_cứu ở Viện Wyss thuộc Đại_học Harvard hợp_tác với Phòng nghiên_cứu Trí thông_minh nhân_tạo CSAIL của Viện Kỹ_thuật Massachusetts ( MIT ) , Hoa_Kỳ , đã chế_tạo được loại robot đúng như mong_ước bấy_lâu .
+Thiết_kế đột_phá này của các khoa_học gia lấy cảm_hứng từ một môn nghệ_thuật tưởng_chừng chẳng liên_quan gì đến robot : môn xếp giấy Origami , một phát_minh của người Nhật .
+Nhờ thế , họ tạo nên mẫu cơ_bắp robot " mềm " có sức_mạnh gấp 1.000 lần trọng_lượng bản_thân khối cơ .
+Thoạt_tiên , họ cũng không ngờ mình đã đạt được một thành_quả tốt đến thế .
+Họ chỉ nghĩ rằng khối cơ_bắp mới này sẽ mạnh hơn của các loại robot " mềm " trước_đây , nhưng không ngờ rằng nó lại có sức_mạnh đến thế .
+Trên phương_diện kỹ_thuật , việc thiết_kế bộ dẫn_động ( actuator ) của robot có kết_cấu giống như cơ_bắp thật của con_người là khó_khăn lớn nhất .
+Giờ_đây , với thành_công này , các khoa_học gia có_thể chế_tạo những bộ dẫn_động có các thuộc_tính tương_đương với các cơ_bắp thật .
+Nhờ thế , có_thể chế_tạo các loại robot đáp_ứng được bất_kỳ yêu_cầu tác_vụ nào .
+Các cơ_bắp robot này bao_gồm bên ngoài là một lớp " da " làm_bằng bao plastic hay sợi dệt bao_phủ lên một bộ khung có_thể làm bằng nhiều loại vật_liệu khác nhau , như cuộn kim_loại hay nhựa plastic được gấp xếp theo một mô_thức nhất_định , tương_tự như kiểu xếp giấy Origami .
+Sau đó , không_khí hoặc chất_lỏng được bơm vào bao .
+Để điều_khiển cơ_bắp này , người_ta rút không_khí / chất_lỏng ra để tạo chân không làm lớp da co rút lại , hoặc bơm trở vào để làm nó trương nở , tạo áp_lực lên bộ khung làm nó chuyển_động .
+Điểm độc_đáo nhất_là các chuyển_động cơ_bắp này không cần đến nguồn năng_lượng hay sự điều_khiển của con_người , mà tuỳ_thuộc vào hình_dạng và cấu_tạo của bộ khung .
+Điều chủ_yếu là người_ta có_thể lập_trình cho các cơ_bắp này hoạt_động theo ý_muốn , nhờ vào việc thay_đổi mô_thức " xếp " vật_liệu bên trong khung .
+Nhờ có kết_cấu gọn_nhẹ và đơn_giản , chúng rất phù_hợp cho những hoạt_động lưu_động hay dùng cho những thiết_bị loại mang đeo trên người .
+Loại cơ_bắp nhân_tạo này cũng mang một dạng " trí thông_minh " nhất_định , bằng việc xếp cuộn kim_loại hay plastic theo một mô_thức nào đó nhằm tạo sự chuyển_động theo ý_muốn , nó tương_tự một thuật_toán hướng_dẫn hoạt_động của robot truyền_thống .
+Người_ta chỉ cần đóng / mở một cái công_tắc đơn_giản để bơm / hút không_khí hay chất_lỏng , cơ_bắp robot sẽ tự thực_hiện được nhiều loại_hình thao_tác khác nhau .
+Tiềm_năng ứng_dụng vô_tận
+Nhóm nghiên_cứu đã chế_tạo ra hàng tá mẫu cơ_bắp bằng nhiều loại vật_liệu khác nhau , từ lò_xo kim_loại , mút xốp dùng trong bao_bì hay những tấm plastic và các loại khung có hình_dáng khác nhau .
+Có loại cơ_bắp có_thể thu nhỏ lại chỉ còn bằng 10 % kích_cỡ ban_đầu , chúng còn có_thể thực_hiện những cử_động nhẹ_nhàng và tinh_tế như hái một đoá hoa mà không làm nó gãy rụng .
+Loại cơ_bắp robot này có sức chịu_đựng sự biến_dạng rất cao : với cùng một diện_tích bề_mặt cơ , chúng tạo ra một lực mạnh hơn gấp 6 lần so với cơ_bắp loài động_vật hữu_nhũ .
+Một ưu_thế lớn nữa là chúng rất nhẹ nhưng cực mạnh : một mẫu cơ nặng 2,6 gam có_thể nhấc nổi một trọng_lượng 3kg .
+Chúng có_thể được chế_tạo theo nhiều kích_thước lớn , nhỏ khác nhau , từ vài mm cho đến 1m .
+Nhờ đó , có khả_năng ứng_dụng vào rất nhiều lĩnh_vực , như chế_tạo các dụng_cụ dùng trong vi_phẫu_thuật , bộ khung máy trợ_lực cho người , những kiến_trúc có_thể thay_đổi hình_dạng .
+Với mọi ngành công_nghiệp , chi_phí thấp và thời_gian sản_xuất ngắn là các điều_kiện tiên_quyết , loại cơ_bắp robot này đáp_ứng được điều đó : chi_phí vật_liệu để chế_tạo một cơ_bắp loại này chỉ chưa đầy 1 USD và mất có 10 phút .
+Chúng còn đáp_ứng được một tiêu_chí quan_trọng trong sản_xuất : an_toàn .
+Do chúng được điều_khiển bằng việc hút chân không nên rất hiếm khi bị gãy vỡ , hỏng hóc đột_ngột , rất phù_hợp để tích_hợp chúng vào những loại thiết_bị mang đeo trên thân_thể người , chế_tạo cánh_tay máy dùng trong thám_hiểm và xây_dựng dưới biển sâu , cũng như những loại kết_cấu có kích_thước lớn tự triển_khai trong thám_hiểm không_gian .
+Nhóm nghiên_cứu cũng nghiên_cứu chế_tạo cơ_bắp dùng loại vật_liệu polyme PVA tan được trong nước , điều này mở ra triển_vọng chế_tạo những robot có_thể hoạt_động ngoài thiên_nhiên mà không gây ô_nhiễm môi_trường .
+Trong lĩnh_vực y_khoa , phẫu_thuật xâm_lấn sẽ ít gây thương_tổn hơn nhờ vào các loại robot thu nhỏ , ví_dụ như loại khung lưới nong động_mạch ( stent ) cực nhỏ , khi vào đến đúng vị_trí trong cơ_thể nó sẽ tự bung ra .
+Trong thương_mại , giá hàng_hoá sẽ rẻ hơn nhờ vào các loại hàng sẽ được " gấp " lại khi lưu chứa trong kho hay dưới hầm tàu , giúp tiết_kiệm chi_phí lưu kho , vận_chuyển ...
+Công_trình nghiên_cứu này vừa được công_bố trên chuyên_san khoa_học Proceedings of the National_Academy of Sciences ( PNAS ) .
+Những mẫu xếp giấy nghệ_thuật Origami được chia_sẻ trên mạng :
+
+Cơ_bắp robot có_thể nhấc một trọng_lượng gấp 1.000 lần bản_thân nó - Ảnh : TheVerge .
+Kết_cấu hình_học của bộ khung quyết_định chuyển_động của cơ_bắp robot - Ảnh : Wyss .
+Mô_hình tấm thu năng_lượng mặt_trời , xếp gọn lại khi phóng lên , và bung ra khi ra ngoài không_gian - Ảnh : Journal of Mechanical_Design .
+Mẫu thử_nghiệm xếp tấm thu năng_lượng mặt_trời lấy ý_tưởng từ Origami - Ảnh : NASA .

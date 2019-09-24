@@ -1,0 +1,35 @@
+Nam sinh viết phần_mềm học Toán
+
+Phần_mềm hỗ_trợ việc dạy và học 3 môn tự_nhiên Toán , Lý , Hoá do một sinh_viên năm nhất viết được học_sinh chuẩn_bị thi đại_học đánh_giá là dễ hiểu , tiện_dụng và được sử_dụng miễn_phí .
+
+Dù học chuyên_Toán nhưng không ít lần Hoàng_Văn_Hiệp , học_sinh trường THPT chuyên Lương_Văn_Tuỵ ( Ninh_Bình ) , bị chính những phương_trình , đồ_thị hay bất_đẳng_thức làm_khó .
+Năm lớp 11 , sau vài tháng mày_mò tìm_hiểu trên Internet , Hiệp tự lập_trình được “ Phần_mềm giải phương_trình Toán , Lý , Hoá ” bản đầu_tiên .
+“ Với phần_mềm này , mình có_thể dễ_dàng tra_cứu kết_quả các bài_tập thầy_cô_giáo cho về nhà , tự sửa lỗi sai đến khi có kết_quả đúng ” , Hiệp chia_sẻ .
+Từng_trải qua quá_trình học_tập miệt_mài chuẩn_bị cho kỳ thi đại_học , thấu_hiểu nỗi lòng sĩ tử , Hiệp tiếp_tục nâng_cấp , cải_tiến phần_mềm sau khi trở_thành sinh_viên năm nhất khoa Kỹ_thuật phần_mềm của Đại_học FPT .
+Phần_mềm do Hiệp lập_trình và phát_triển chạy trên Window bản Desktop .
+Ở phiên_bản đầu_tiên , phần_mềm bao_gồm các ứng_dụng nhỏ , mỗi ứng_dụng giải_quyết một bài_toán cụ_thể trong chương_trình phổ_thông và các chức_năng phụ về Lý , Hoá , các thủ_thuật giải bài tập môn tự_nhiên .
+Tuy_nhiên , một_số dạng bài phức_tạp như bài_toán đồ_thị thì chưa được giải_quyết triệt_để .
+Để khắc_phục các vấn_đề này , mới_đây Hiệp đã trình_làng phiên_bản cải_tiến với tên gọi “ Phần_mềm hỗ_trợ dạy và học Toán , Lý , Hoá ” .
+Ngoài những tính_năng đã có , phiên_bản này xử_lý tốt các bài_toán đồ_thị , hỗ_trợ 80-90 % trong việc tra_cứu kết_quả bài thi đại_học một_cách nhanh_chóng , chính_xác cho học_sinh và giáo_viên …
+Giao_diện tính_năng vẽ đồ_thị và kiểm_tra kết_quả bài_toán đồ_thị của phần_mềm .
+Vẫn còn đang trong quá_trình hoàn_thiện nên Hiệp quyết_định chưa đưa bản dùng thử lên mạng .
+Tuy_nhiên , sản_phẩm đã nhận được sự quan_tâm của rất nhiều bạn_bè , thầy_cô_giáo khi đưa lên một host chia_sẻ phổ_biến .
+Đã có hàng nghìn lượt tải xuống và con_số này tiếp_tục tăng .
+Thầy Đặng_Đình_Sơn , giáo_viên Toán trường THPT chuyên Lương_Văn_Tuỵ , Ninh_Bình nhận_xét : “ Ưu_điểm của phần_mềm này là dung_lượng nhẹ , giải_quyết được khá nhiều vấn_đề Toán_học đối_với học_sinh THPT như giải phương_trình , giải các bài_toán bất_đẳng_thức , cực_trị cũng như một_số bài_tập Lý , Hoá theo công_thức .
+Đối_với giáo_viên , phần_mềm tiện_dụng nhất trong việc kiểm_tra kết_quả các bài_tập giao cho học_sinh một_cách nhanh_chóng , tiết_kiệm thời_gian ” .
+Đây không phải lần đầu_tiên chàng sinh_viên năm nhất Đại_học FPT có những sản_phẩm phần_mềm hữu_ích .
+Cậu từng giành nhiều giải cao trong cuộc thi sáng_tạo dành cho thanh_thiếu_niên nhi_đồng tỉnh Ninh_Bình các năm 2011 , 2012 .
+Năm 2014 , với “ Phần_mềm giải phương_trình Toán , Lý , Hoá ” , Hiệp đã xuất_sắc vượt qua hàng trăm đối_thủ để giành giải nhất cuộc_thi sáng_tạo cấp toàn_quốc .
+Kể từ đó , Hiệp bổ_sung vào bộ sưu_tập thành_tích của mình giải Ba cuộc_thi Tin_học trẻ toàn_quốc lần thứ 21 cũng như Huy_chương bạc Triển_lãm Quốc_tế sáng_tạo Khoa_học công_nghệ trẻ IEYI 2015 ( 18/11 ) dành cho “ Phần_mềm hỗ_trợ dạy và học Toán , Lý , Hoá ” bản nâng_cấp .
+Nhờ bề dày thành_tích này mà Hiệp được thầy_cô bạn_bè gọi với cái tên thân_mật - anh_chàng chuyên sáng_tạo .
+Đến với lập_trình một_cách tự_nhiên từ niềm yêu_thích và tự học , Hiệp chia_sẻ : “ Bố_mẹ bán hàng ăn , gia_đình cũng không ai theo nghề này nên mình toàn tự tìm_hiểu trên mạng .
+Mình thường tranh_thủ làm phần_mềm khi rỗi nhưng có những lần say_mê quá , quên cả làm bài_tập thầy_cô_giáo cho về nhà .
+Sáng hôm sau đến lớp , mình bị điểm kém , không_chỉ một mà vài_ba lần như_thế rồi ” .
+Hiện_tại , Hiệp tham_gia câu_lạc_bộ Robotic của Đại_học FPT và tiếp_tục theo_đuổi đam_mê lập_trình với những sản_phẩm công_nghệ_cao như dự_án Robot chơi cờ - sản_phẩm tham_gia cuộc thi Nhà sáng_tạo Việt_Nam với Intel_Galileo 2015 .
+“ Mình đang thử sức với một_số sản_phẩm lập_trình mới như robot hoặc phần_mềm hỗ_trợ quản_lý máy_tính .
+Ngoài_ra , mình còn muốn học nâng_cao trình_độ tiếng Anh bởi làm phần_mềm gì thì cũng cần có vốn ngoại_ngữ để nói cho mọi người , nhất_là người nước_ngoài ở các cuộc thi quốc_tế hiểu được sản_phẩm của mình ” , nam sinh chia_sẻ về những dự_định sắp tới .
+Ngọc_Trâm
+
+
+Giao_diện tính_năng vẽ đồ_thị và kiểm_tra kết_quả bài_toán đồ_thị của phần_mềm .
+Hoàng_Văn_Hiệp ( thứ ba từ phải sang ) nhận giải Ba tại cuộc thi Tin_học trẻ toàn_quốc lần 21 nhờ “ Phần_mềm giải phương_trình Toán , Lý , Hoá ” .

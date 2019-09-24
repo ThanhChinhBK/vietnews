@@ -1,0 +1,38 @@
+Nam sinh sáng_chế máy chống ngủ_gật cho các tài_xế
+
+Với mong_muốn hạn_chế tình_trạng tai_nạn giao_thông do tài_xế ngủ_gật , Nguyễn_Ngọc_Đức ( Quảng_Xương , Thanh_Hoá ) đã sáng_chế thiết_bị cảnh_báo mang nhiều giá_trị thực_tiễn .
+
+Chứng_kiến nhiều vụ tai_nạn giao_thông và một trong những nguyên_nhân là tài_xế ngủ_gật , Nguyễn_Ngọc_Đức , học_sinh lớp 12C1 Trường THPT Nguyễn_Xuân_Nguyên ( Quảng_Xương , Thanh_Hoá ) nảy_sinh ý_tưởng sáng_chế thiết_bị “ Cảnh_báo , đánh_thức và cắt cơn ngủ_gật ” .
+Chủ_nhân sáng_chế Nguyễn_Ngọc_Đức bên công_trình sáng_tạo đầu_tay của bản_thân .
+Sinh ra trong gia_đình nông_thôn , bố làm thợ_xây , mẹ ở nhà cắt tóc , Đức học_tập không xuất_sắc , nhưng đặc_biệt thích tin_học .
+Đầu năm lớp 10 , em nảy_sinh ý_tưởng sáng_chế máy chống ngủ_gật .
+Khi chia_sẻ với thầy_giáo tin_học Lê_Ích_Tâm , em nhận được sự ủng_hộ và hướng_dẫn tận_tình .
+Cuối năm lớp 10 , hai thầy_trò bắt_tay vào việc và sau khoảng 6 tháng thì sản_phẩm hoàn_thành .
+Chủ_nhân sáng_tạo cho_hay , em thiết_kế thiết_bị chống ngủ gật theo mô_hình của chiếc máy_tính thu nhỏ .
+Thiết_bị gồm phần_cứng và phần_mềm .
+Phần_cứng gồm một máy_tính mini , một bộ_xử_lý cho màn_hình .
+Phần_mềm được lập_trình theo ngôn_ngữ Csharp có sử_dụng mã nguồn mở và một_số thư_viện histogram về nhận_dạng ánh mắt và khuôn_mặt .
+Khó_khăn lớn nhất của Đức là thiết_lập phần_mềm , bởi chương_trình học phổ_thông em chưa từng được học ngôn_ngữ_lập_trình Csharp mà chỉ học các thuật_toán Pascal .
+“ Em phải lên mạng tìm_tòi từ các thư_viện mở và tài_liệu từ nước_ngoài được dịch sang tiếng Việt , may_mắn đã thành_công ” , Đức chia_sẻ .
+Nam sinh tâm_sự , nhiều lúc khó_khăn định bỏ_cuộc giữa_chừng nhưng được gia_đình , thầy_cô động_viên nên cố_gắng vượt_qua .
+Nguyên_lý hoạt_động của thiết_bị cảnh_báo , đánh_thức , cắt_cơn ngủ_gật do Đức sáng_chế khá đơn_giản .
+Khi camera thu_hình tài_xế , bộ_xử_lý sau khi tiếp_nhận hình_ảnh sẽ nhận_diện các bộ_phận trên khuôn_mặt như mắt , mũi , tai … Qua biểu_đồ ánh_sáng , thiết_bị sẽ phân_tích ánh mắt và cho kết_quả lái_xe đang thức hay ngủ_gật .
+Nếu tài_xế có dấu_hiệu ngủ_gật , bộ_xử_lý sẽ lập_tức đưa ra các bước xử_lý cảnh_báo .
+Ban_đầu , thiết_bị sẽ cảnh_báo bằng giọng nói cài sẵn : “ Bạn đang trong trạng_thái không tập_trung , đề_nghị tập_trung lại ” .
+Đức lý_giải , cảnh_báo bằng giọng nói không gây đột_ngột , không khiến tài_xế giật_mình và gây nguy_hiểm .
+Sau khi cảnh_báo bằng giọng nói , máy có_thể tiếp_tục báo_động bằng còi hú đưa lái_xe trở về trạng_thái tỉnh_táo hoàn_toàn .
+Cậu học_sinh dáng nhỏ_bé , đôi mắt sáng cho_hay , do gia_đình khó_khăn lại sợ ảnh_hưởng đến chuyện học văn_hoá nên ban_đầu bố_mẹ không ủng_hộ nhưng thấy em quyết_tâm nên cũng xuôi theo .
+Để cho ra sản_phẩm hoàn_thiện , Đức mất khoảng 5 triệu đồng mua nguyên_vật_liệu .
+“ Nhiều vật_liệu hiếm , không_thể tìm tại_chỗ em phải nhờ thầy hướng_dẫn ra Hà_Nội tìm_kiếm ” , Đức kể .
+Với ý_tưởng táo_bạo và mang nhiều giá_trị thực_tiễn , vượt_qua 700 đề_tài đến từ các trường THPT trên địa_bàn Thanh_Hoá , sản_phẩm cảnh_báo , đánh_thức và cắt cơn ngủ_gật của Đức giành giải nhất cuộc_thi Sáng_tạo khoa_học_kỹ_thuật dành cho học_sinh trung_học năm_học 2014-2015 .
+Tại cuộc thi cấp quốc_gia do Bộ Giáo_dục và Đào_tạo tổ_chức tháng 3/2016 tại Hải_Phòng , sản_phẩm này tiếp_tục đạt giải nhì ( không có giải nhất ) .
+Với thành_tích này , Đức sẽ được tuyển thẳng vào một_số trường đại_học chuyên_ngành công_nghệ_thông_tin sau khi hoàn_thành chương_trình phổ_thông .
+Với mong_muốn trở_thành kỹ_sư phần_mềm , em đang tìm_hiểu một_số nguồn học_bổng để theo_đuổi ước_mơ du_học .
+Đức dự_định cải_tiến sản_phẩm cho gọn_nhẹ và nâng_cao độ_chính_xác của thiết_bị .
+“ Sản_phẩm của em còn một_số nhược_điểm cần nâng_cấp như màn_hình còn cồng_kềnh , thiết_bị webcam cần sử_dụng loại hồng_ngoại để có_thể bắt nét tốt hơn vào ban_đêm … ” , Đức nói và cho_biết hiện đã nâng_cấp giao_diện xử_lý ngôn_ngữ bằng cả tiếng Anh và tiếng Việt để sản_phẩm phù_hợp cho cả người nước_ngoài .
+Lê_Hoàng
+
+
+Chủ_nhân sáng_chế Nguyễn_Ngọc_Đức bên công_trình sáng_tạo đầu_tay của bản_thân .
+Đức cho_hay , màn_hình của sản_phẩm còn khá cồng_kềnh dù đã được cải_tiến nên cậu đang nghiên_cứu thu nhỏ lại .
+Chưa học qua ngôn_ngữ_lập_trình Csharp nhưng nam_sinh vẫn có_thể hoàn_thiện sản_phẩm khiến nhiều giáo_viên bất_ngờ .

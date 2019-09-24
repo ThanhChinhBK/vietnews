@@ -1,0 +1,24 @@
+Kiểm_tra tiền gửi tại ngân_hàng bằng QR code
+
+Không_chỉ kiểm_tra trạng_thái sổ tiết_kiệm , khách_hàng có_thể tra_cứu thông_tin các loại bảo_lãnh , văn_bản xác_nhận của ngân_hàng hay giấy biên_nhận thế_chấp ô_tô bằng mã QR code trên hệ_thống của TPBank bất_cứ thời_gian nào .
+
+Thời_gian gần đây , có nhiều trường_hợp người gửi tiền vẫn cầm trong tay sổ tiết_kiệm nhưng không được rút được tiền do số tiền gửi đã bị nhân_viên ngân_hàng gian_lận biển_thủ , không nhập vào hệ_thống dữ_liệu của ngân_hàng .
+Chia_sẻ về thực_trạng này , ông Nguyễn_Hưng , Tổng_giám_đốc TPBank cho biết , các vụ_việc này tuy có nhưng hiếm khi xảy ra do các hệ_thống kiểm_soát nội_bộ của hệ_thống ngân_hàng khá chặt_chẽ , nhiều khâu kiểm_tra , giám_sát nên hạn_chế được rất nhiều các rủi_ro đạo_đức .
+Thêm nữa , khách_hàng cũng có_thể kiểm_tra được trạng_thái tiền gửi của mình thông_qua việc tra_cứu thông_tin tại quầy giao_dịch , kiểm_tra bằng ứng_dụng ngân_hàng điện_tử internet banking hoặc gọi tới hotline của ngân_hàng .
+Bên cạnh đó , vẫn có một_cách thức tiện_lợi và dễ_dàng hơn để kiểm_tra trạng_thái tiền gửi tại ngân_hàng , đó là quét mã QR code để tra_cứu thông_tin sổ tiết_kiệm , mà hiện trên thị_trường TPBank là ngân_hàng đầu_tiên và duy_nhất triển_khai tới nay .
+Việc sử_dụng khá đơn_giản , khách_hàng chỉ việc tải về và cài đặt ứng_dụng ebank của ngân_hàng trên điện_thoại thông_minh chạy android hay iOS , sau đó mở tính_năng quét mã QR trên ứng_dụng này và hướng ống_kính máy_ảnh trên điện_thoại vào mã QR được in trên sổ tiết_kiệm , sau giây_lát thì toàn_bộ thông_tin liên_quan đến sổ tiết_kiệm được lưu trên hệ_thống của TPBank sẽ hiện ra và khách_hàng có_thể đối_chiếu ngay được .
+“ Việc quét mã QR code không_chỉ giúp khách_hàng kiểm_tra xem các thông_tin in trên sổ tiết_kiệm có khớp đúng với số tiền gửi được nhập vào hệ_thống của ngân_hàng hay không , mà_còn cho biết trạng_thái của sổ đó có đang bị phong_toả hay cầm_cố không .
+Việc kiểm_tra thông_tin theo thời_gian thực như_vậy cũng giúp minh_bạch_hoá thông_tin và khách_hàng hoàn_toàn có_thể an_tâm với sổ tiết_kiệm khi gửi tại ngân_hàng , đồng_thời vẫn đảm_bảo các nguyên_tắc về bảo_vệ thông_tin của khách_hàng gửi tiền , vì chỉ ai cầm được sổ tiết_kiệm trên tay thì mới tra_cứu được thông_tin liên_quan đến sổ tiết_kiệm đó ” , ông Hưng chia_sẻ .
+Mã QR code đã được in trên tất_cả các sổ tiết_kiệm được phát_hành tại quầy giao_dịch của TPBank từ vài năm nay .
+Mỗi sổ có 1 mã QR code tương_ứng với các thông_tin trên sổ , được mã_hoá 2 bước ở cấp_độ cao theo thuật_toán riêng để chống tạo mã QR code giả và chỉ in ra được sổ tiết_kiệm có mã QR code từ hệ_thống Core_Banking một_khi đã nhập đầy_đủ số_liệu vào hệ_thống .
+Nếu dùng ứng_dụng đọc QR code thông_thường , khách_hàng chỉ nhận được các chuỗi ký tự dài khó hiểu .
+Khi dùng ứng_dụng ebank của TPBank , các thông_tin được giải_mã , truy_vấn dữ_liệu trên máy_chủ của ngân_hàng , nếu sổ tiết_kiệm đó đang có trên hệ_thống thì mới hiển_thị thông_tin , còn nếu không thì chỉ nhận được thông bảo “ Sổ tiết_kiệm không tồn_tại hoặc đã tất_toán ” .
+Việc sử_dụng mã QR code này giúp gia_tăng tính_năng bảo_mật , chống gian_lận , làm giả sổ tiết_kiệm của khách_hàng .
+Ngoài việc xác_thực sổ tiết_kiệm bằng QR code , TPBank còn ứng_dụng QR code trong việc cho_phép khách_hàng tra_cứu nội_dung các loại Thư bảo_lãnh , cam_kết tài_chính , các loại Văn_bản xác_nhận của ngân_hàng và mới_đây nhất là Giấy_Biên nhận thế_chấp ô_tô .
+Theo đó , khi khách_hàng vay mua xe và thế_chấp xe , ngân_hàng giữ bản_chính Chứng_nhận đăng_ký và sẽ cấp Giấy biên_nhận thế_chấp cho khách_hàng để lưu_hành trên đường .
+Với việc ứng_dụng QR code in trên Giấy biên_nhận này , khách_hàng hay các cơ_quan_chức_năng có_thể dễ_dàng tra_cứu các thông_tin liên_quan đến giấy Chứng_nhận đăng_ký và cùng các thông_tin liên_quan đến chiếc xe 1 cách đơn_giản , thuận_tiện bằng cách quét mã QR được in trên Giấy này .
+Thanh_Thư
+
+Từ nay , khách_hàng có_thể kiểm_tra tiền gửi tại ngân_hàng bằng mã QR code .
+Khách_hàng có_thể kiểm_tra tiền gửi tại TPBank bằng QR code .
+Giấy biên_nhận thế_chấp ô_tô tại TPBank .

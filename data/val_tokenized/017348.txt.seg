@@ -1,0 +1,23 @@
+Học_sinh sáng_chế phần_mềm về giải_phẫu cơ_thể người
+
+Thấy môn sinh_học còn khô , thiếu thực_hành , nhóm học_sinh Trường phổ_thông Năng_khiếu ( ĐH Quốc_gia TP. HCM ) đã nghiên_cứu cho ra_đời phần_mềm Virtual_Anatomy để dễ nhớ hơn khi học về cơ_thể người .
+
+Nhóm học_sinh này gồm Lâm_Đào_Quế_Anh ( lớp 11 chuyên_văn ) và Nguyễn_Gia_Huy ( lớp 12 chuyên tin ) , đã đoạt giải ba cuộc_thi Khoa_học , kỹ_thuật cấp quốc_gia học_sinh trung_học năm 2017-2018 ( ViSEF ) do Bộ Giáo_dục - đào_tạo vừa tổ_chức .
+Làm_sao cho môn Sinh bớt khô
+" Nhiều môn_học trong trường hiện_nay còn thiên về lý_thuyết , nặng kiến_thức , ít thực_hành khiến học_sinh mau quên .
+Môn Sinh_học ( đặc_biệt là về cơ_thể con_người ) cũng vậy , có khối kiến_thức nặng , lúc học thấy ... chán lắm .
+Phải làm gì đó cho môn sinh_học bớt khô_khan " - Quế Anh lý_giải việc các bạn chọn sáng_chế phần_mềm này .
+Nghĩ vậy nên trong nhiều ngày cùng nhau làm_việc , dưới sự hỗ_trợ của giáo_viên cũng như các bạn học_sinh chuyên tin như Đỗ_Mạnh_Hùng , Thăng_Long , Tuấn_Khải và Linh_Chi , phần_mềm " Virtual_Anatomy " của Quế_Anh và Gia_Huy đã ra_đời .
+Phần_mềm giúp người học quan_sát được các bộ_phận cơ_thể một_cách trực_quan , sinh_động , gồm 8 hệ cơ_quan lớn trong cơ_thể con_người : hệ bài_tiết , hệ tiêu_hoá , hệ tuần_hoàn , hệ thần_kinh , hệ sinh_dục , hệ bạch_huyết , hệ hô_hấp và hệ hoocmôn , với hệ_thống hơn 700 xương và hơn 400 cơ .
+Sản_phẩm sử_dụng cảm_ứng không dây ba chiều Leap_Motion ( LM ) - công_cụ nhận thông_số từ hệ_thống tracking gồm camera hồng_ngoại để xử_lý và chuyển_hoá thành bàn_tay ảo .
+Điều này mang nhiều hứng_thú cho người học khi có_thể di_chuyển bàn_tay ảo để thực_hiện các thao_tác trong quá_trình " giải_phẫu " mô_phỏng cơ_thể người .
+Thiết_kế bàn mổ ảo
+Ở mức nâng_cao , Quế_Anh và Gia_Huy đã hoàn_tất mô_phỏng cơ_bản ca phẫu_thuật gắp mảnh đạn ra khỏi cánh_tay người .
+" Tuy_nhiên , ca phẫu_thuật vẫn chưa đạt đến độ_chính_xác cao nhất do những khó_khăn gặp phải trong việc mô_phỏng các chất dịch trong cơ_thể " - Gia_Huy cho_hay .
+Gia_Huy và Quế_Anh đều ấp_ủ hoàn_thiện hơn_nữa phầm mềm cho môn sinh_học này để được áp_dụng vào giảng_dạy .
+Các bạn đang tiếp_tục đưa các thông_số sinh_học vào phần_mềm , từ đó điều_chỉnh mô_hình chi_tiết hơn , đặc_biệt phát_triển sâu các bộ_phận của cánh_tay , da , xương , sụn ... , nghiên_cứu hoàn_thiện các code để sản_phẩm ngày_càng có độ_chính_xác cao hơn .
+" Tụi mình cũng kỳ_vọng nghiên_cứu , phát_triển thêm theo hướng thiết_kế bàn mổ ảo để mô_phỏng lại chân_thực như một buổi giải_phẫu trong thực_tế ; nghiên_cứu để tạo mô_hình động như dòng máu chảy , tim đập , cơ_chế đông_máu ... " - Quế Anh chia_sẻ .
+Giúp học_sinh " học phải có hành " chính là ý_nghĩa mà hai tác_giả học_sinh này mong_muốn .
+
+Từ trái qua : các bạn Lâm_Đào_Quế_Anh , Nguyễn_Gia_Huy , Đỗ_Mạnh_Hùng - Ảnh : C.K .
+Dùng phần_mềm Virtual_Anatomy để tìm_hiểu về cơ_thể người - Ảnh : C.K .

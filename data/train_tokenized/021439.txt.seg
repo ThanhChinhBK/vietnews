@@ -1,0 +1,42 @@
+Chân_dung nữ kỹ_sư 29 tuổi góp công tạo bức_ảnh hố đen vũ_trụ
+
+Katie_Bouman cùng thuật_toán xử_lý hình_ảnh mà cô phát_triển đã đóng_góp một phần không nhỏ vào kỳ_tích chụp bức_ảnh đầu_tiên hoàn_chỉnh về một hố đen vũ_trụ từ 2 tỉ bức ảnh có độ_phân_giải cao , được công_bố hôm 10-4 .
+
+Đây là dự_án với sự đóng_góp của hơn 200 nhà_nghiên_cứu trên khắp thế_giới .
+Đam_mê từ thời học_sinh
+Theo Đài CNN ngày 10-4 , Bouman lớn lên tại West_Lafayette , Indiana , Mỹ và tốt_nghiệp Trường trung_học West_Lafayette năm 2007 .
+Có cha là giáo_sư tại ĐH Purdue nên từ khi học cấp III , cô Bouman cùng các giáo_sư ở Trường Purdue đã nghiên_cứu các phương_pháp máy_tính để chụp ảnh .
+Năm 2007 cũng là lần đầu_tiên Bouman học về kính_viễn_vọng Event_Horizon ( EHT ) .
+Tốt_nghiệp ĐH Michigan với tấm bằng kỹ_sư điện , cô_gái trẻ tiếp_tục hoàn_thành chương_trình thạc_sĩ kỹ_sư điện tại Viện Công_nghệ Massachusetts ( MIT ) .
+Bouman cũng là thành_viên của Đài quan_sát Haystack MIT .
+Sau đó cô kỹ_sư điện tiếp_tục làm nghiên_cứu_sinh hậu tiến_sĩ trong nhóm Chụp ảnh EHT tại ĐH Harvard .
+Năm 2016 , Bouman xuất_hiện trong một buổi trò_chuyện của TED - một tổ_chức chuyên đăng_tải những phần nói_chuyện với khẩu_hiệu " những ý_tưởng đáng lan_truyền " .
+Buổi nói_chuyện của Bouman , khi ấy mới 26 tuổi , có tựa đề " Làm cách nào để chụp ảnh một lỗ đen " .
+Nhà_khoa_học trẻ tuổi đã giải_thích về thuật_toán dùng để thực_hiện dự_án này .
+" Một hố đen rất , rất , rất xa và nhỏ " - Bouman từng nói trong buổi nói_chuyện của TED năm 2016 .
+Để dễ hình_dung , cô ví_von việc chụp ảnh hố đen cũng giống như việc chúng_ta muốn chụp ảnh quả bưởi trên Mặt_trăng bằng một chiếc điện_thoại thông_minh .
+Bouman bắt_đầu phát_triển một thuật_toán gọi là Tái_tạo hình_ảnh độ_phân_giải cao liên_tục bằng cách sử_dụng chắp_vá dữ_liệu ( CHIRP ) vào năm 2016 khi cô chỉ là một sinh_viên tốt_nghiệp tại MIT .
+Bouman lấy bằng tiến_sĩ kỹ_sư điện và khoa_học máy_tính tại MIT năm 2017 .
+Ảnh hố đen từ thuật_toán CHIRP
+Trong buổi nói_chuyện năm 2016 , theo Journal & Courier , thuật_toán giúp chụp lại hình_ảnh của hố đen siêu khối_lượng ở trung_tâm thiên_hà có tên là Messier 87 ( M8 7 ) từ các dữ_liệu hình_ảnh của EHT .
+EHT là một hệ kính có kích_cỡ của một hành_tinh gồm 8 kính_viễn_vọng vô_tuyến trên mặt_đất kếp_hợp với nhau nên có độ nhạy và phân_giải không_gian vô_cùng lớn .
+EHT sử_dụng kỹ_thuật gọi là giao_thoa kế , kết_hợp các tín_hiệu từ các cặp kính_thiên_văn và sử_dụng sự giao_thoa tín_hiệu để làm khớp các dữ_liệu .
+Tuy_nhiên , dù có một hệ kính_viễn_vọng vô_tuyến khổng_lồ thì vẫn có những khoảng trống dữ_liệu không_thể bù_đắp .
+Thông_thường một tín_hiệu vô_tuyến truyền đến một hoặc nhiều kính_viễn_vọng sẽ không cùng thời_điểm .
+Ngoài_ra khí_quyển Trái_đất làm chậm sóng_vô_tuyến khiến sự chênh_lệch về thời_gian này trở_nên lớn hơn và làm lệch các tính_toán về việc tạo ra hình_ảnh dựa vào giao_thoa vô_tuyến .
+Thuật_toán CHIRP giúp khắc_phục vấn_đề này .
+Bằng cách nhân lên các phép đo từ 3 kính_viễn_vọng , độ trễ gây ra bởi khí_quyển sẽ triệt_tiêu lẫn nhau .
+Như_vậy thuật_toán của Bouman yêu_cầu phải có số_liệu từ 3 kính_viễn_vọng chứ không phải từ 2 kính_viễn_vọng nhưng sẽ giúp tăng độ_chính_xác của dữ_liệu lên nhiều hơn để bù_đắp cho sự thiếu thông_tin .
+Sau đó thuật_toán CHIRP sẽ dựng lại và tinh_chỉnh những hình_ảnh gốc để tạo ra hình_ảnh liền mạch và rõ_ràng về lỗ_đen .
+CHIRP cũng có_thể được sử_dụng cho bất_kỳ hệ_thống hình_ảnh nào sử_dụng giao_thoa kế vô_tuyến .
+Thuật_toán truyền_thống để hiểu dữ_liệu giao_thoa thiên_văn trên được xây_dựng với giả_định rằng một hình_ảnh sẽ được tạo ra từ một tập_hợp các điểm ánh_sáng riêng_lẻ và thuật_toán cố_gắng tìm những điểm có độ sáng và vị_trí phù_hợp nhất với dữ_liệu .
+Sau đó thuật_toán làm mờ các điểm sáng gần nhau để tạo ra một hình_ảnh liền mạch .
+Thuật_toán CHIRP tạo ra một mô_hình phức_tạp hơn , khi đưa tất_cả các điểm sáng được xem là một mặt_phẳng của các mức_độ biến_động ánh_sáng được tạo thành từ các hình_nón cách đều nhau với độ cao khác nhau nhưng chân_đế có cùng đường_kính .
+Sau đó , có_thể nói nôm_na là thuật_toán sẽ phủ một lớp nhựa lên mô_hình để tạo tính liên_tục tự_nhiên cho hình_ảnh .
+Kết_hợp cùng nhiều thuật_toán khác , kết_quả là chúng_ta có bức_ảnh đầu_tiên về lỗ_đen .
+Bouman sẽ bắt_đầu công_việc trợ_lý giáo_sư ngành khoa_học máy_tính tại Viện Công_nghệ California vào mùa thu này .
+
+Katie_Bouman - người phụ_nữ đứng sau ' kỳ_tích ' chụp ảnh hố_đen - Ảnh : Twitter .
+Katie_Bouman chia_sẻ khoảnh_khắc vui_sướng khi thấy hình_ảnh hố đen vũ_trụ trên trang Facebook cá_nhân - Ảnh : sopitas .
+Katie_Bouman lấy bằng tiến_sĩ kỹ_sư điện và khoa_học máy_tính tại MIT năm 2017 - Ảnh : Twitter .
+Katie_Bouman - Ảnh : Twitter

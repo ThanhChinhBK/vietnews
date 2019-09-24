@@ -1,0 +1,30 @@
+“ Vũ_khí ” bảo_mật dành cho ngân_hàng điện_tử
+
+Nhằm đáp_ứng nhu_cầu giao_dịch đa_dạng của khách_hàng và đảm_bảo an_toàn cho các giao_dịch , Vietcombank luôn nỗ_lực phát_triển những phương_thức xác_thực giao_dịch mới . Việc giới_thiệu ứng_dụng Vietcombank_Smart OTP trên các thiết_bị di_động như một phương_thức xác thực tiện_lợi , nhanh_chóng và bảo_mật đã nhận được sự ủng_hộ tích_cực của khách_hàng và ngày_càng khẳng_định vị_trí dẫn_đầu của Vietcombank .
+
+Smart OTP - “ vũ_khí ” mới gia_tăng an_toàn bảo_mật
+Một yêu_cầu quan_trọng của của an_toàn thông_tin là xác_thực_danh_tính ( authentication ) của đối_tượng được cấp quyền sử_dụng các tài_nguyên điện_toán ( authorization digital resources ) như truy_nhập tài_khoản , thực_hiện giao_dịch trực_tuyến , hay truy_nhập máy_tính … Một trong những phương_thức xác_thực mới nhất hiện_nay là Smart OTP - một phần_mềm được cài_đặt trên các thiết_bị di_động , cho_phép người dùng chủ_động lấy mã xác_thực giao_dịch OTP ( one - time password : mã xác_thực dùng một lần ) cho các giao_dịch trên Internet_Banking của Ngân_hàng .
+Tuy mới được đưa vào sử_dụng tại Việt_Nam nhưng ứng_dụng Smart_OTP đã nhận được những phản_hồi tích_cực từ phía người dùng .
+Vietcombank nằm trong số_ít những ngân_hàng tại Việt_Nam tiên_phong ứng_dụng phương_thức xác_thực này cho các giao_dịch của khách_hàng .
+Nếu SMS OTP ( phương_thức xác_thực qua tin_nhắn SMS ) bị hạn_chế khi chuyển vùng nước_ngoài và Token_Key là thiết_bị rời , dễ bị thất_lạc hoặc đánh_cắp ; Smart OTP có_thể giải_quyết được cả hai vấn_đề trên .
+Smart OTP được tích_hợp trực_tiếp trên các thiết_bị di_động , có khả_năng tạo ra mã xác_thực OTP mà không cần đến kết_nối mạng internet .
+Ứng_dụng này cũng cho thấy sự linh_hoạt khi vẫn có_thể sử_dụng bình_thường ngay cả khi khách_hàng di_chuyển ra nước_ngoài hoặc khi điện_thoại ở trong vùng không có sóng .
+Vietcombank không ngừng bổ_sung vào “ bộ sưu_tập ” của mình những phương_thức xác_thực giao_dịch trực_tuyến mới nhằm mang đến sự đa_dạng , tiện_lợi , phù_hợp với nhiều hình_thức giao_dịch và nhiều đối_tượng khách_hàng .
+Các phương_thức xác_thực phổ_biến đang tiếp_tục được Vietcombank cung_cấp đến khách_hàng như như SMS OTP ( khi Khách_hàng thực_hiện giao_dịch , ngân_hàng sẽ gửi mã OTP qua tin nhắn đến số điện_thoại đã đăng_ký nhận OTP của Khách_hàng ) ; Mã PIN ( khi Khách_hàng sử_dụng mật_khẩu truy_cập để xác_thực ) .
+Với ứng_dụng Vietcombank_Smart OTP được phát_triển trên các thiết_bị di_động , khách_hàng có_thể nhập mã hiển_thị trên màn_hình ứng_dụng để xác_thực mỗi lần thực_hiện giao_dịch .
+Ưu_điểm lớn nhất của phương_thức này là khách_hàng có_thể chủ_động lấy mã OTP khi thực_hiện giao_dịch mọi_lúc_mọi_nơi một_cách nhanh_chóng và gọn_nhẹ .
+Sở_hữu nhiều lợi_thế như_vậy nhưng Vietcombank vẫn không ngừng nghiên_cứu , tiếp_tục nâng_cấp để phương_thức xác_thực này trở_nên ưu_việt hơn .
+Hiện_nay khách_hàng hoàn_toàn được miễn_phí khi cài đặt ứng_dụng này để nhận mã OTP trong quá_trình xác_thực giao_dịch .
+Ngoài_ra , công_nghệ xác_thực bằng sinh trắc học thông_qua vân tay hoặc nhận_diện khuôn_mặt của Vietcombank cũng đang rất được khách_hàng ưa_chuộng .
+Đây không_chỉ là một phương_thức xác_thực giao_dịch đơn_thuần mà_còn mang đến một trải_nghiệm công_nghệ thú_vị cho người dùng .
+Thay_đổi hạn_mức cho các phương_thức xác_thực trên kênh ngân_hàng trực_tuyến VCB– iB@nking .
+Để tuân_thủ Quyết_định 630 của Ngân_hàng nhà_nước về “ Giải_pháp an_toàn bảo_mật trong thanh_toán trực_tuyến và thanh_toán thẻ ngân_hàng ” , gần đây Vietcombank đã triển_khai điều_chỉnh hạn_mức của các phương_thức xác_thực giao_dịch trực_tuyến .
+Theo đó , đối_với phương_thức xác_thực bằng tin nhắn SMS OTP , các giao_dịch thuộc nhóm chuyển_khoản , nạp tiền , thanh_toán hoá_đơn , dịch_vụ tài_chính , nộp ngân_sách nhà_nước : Thay_đổi hạn_mức giao_dịch 100 triệu VNĐ / giao_dịch và 100 triệu VNĐ / ngày ( ngoại_trừ giao_dịch chuyển_khoản nội_bộ cùng chủ_tài_khoản không giới_hạn_hạn_mức ) .
+Thay_đổi này sẽ chính_thức có hiệu_lực từ ngày 01/07/2019 .
+Đối_với phương_thức xác_thực bằng ứng_dụng Vietcombank_Smart OTP , các giao_dịch thuộc nhóm chuyển_khoản , nạp tiền , thanh_toán hoá_đơn , dịch_vụ tài_chính : Tăng hạn_mức lên tối_đa 1 tỷ VNĐ / giao_dịch và 1 tỷ VNĐ / ngày đối_với Khách_hàng cá_nhân thông_thường ; Tăng hạn_mức lên tối_đa 2 tỷ VNĐ / giao_dịch và 2 tỷ VNĐ / ngày với Khách_hàng cá_nhân Priority .
+Thời_gian chính_thức áp_dụng thay_đổi này là từ ngày 15/6/2019 .
+Việc điều_chỉnh hạn_mức của các phương_thức xác_thực giao_dịch trực_tuyến tại Vietcombank có ý_nghĩa tích_cực khuyến_khích khách_hàng hạn_chế sử_dụng tiền_mặt trong các giao_dịch .
+Vietcombank luôn chú_trọng áp_dụng công_nghệ mới trong lĩnh_vực bảo_mật , không ngừng nâng_cấp phương_thức xác_thực nhằm gia_tăng an_toàn và mang đến nhiều trải_nghiệm cho người sử_dụng .
+Thu_Hà
+
+Các phương_thức xác_thực giao_dịch trực_tuyến của Vietcombank

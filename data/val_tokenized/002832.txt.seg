@@ -1,0 +1,17 @@
+Việt_Nam đứng vị_trí thứ 6 trên toàn_cầu về nguồn tấn_công DDoS
+
+Việt_Nam đang đứng trước nguy_cơ lớn bị tấn_công và phát_tán tấn_công từ_chối dịch_vụ ( DDoS ) với vị_trí thứ 6 trên toàn_cầu . Xuất_hiện xu_hướng tấn_công DDoS mới " Bit - and - Piece " .
+
+Đó là những thông_tin được các chuyên_gia chia_sẻ tại Hội_thảo " Bảo_vệ mạng và dữ_liệu khỏi các cuộc tấn_công DDoS nhằm vào các tổ_chức , doanh_nghiệp " - lần đầu_tiên được tổ_chức tại Việt_Nam do Cục An_toàn thông_tin , Báo_VietnamNet , thuộc Bộ Thông_tin và Truyền_thông kết_hợp với Nexusguard_Limited tổ_chức tại Hà_Nội ngày 3-5 .
+Ông Donny_Chong , đến từ Nexusguard cho_biết : Theo báo_cáo nguy_cơ Quý 4 năm 2018 của Nexusguard , những số_liệu thống_kê cho thấy một vị_trí đáng quan_ngại của Việt_Nam trong bức tranh tấn_công DDoS toàn_cầu .
+" Cụ_thể , Việt_Nam đứng vị_trí thứ 6 trên toàn_cầu về nguồn tấn_công DDoS trên toàn_cầu sau Trung_Quốc , Mỹ , Pháp , Nga và Brazil " - ông Chong chia_sẻ thông_tin - " Việt_Nam đứng thứ vị_trí thứ 2 trong khu_vực Châu_Á Thái_Bình_Dương về nguồn tấn_công DDoS với tỷ_lệ 9.52 % sau Trung_Quốc , trên cả vị_trí của Ấn_Độ và Indonesia " .
+Báo_cáo của Nexusguard đã tiết_lộ sự xuất_hiện của hình_thức tấn_công ( DDoS ) phân_tán vô_cùng lén_lút nhắm vào các nhà_cung_cấp dịch_vụ truyền_thông ( CSP ) ví_dụ : như các nhà_mạng viễn_thông , công_ty cung_cấp dịch_vụ internet và trung_tâm dữ_liệu .
+Cách tấn_công mới này khai_thác tấn_công ở cấp_độ số_hiệu mạng ASN của các nhà CSP ( thay_vì tấn_công vào một hệ_thống thông_tin cụ_thể như tấn_công DDoS thông_thường ) bằng cách truyền lưu_lượng tấn_công nhỏ qua hàng trăm địa_chỉ IP ( giao_thức Internet ) để tránh bị phát_hiện .
+Hình_thức tấn_công mới được thiết_kế tránh bị phát_hiện và đã được đặt tên là cuộc tấn_công " Bit - and - Piece " .
+Hậu_quả của hình_thức tấn_công này không_chỉ ảnh_hưởng tới mạng_lưới của nhà_cung_cấp dịch_vụ CSP mà_còn ảnh_hưởng tới các cơ_quan chính_phủ và doanh_nghiệp trên mạng_lưới này , gây ra việc chậm_trễ trong tiếp_cận dịch_vụ và có_thể làm cho mạng_lưới bị sập .
+Ngoài_ra các chuyên_gia của Nexusguard đã cập_nhật những nguy_cơ tấn_công DDoS mới nhất trong bối_cảnh ngày_càng gia_tăng và áp_dụng các thiết_bị kết_nối IoT , cũng như giải_pháp ngăn_chặn cuộc tấn_công DDoS gây thiệt_hại cho các nhà_cung_cấp dịch_vụ và dòng dữ_liệu ...
+Cũng tại hội_thảo , Nexusguard đã công_bố các doanh_nghiệp Việt_Nam bị tấn_công từ_chối nhiều nhất ( tính từ 1-1 đến hết ngày 15-4 ) là VNPT , Viettel , FPT , Vietnamobile ...
+Ông Nguyễn_Huy_Dũng , quyền Cục_trưởng Cục An_toàn Thông_tin của Bộ T T&T T , cho_biết theo số_liệu thống_kê từ Trung_tâm Giám_sát an_toàn không_gian mạng quốc_gia thuộc Cục An_toàn Thông_tin cho thấy , từ giữa năm 2018 cho đến hết quý 1 năm 2019 , khi các giải_pháp đảm_bảo an_toàn , an_ninh mạng được quyết_liệt triển_khai , số_lượng các cuộc tấn_công mạng dẫn đến sự_cố đã giảm so với giai_đoạn trước .
+Đặc_biệt số cuộc tấn_công mạng nhằm vào các hệ_thống thông_tin tại Việt_Nam và số địa_chỉ IP Việt_Nam nằm trong các mạng máy_tính ma đã tiếp_tục giảm mạnh trong quý 1 năm 2019 .
+
+Tỷ_lệ nguồn tấn_công từ số_hiệu mạng Việt_Nam đứng thứ 4 , với tỷ_lệ 2.29 % , chỉ đứng sau Mỹ , Trung_Quốc và Pháp , chuyên_gia của Nexusguard cho_biết tại cuộc hội_thảo - Ảnh : T.HÀ

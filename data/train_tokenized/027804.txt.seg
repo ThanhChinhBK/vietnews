@@ -1,0 +1,26 @@
+Tốc_độ truyền dữ_liệu khi ta nói là bao_nhiêu ?
+
+Dù bạn nói nhanh hay chậm thì cũng đều có tốc_độ truyền dữ_liệu khoảng 39 bit mỗi giây . Tốc_độ này nhanh gấp 2 lần tốc_độ của mã Morse .
+
+Các nhà_nghiên_cứu ngôn_ngữ từ lâu đã quan_tâm tới tốc_độ truyền_tải thông_tin trong lời_nói con_người ở nhiều quốc_gia khác nhau .
+Nhiều giả_thuyết được đặt ra về sự liên_quan của tốc_độ truyền dữ_liệu và giới_tính , loại ngôn_ngữ , công_việc và cả tốc_độ đi bộ nhưng không có một nghiên_cứu chuyên_sâu nào .
+Một nghiên_cứu mới đăng trên tạp_chí Tiến_bộ khoa_học cho thấy người Ý có tốc_độ nói nhanh nhất trên hành_tinh , tối_đa 9 âm_tiết mỗi giây .
+Người Đức phát_âm chậm nhất , cung_cấp năm đến sáu âm_tiết trong cùng một khoảng thời_gian .
+Tuy_nhiên , dù nói nhanh hay chậm thì đều truyền_đạt lượng thông_tin gần_như nhau : 39 bit mỗi giây .
+Nhóm nghiên_cứu bắt_đầu với các văn_bản viết từ 17 ngôn_ngữ , bao_gồm tiếng Anh , tiếng Ý , tiếng Nhật và tiếng Việt .
+Họ đã tính_toán tốc_độ thông_tin của từng ngôn_ngữ theo bit / s và phát_hiện ra rằng trong tiếng Nhật , chỉ có 643 âm_tiết có mật_độ thông_tin khoảng 5 bit cho mỗi âm_tiết ; trong khi tiếng Anh , với 6.949 âm_tiết , có mật_độ chỉ hơn 7 bit cho mỗi âm_tiết .
+Tiếng Việt , với hệ_thống sáu âm phức_tạp ( mỗi âm có_thể phân_biệt rõ hơn một âm_tiết ) , đứng đầu bảng xếp_hạng 8 bit mỗi âm_tiết .
+Sau đó , nhóm khoa_học dành 3 năm để thu âm và nghiên_cứu lời_nói của 10 người với 14 ngôn_ngữ khác nhau .
+Mỗi ​​người tham_gia đọc to 15 đoạn văn_bản giống_hệt nhau đã được dịch sang tiếng_mẹ_đẻ của họ và tính tốc_độ nói trung_bình trên mỗi ngôn_ngữ , được đo bằng âm_tiết / giây .
+Không có gì ngạc_nhiên khi một_số ngôn_ngữ được nói nhanh hơn những ngôn_ngữ khác .
+Nhưng khi các nhà_khoa_học nhân tỉ_lệ này với tốc_độ bit để tìm_hiểu xem có bao_nhiêu thông_tin được truyền đi trên mỗi giây , họ đã bất_ngờ bởi tính nhất_quán của kết_quả .
+Bất_kể nhanh hay chậm , đơn_giản hay phức_tạp , mỗi ngôn_ngữ đều có tốc_độ trung_bình 39,15 bit / s .
+Modem máy_tính đầu_tiên trên thế_giới ( xuất_hiện vào năm 1959 ) có tốc_độ truyền 110 bit mỗi giây và kết_nối internet gia_đình trung_bình ngày_nay có tốc_độ truyền 100 megabit / giây ( hoặc 100 triệu bit ) .
+François_Pellegrino , nhà ngôn_ngữ_học tiến_hoá tại Đại_học Lyon ( Pháp ) nói rằng đây là một bất_ngờ thú_vị trong ngành nghiên_cứu ngôn_ngữ_học .
+Bởi_vì các nhà_khoa_học ngôn_ngữ từ trước tới nay đã tập_trung quá lâu vào sự phức_tạp về ngữ_pháp , tốc_độ truyền thông_tin bị bỏ_qua .
+Rõ_ràng là dù các ngôn_ngữ được nói rất khác nhau , không một ngôn_ngữ nào hiệu_quả hơn ngôn_ngữ khác trong việc cung_cấp thông_tin .
+Nhưng tại_sao lại chỉ 39 bit / s mà không phải con_số khác ?
+Nhóm nghiên_cứu của François_Pellegrino cho_rằng điều này liên_quan đến sự phát_triển sinh_học của bộ_não con_người và việc bộ_não có khả_năng tiếp_nhận bao_nhiêu thông trong tin lời_nói .
+Theo các nhà_khoa_học , chúng_ta ít bị giới_hạn việc xử_lý thông_tin bằng khả_năng nghe mà thường bị giới_hạn bởi việc bộ_não tiếp_nhận và xử_lý thông_tin nhanh như_thế_nào .
+Một người bình_thường thậm_chí có_thể nghe các bản ghi_âm tăng_tốc lên khoảng 120 % và vẫn không có vấn_đề gì với việc hiểu ( ví_dụ nghe Rap ) .
+

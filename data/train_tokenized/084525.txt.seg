@@ -1,0 +1,20 @@
+Cảnh_báo mã độc tống_tiền tấn_công người dùng Việt_Nam
+
+Công_ty Bkav vừa phát đi cảnh_báo một biến_thể mới của mã_độc_mã_hoá tống_tiền GandCrab đang tấn_công trên diện rộng người dùng Internet Việt_Nam .
+
+Theo thống_kê từ hệ_thống giám_sát virus của Bkav , tại Việt_Nam đã có 3.900 trường_hợp máy_tính bị virus này mã_hoá dữ_liệu tống_tiền .
+GandCrab lây_lan bằng cách gửi cho nạn_nhân một email giả_mạo với nội_dung thúc_giục nạn_nhân mở tập_tin văn_bản đính kèm trong email .
+Thực_chất tập_tin đính kèm này có chứa virus nên nếu nạn_nhân mở tập_tin lên , máy_tính sẽ bị nhiễm mã độc .
+Sau khi lây_nhiễm , mã độc sẽ mã_hoá toàn_bộ dữ_liệu của người dùng , dữ_liệu khi bị mã_hoá sẽ không_thể mở .
+Lúc này , trên máy_tính nạn_nhân sẽ xuất_hiện thông_báo đòi tiền chuộc để giải_mã các tập_tin dữ_liệu .
+Theo đó , để trả tiền chuộc người dùng phải cài trình_duyệt Tor , thanh_toán bằng tiền điện_tử Dash hoặc Bitcoin với giá_trị tương_đương 200 USD đến 1.200 USD tuỳ theo số tập_tin bị mã_hoá .
+Theo ghi_nhận của Bkav , hiện_tại chưa nạn_nhân nào thực_hiện trả tiền chuộc cho hacker .
+Chuyên_gia Bkav cũng cho_biết mã độc mới GandCrab đang lây_lan tại Việt_Nam thuộc thế_hệ thứ 5 của GandCrab .
+Thế_hệ thứ nhất của GandCrab được phát_hiện lần đầu trên thế_giới vào tháng 1-2018 .
+Từ đó đến nay dòng mã độc nguy_hiểm này liên_tục được hacker cải_tiến , nâng_cấp liên_tục qua 4 thế_hệ với mức_độ tinh_vi và độ phức_tạp ngày_càng cao .
+Để phòng_chống virus , Bkav khuyến_cáo : " Người dùng cần cài_đặt phần_mềm diệt virus thường_trực cho máy_tính của mình .
+Tuyệt_đối không mở tập_tin đính kèm từ các email không rõ nguồn_gốc .
+Trong trường_hợp bắt_buộc phải mở để xem nội_dung , người sử_dụng có_thể mở tập_tin trong môi_trường cách_ly an_toàn Safe_Run " .
+
+Mã độc tống_tiền GandCrab đang nhắm đến người dùng Việt_Nam .
+- Ảnh : BKAV

@@ -1,0 +1,32 @@
+Phong_trào ‘ 2009-2019 ’ : có vẻ thú_vị nhưng coi_chừng ... sập bẫy
+
+Trên các mạng xã_hội như Facebook , Instagram và Twitter đang rộ lên trào_lưu # 10 yearschallenge ( thách_thức 10 năm ) chia_sẻ hình_ảnh “ ngày ấy - bây_giờ ” với rất đông người hưởng_ứng .
+
+Với nhiều người , trò_chơi này đơn_giản là một khoảnh_khắc tự nhìn lại sau 10 năm để thấy diện_mạo bản_thân đã thay_đổi ra sao dưới " sức tàn_phá " của thời_gian .
+Theo đó , nó đơn_thuần mang ý_nghĩa vui_vẻ , giải_trí .
+Tuy_nhiên , trang_web chuyên bàn sâu về các khía_cạnh bảo_mật thông_tin Wired chia_sẻ quan_điểm của tác_giả Kate_O ’ Neil về xu_hướng đang nổi lên này với khuyến_cáo đáng suy_nghĩ về những hệ_quả có_thể nhiều người chưa lường tới liên_quan tới trò_chơi " thách_thức 10 năm " .
+Dữ_liệu cho công_nghệ nhận_diện ?
+Thử hình_dung tình_huống bạn muốn đào_tạo một thuật_toán nhận_diện các đặc_trưng về diện_mạo liên_quan tới tuổi_tác , cụ_thể hơn là sự thay_đổi diện_mạo khi tuổi_tác tăng thêm .
+Đương_nhiên trong tình_huống đó bạn sẽ muốn thu_thập được một lượng dữ_liệu cực lớn với rất nhiều ảnh chân_dung của mọi người .
+Để sử_dụng dữ_liệu đó cho mục_đích phát_triển thuật_toán nhận_diện đang cần , bạn sẽ phát_triển thuật_toán hiệu_quả hơn khi biết các bức_ảnh chân_dung của cùng một người được chụp ở khoảng_cách thời_gian chính_xác là 10 năm .
+Dĩ_nhiên cũng có người nói những bức_ảnh này người dùng đã tải lên sẵn trên tài_khoản Facebook của họ rồi .
+Thời_gian chụp ảnh cũng có_thể xác_định được thông_qua dữ_liệu file .
+Tuy_nhiên nếu gom cả một đống hỗn_độn những hình_ảnh đó rồi mới phân_loại , lọc lựa theo mốc thời_gian để so_sánh , đối_chiếu thì sẽ vô_cùng tốn_công .
+Chưa kể là không phải ai cũng đăng hình_ảnh theo tiến_trình thời_gian chụp .
+Thêm nữa , không phải ai cũng dùng ảnh chân_dung họ làm hình_ảnh đại_diện cho tài_khoản Facebook .
+Nói cách khác , trò_chơi " thách_thức 10 năm " sẽ giúp ai đó đang có nhu_cầu phát_triển thuật_toán nhận_diện có liên_quan tới những đặc_trưng tuổi_tác có_thể tiếp_cận những dữ_liệu họ cần sau khi đã được gắn nhãn thông_tin rõ_ràng , cụ_thể .
+Hầu_hết người dùng khi tham_gia trò_chơi này đều cung_cấp những thông_tin hữu_ích như " tôi năm 2008 và tôi năm 2018 " ; hoặc có_khi gồm cả địa_điểm , thời_gian chụp ảnh kiểu như " ảnh năm 2008 tại ĐH nào đó " , do ai chụp và ảnh năm 2018 khi đi thăm đâu_đó …
+Và như_vậy , nhờ thông_tin đó , mạng xã_hội đã là nguồn cung_cấp bộ dữ_liệu rất lớn gồm các bức_ảnh được chọn_lọc của mọi người với khoảng_cách thời_gian từ 10 năm trước và hiện_tại .
+Cũng sẽ có người lập_luận là chưa chắc người dùng đã sử_dụng hình_ảnh chính_xác như quy_định của trò_chơi thách_thức 10 năm .
+Tuy_nhiên khi mã chủ_đề " # 10 YearChallenge " được khuếch_trương , dữ_liệu liên_quan sẽ tăng lên nhanh_chóng và độ_chính_xác cũng có tỉ_lệ cao hơn , theo Wired .
+Đó là chưa kể các thuật_toán nhận_diện hiện_tại đã tinh_vi hơn rất nhiều , đủ khả_năng để nhận ra mặt người chứ không phải gì khác .
+Do_đó nếu bạn upload ( tải lên ) hình_ảnh một con mèo chẳng_hạn , nó sẽ nhận_ra ngay và loại_bỏ luôn .
+Facebook bác chuyện thu_thập dữ_liệu
+Mạng xã_hội Facebook tuyên_bố họ không liên_quan gì tới " trend " mới này , nói đó chỉ là phong_trào do chính người dùng xới lên và lôi_kéo được đông_đảo mọi người tham_gia .
+Một người_phát_ngôn của Facebook nói : " Facebook không khởi_xướng chuyện này và việc đăng những hình_ảnh so với của người dùng cũng đã có trên Facebook .
+Facebook không hưởng lợi gì trong chuyện này cả " .
+Liên_quan việc này , Facebook cũng nhắc lại với người dùng là họ có_thể tuỳ chọn tắt / bật tính_năng nhận_diện bất_cứ lúc_nào .
+Tuy_nhiên ngay cả khi trò_chơi mới này không liên_quan gì với Facebook thì trong các năm qua , dư_luận cũng đã chứng_kiến rất nhiều ví_dụ thực_tế về tình_huống một trò game chơi trên mạng xã_hội đã được thiết_kế nhằm mục_tiêu khai_thác và thu_thập thông_tin cá_nhân .
+Một trong những ví_dụ điển_hình này là vụ khai_thác dữ_liệu khổng_lồ của hơn 70 triệu người dùng Facebook thông_qua một trò game trắc_nghiệm của công_ty phân_tích dữ_liệu chính_trị Cambridge_Analytica .
+
+Ảnh thách_thức 10 năm của ông chủ Facebook , Mark_Zuckerberg - Ảnh : GETTY_IMAGES

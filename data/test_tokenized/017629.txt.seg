@@ -1,0 +1,25 @@
+Cảnh_báo ngập từ hệ_thống thông_tin địa_lý GIS
+
+Một ứng_dụng giúp người_dân biết tình_hình mưa , triều , ngập nước , sự_cố thoát nước vừa ra_đời . Nó cũng cung_cấp thông_tin , cảnh_báo ngập nước và tiếp_nhận thông_báo sự_cố thoát nước ở TP. HCM .
+
+Tác_giả là nhóm bạn trẻ của Trung_tâm Điều_hành chương_trình chống ngập nước TP. HCM ( Trung_tâm chống ngập ) .
+Ban_đầu ứng_dụng này chỉ là cổng thông_tin cập_nhật hệ_thống thoát nước phục_vụ nội_bộ trung_tâm , sau đã phát_triển thành cổng thông_tin mở của toàn thành_phố .
+Cung_cấp theo thời_gian thực
+Những ngày đầu tháng 11 , triều_cường trên sông Sài_Gòn vượt mức báo_động 3 ( trên 1,5 m ) gây ngập nhiều tuyến đường ở TP. HCM như Trần_Xuân_Soạn , Hồ_Học_Lãm , Quốc_Hương , quốc_lộ 50 ...
+Những thông_tin , hình_ảnh thực về tình_trạng ngập nước bao_gồm vị_trí ngập , thời_gian ngập , mức_độ ngập , việc đi_lại khó_khăn của người_dân ... được cập_nhật theo thời_gian thực trên cổng thông_tin https://chongngap.hochiminhcity.gov.vn/baongap .
+Truy_cập vào cổng thông_tin này từ máy_tính ( hoặc điện_thoại thông_minh - smartphone ) thông_qua đường link truy_cập hoặc mã quét ( QRCode ) , người dùng sẽ thấy bản_đồ được số_hoá , trong đó có các biểu_tượng về hệ_thống camera , trạm đo mưa , trạm đo triều_ứng với các địa_điểm thực_tế và các biểu_tượng thông_tin điểm ngập , sự_cố .
+Theo ông Nguyễn_Hoàng_Anh_Dũng - phó giám_đốc Trung_tâm chống ngập , cổng thông_tin trên được triển_khai thử_nghiệm năm 2017 và công_bố chính_thức ngày 9-8 vừa_qua .
+Nhân_viên trung_tâm tiếp_nhận các thông_tin từ người_dân về ngập nước , sự_cố thoát nước , sụt lún , sự_cố nắp hố_ga , rác làm tắc dòng_chảy ... hoặc giám_sát hiện_trường và hiển_thị tức thì ngay trên cổng thông_tin theo thời_gian thực .
+Ví_dụ khi mưa hay triều_cường cao gây ngập , trên giao_diện của cổng thông_tin sẽ hiện những biểu_tượng màu đỏ để cảnh_báo .
+Đồng_thời , các biểu_tượng camera cung_cấp hình_ảnh thực_tế đang diễn ra tại nơi ngập đó .
+Thông_qua ứng_dụng này , người_dân có_thể biết được tương_đối chính_xác tình_hình ngập nước ở những địa_điểm , tuyến đường cụ_thể hoặc có được thông_tin dự_báo thời_tiết hằng_ngày do Đài_khí_tượng thuỷ_văn khu_vực Nam_Bộ cung_cấp , từ đó có_thể chủ_động lựa_chọn lộ_trình , thời_gian , kế_hoạch đi_lại thích_hợp nhằm hạn_chế khả_năng bị ảnh_hưởng bởi tình_trạng ngập nước .
+Bên cạnh đó , thông_qua các cách thể_hiện trực_quan , cổng thông_tin cũng vận_động người_dân không xả rác , không lấp miệng hầm ga thoát nước , bảo_vệ hệ_thống thoát nước , chung tay xây_dựng thành_phố xanh sạch đẹp , không ngập nước .
+Từ những đòi_hỏi thực_tế
+Theo ông Nguyễn_Hoàng_Anh_Dũng , cổng thông_tin ra_đời từ những nhu_cầu thực_tế của người_dân trong việc chủ_động có thông_tin về tình_hình mưa , triều , ngập nước , sự_cố thoát nước .
+Đây cũng là kết_quả ứng_dụng công_nghệ_thông_tin trong công_tác quản_lý thoát nước nhằm phục_vụ được nhiều tiện_ích cho người_dân trong lĩnh_vực giảm ngập .
+Bạn Tạ_Thanh_Lan - hiện là phó bí_thư Đoàn thanh_niên Trung_tâm chống ngập TP , phụ_trách chính về mặt kỹ_thuật , điều_hành cổng thông_tin - cho_biết ban_đầu cổng thông_tin chứa các dữ_liệu hệ_thống thoát nước ( hệ_thống WebGIS ) , được sử_dụng nội_bộ nhằm phục_vụ công_tác chuyên_môn tại đơn_vị , giúp_việc chia_sẻ dữ_liệu giữa các phòng ở Trung_tâm chống ngập tốt hơn .
+Từ nền_tảng đó , trung_tâm phát_triển thêm thành nơi cung_cấp , chia_sẻ thông_tin một_cách nhanh_chóng về tình_hình ngập nước , hạ_tầng thoát nước ... rộng_rãi hơn .
+Qua đó cũng tăng_cường sự tương_tác giữa người_dân và cơ_quan ban_ngành chuyên_môn , nâng_cao hiệu_quả điều_hành trong lĩnh_vực thoát nước , giảm ngập và sử_dụng hiệu_quả nguồn tài_nguyên với tính kết_nối , chia_sẻ thông_tin dữ_liệu cao .
+Cũng theo ông Dũng , cổng thông_tin hệ_thống thoát nước của Trung_tâm chống ngập được phát_triển trên nền GIS có khả_năng tích_hợp với các sở ban_ngành và mở_rộng , cập_nhật tự_động trong tương_lai , được hình_thành từ những nỗ_lực , mong_muốn góp_phần chung tay xây_dựng " Đô_thị thông_minh - Smart city " mà TP đang hướng tới cũng như nâng_cao chất_lượng cuộc_sống người_dân hơn .
+
+Bạn Tạ_Thanh_Lan kiểm_tra hình_ảnh thực các công_nhân duy_tu hệ_thống thoát nước từ cổng thông_tin chống ngập - Ảnh : QUANG_KHẢI .

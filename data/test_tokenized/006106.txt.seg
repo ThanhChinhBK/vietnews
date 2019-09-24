@@ -1,0 +1,23 @@
+Facebook phát_minh đơn_vị thời_gian mới nhỏ hơn 1 micro giây
+
+Facebook đã phát_minh ra một đơn_vị thời_gian mới : " flick " , tương_đương với 1/705.600.000 của 1 giây - lớn hơn 1 nano giây và nhỏ hơn 1 micro giây .
+
+Christopher_Horvath - người phát_minh ra flick , cho_biết nó là từ viết tắt của " frame tick " , một cụm_từ có nguồn_gốc từ ngành điện_ảnh .
+Vì_sao Facebook cần một đơn_vị thời_gian mới ?
+Chuyện này xuất_phát từ công_ty_con Oculus VR của họ và cú " đặt_cược " lớn của công_ty này vào thực_tế ảo .
+Còn đối_với Horvath , người trước_đây từng làm_việc cho các hãng phim lớn như Pixar , Weta_Digital , và Industrial_Light & Magic , nó là một phần của một dự_án đầy đam_mê .
+Trong phim_ảnh , các trò_chơi điện_tử và những phương_tiện dựa trên màn_hình khác , những người tạo ra chúng phải suy_nghĩ rất nhanh .
+Chẳng_hạn , hầu_hết các bộ phim đều được quay ở tốc_độ 24 khung hình / giây , nghĩa_là bộ_phim đó sẽ thể_hiện 24 hình_ảnh tĩnh liên_tục trong mỗi giây để " đánh_lừa " người xem là mọi thứ đang chuyển_động .
+Vấn_đề là , như mô_tả của Horvath , toán_học lại trở_nên " lộn_xộn " khi chúng_ta cố_gắng làm_việc với một khung hình theo một tỉ_lệ nào đó .
+Ở tốc_độ 24 khung hình / giây ( hay còn gọi là FPS ) , mỗi khung hình chỉ kéo_dài khoảng 0,04166666667 giây , hay 41666666,669 nano giây .
+Những con_số đó nhìn không " đẹp_mắt " tí nào , khi phần số lẻ cứ lặp lại vô_tận .
+Kết_quả là nó có_thể gây khó_khăn cho các lập_trình_viên và nghệ_sĩ đang cố_gắng làm_việc một_cách chính_xác với những tỉ_lệ này .
+Đó là lý_do vì_sao flick của Facebook ra_đời .
+Nó có_thể đại_diện cho một khung hình bằng một con_số chẵn , nhìn khá đẹp_mắt .
+Ví_dụ như ở tốc_độ 24 FPS của hầu_hết các bộ phim thì mỗi khung hình là 29.400.000 .
+Ở tốc_độ 60 FPS , một tỉ_lệ được xem là đáng khao_khát cho các trò_chơi điện_tử , thì mỗi khung hình là dài 11.760.000 flick .
+Đó là một con_số có_thể giúp cho việc nhân chia hay cộng_trừ được dễ_dàng , vì chúng_ta không phải lo_lắng về những dấu_chấm thập_phân .
+Về phần mình , Facebook đã phát_hành các tài_liệu của họ về phát_minh này và hiện đang dùng flick như một mã nguồn mở , nghĩa_là bất_kỳ ai cũng có_thể tải nó xuống và thêm phần hỗ_trợ cho đơn_vị này vào phần_mềm của riêng mình .
+Điều đó cũng đồng_nghĩa với việc flick có_thể trở_thành một đơn_vị thời_gian tiêu_chuẩn - nếu không phải trên chiếc đồng_hồ của bạn thì cũng là trong lĩnh_vực nghệ_thuật thị_giác .
+
+Facebook đã phát_minh ra một đơn_vị thời_gian mới nhỏ hơn 1 micro giây - Ảnh : REUTERS

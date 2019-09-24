@@ -1,0 +1,32 @@
+Những ' bí_ẩn ' trong toán phổ_thông : đạo_hàm để làm gì ?
+
+Ai từng đi học cũng đều quen thuộc với khái niệm “ đạo_hàm ” , nhưng ít người biết nó có ý nghĩa gì , ứng dụng gì trong cuộc sống .
+
+Bài lược trích của thầy_giáo Ngô_Minh_Đức dưới đây hi_vọng sẽ là lời giải_thích gần_gũi về ý_nghĩa và ứng_dụng thực_tiễn của đạo_hàm .
+Một năm sau ngày ra trường , bạn đi họp lớp và gặp lại đứa bạn ngồi cùng bàn .
+Quá bất ngờ vì cô bạn trở nên xinh đẹp , tự_tin , khiến bạn phải thốt lên : " Mới có một năm , sao bạn thay đổi nhiều quá vậy ?
+Câu chuyện đơn giản trên đã ẩn chứa ý tưởng đạo hàm trong đó .
+Khi một điều gì đó thay đổi , nó có thể thay đổi nhanh hay chậm , đạo hàm sẽ cho ta biết " tốc độ thay đổi " của đại lượng đó .
+Nhờ ý_nghĩa này , đạo hàm trở_thành công cụ vô cùng quan trọng , ở bất cứ đâu có sự thay đổi , chúng ta sẽ biết được nó thay đổi như thế nào bằng đạo_hàm .
+Cụ_thể , nếu hàm số đang tăng đạo hàm sẽ dương , tăng càng nhanh thì đạo hàm càng lớn .
+Ngược lại , hàm số đang giảm , đạo hàm sẽ âm và âm càng nhiều khi hàm số giảm càng nhanh .
+Ở khía_cạnh thực_tiễn , nếu bạn là nhà_kinh_tế và muốn biết tốc_độ tăng_trưởng kinh_tế nhằm đưa ra những quyết_định đầu_tư chứng_khoán đúng_đắn ; nếu bạn là nhà hoạch_định chiến_lược , muốn có thông_tin về tốc_độ gia_tăng dân_số ở từng vùng miền ; hoặc muốn xác_định tốc_độ phản_ứng_hoá_học , tính_toán tốc độ , gia_tốc của chuyển_động … Đạo_hàm sẽ là thứ mà bạn cần .
+Rất đơn_giản !
+Đầu_tiên bạn cần có hàm_số mô_tả đại_lượng đang quan_tâm và sau đó chỉ cần đạo_hàm nó .
+Còn tính đạo_hàm như_thế_nào thì sách giáo khoa đã chỉ_dẫn rõ_ràng và chi_tiết , đơn giản hơn chúng ta có thể nhờ máy tính làm giúp .
+Đạo hàm còn những ứng dụng tuyệt vời khác .
+Một trong số đó là tìm xem hàm số sẽ đạt được giá trị lớn nhất hay nhỏ nhất ở đâu , để từ đó tối ưu hóa các hoạt động khác nhau trong cuộc sống .
+Khi một hàm số đang tăng ( đạo hàm dương ) rồi bất chợt chuyển sang giảm ( đạo hàm âm ) , nó đã đi qua vị trí mà tại đó hàm số đạt giá trị cực đại và vị trí này cũng chính là nơi có đạo hàm bằng 0 ( có thể có ngoại lệ nhé ! ) .
+Tương_tự cho trường hợp hàm số đạt được giá trị cực tiểu .
+Từ nhận xét này , bằng cách tìm những chỗ mà đạo hàm bằng 0 , người ta có thể biết một đại lượng sẽ đạt giá trị lớn nhất hay nhỏ nhất ở đâu để từ đó có thể tối ưu hóa nó theo mong muốn của mình .
+Sử dụng đặc trưng này của đạo hàm , các công_ty có thể tính được số sản phẩm nên sản xuất để đạt được lợi nhuận cao nhất .
+Các kĩ sư sẽ biết phải thiết kế một hộp sữa hay một lon nước ngọt như thế nào , với lượng nguyên liệu có sẵn , để có một hộp sữa chứa được nhiều sữa nhất …
+Cụ_thể , ta cần có hàm_số mô_tả lợi_nhuận theo số_lượng sản_phẩm hoặc hàm_số mô_tả thể_tích hộp sữa theo kích_thước thiết_kế .
+Đạo_hàm sẽ giúp ta tìm xem các hàm_số này đạt giá_trị lớn nhất tại đâu .
+Đó chính là lựa_chọn tối_ưu cho nhà_sản_xuất .
+Ở các sách giáo khoa nước ngoài , họ luôn nhấn mạnh cho học sinh rằng ý nghĩa quan trọng nhất của đạo hàm là cho biết tốc độ thay đổi ( rate of change ) của một hàm số .
+Vậy tại sao chúng ta mất rất nhiều thời gian học phổ thông để tìm hiểu đạo hàm mà vẫn không biết nó có ý nghĩa gì ?
+Phải_chăng việc dạy học toán còn quá chú trọng vào mục đích thi cử , chủ_yếu dạy học sinh cách tính đạo hàm và ứng dụng để giải nhiều dạng toán theo mẫu .
+Làm như_vậy có khiến cho môn toán mất dần ý nghĩa với học sinh ?
+
+Thầy Lê_Bá_Khánh_Trình và các học_trò hăng_say giải_toán trong giờ giải_lao - Ảnh : TƯỜNG_HÂN .

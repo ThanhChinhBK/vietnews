@@ -1,0 +1,27 @@
+Nhóm hacker Triều_Tiên_Lazarus đang âm_thầm đánh_cắp Bitcoin
+
+Sự gia_tăng đột_biến của giá Bitcoin hiện_nay được cho là nguyên_nhân khiến Triều_Tiên quan_tâm đến việc phát_động các cuộc tấn_công . Được biết , nhóm hacker Lazarus dùng phần_mềm độc_hại đính kèm trong email lừa_đảo để đánh_cắp Bitcoin .
+
+Nhóm hacker Lazarus của Triều_Tiên là chủ_mưu trong vụ trộm Bitcoin này .
+Lazarus vốn từng bị buộc tội tung ra các cuộc tấn_công quy_mô toàn_cầu , bao_gồm cả vụ WannaCry và các vụ cướp trực_tuyến ngân_hàng Bangladesh_Bank với tổng thiệt_hại 81 triệu USD .
+Các hoạt_động của nhóm hacker khét_tiếng này lần đầu_tiên được đưa ra ánh_sáng sau khi bị buộc_tội tấn_công Sony_Pictures vào năm 2014 .
+Theo các chuyên_gia bảo_mật tại Secureworks , Lazarus đã tung ra chiến_dịch lừa_đảo từ tháng 10 với cách_thức tấn_công không quá phức_tạp .
+Vẫn là hình_thức đính kèm mã độc vào email với nội_dung hấp_dẫn như mua Bitcoin với giá rẻ và lừa nạn_nhân nhấp chuột vào đó , nhưng thay_vì nhắm vào người dùng và các nhân_viên bình_thường , chúng nhắm mục_tiêu vào các giám_đốc tài_chính đang quản_lý tiền ảo , trong đó có Bitcoin .
+Hacker sẽ gửi đến một email có chứa thông_tin về vị_trí giám_đốc tài_chính của một công_ty khác .
+Bên trong , email đính kèm một văn_bản lưu lại bằng Microsoft_Word , đồng_thời yêu_cầu chỉnh_sửa lại văn_bản này .
+Khi nhấp vào tài_liệu sẽ tự_động tải RAT ( một trojan truy_cập từ xa ) , cho_phép hacker hoàn_thành việc truy_cập vào máy_tính của nạn_nhân .
+Nó cho_phép hacker có_thể tải và cài_đặt phần_mềm độc_hại khác bất_cứ lúc_nào .
+Nếu máy_tính đó thực_hiện các giao_dịch Bitcoin hoặc tiền điện_tử khác , các thông_tin có_thể bị ghi lại và bị âm_thầm đánh_cắp .
+Không_những thế , khi tập_tin văn_bản được mở ra , lập_tức một macro sẽ xâm_nhập hệ_thống , tự_động tạo một văn_bản giả mô_tả vai_trò của một CFO đang làm_việc cho một công_ty tiền điện_tử tại châu_Âu với thông_tin được lấy từ một CFO thực_tế trên LinkedIn .
+Cách tấn_công này mới_lạ , nguy_hiểm và khó phát_hiện hơn .
+ZDNet báo_cáo các nhà_nghiên_cứu của Secureworks cho_rằng phần_mềm độc_hại được sử_dụng trong chiến_dịch này là một dạng trojan mới , có khả_năng được lập_trình đặc_biệt cho các cuộc tấn_công kiểu này .
+Rafe_Pilling , một nhà_nghiên_cứu cao_cấp , cho_biết : " Điều thú_vị ở đây là kỹ_thuật và chiến_thuật được chúng sử_dụng đã thay_đổi bản_chất .
+Trước_đây , Lazarus nhắm mục_tiêu các tổ_chức quốc_phòng , giờ chuyển sang các công_ty tài_chính . "
+Không phải gần đây khi giá Bitcoin tăng thì Triều_Tiên mới quan_tâm đến .
+Từ năm 2013 , nước này đã bắt_đầu tiến_hành các nghiên_cứu về tiền điện_tử .
+Pilling nói thêm : " Vào thời_điểm đó , Triều_Tiên đã sử_dụng proxy để che_giấu địa_chỉ IP gốc , nhưng thỉnh_thoảng các proxy này thất_bại và tiết_lộ IP thực_sự của họ .
+Với mức giá Bitcoin tăng hiện_nay , chúng_tôi nghi_ngờ rằng sự quan_tâm của Triều_Tiên về tiền điện_tử vẫn còn rất cao .
+Các chiến_dịch gần đây của nhóm Lazarus vẫn đang tiếp_diễn " .
+Cơ_quan gián_điệp Hàn_Quốc cho_biết có bằng_chứng cho thấy hacker Triều_Tiên đã tấn_công Bithumb - một trong những sàn giao_dịch Bitcoin bí_mật lớn nhất của Hàn_Quốc - vào tháng 6 và cũng thực_hiện một cuộc tấn_công tương_tự với Coinis vào tháng 9 .
+Hiện có ít_nhất một công_ty về tiền điện_tử tại Anh bị tấn_công theo cách_thức này .
+

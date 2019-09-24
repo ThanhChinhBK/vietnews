@@ -1,0 +1,19 @@
+Robot bắt_chước loài vật tự đi tiếp khi ' bị_thương '
+
+Một nhóm các nhà_khoa_học quốc_tế vừa chế_tạo robot với phần_mềm đặc_biệt cho_phép chúng tìm cách thích_nghi khi bị chấn_thương chỉ trong 2 phút .
+
+Các nhà_khoa_học từ Đại_học Pierre và Marie_Curie ( Pháp ) và Đại_học Wyoming ( Mỹ ) cho_biết họ đã chế_tạo robot này dựa trên cơ_chế tự phục_hồi của các loài vật .
+Khi một con thú bị_thương ở chân , chúng có_thể thích_nghi bằng cách đi khập_khiễng , chuyển trọng_tâm sang chân kia hoặc một_số chiến_lược khác .
+Ví_dụ một con chó dù chỉ ba chân vẫn có_thể bắt bọ cánh cứng , hoặc nếu ai đó bị bong gân mắt cá chân , họ vẫn có_thể tìm ra cách để đi tiếp .
+" Khi bị_thương , động_vật có trực_giác về những cách khác nhau để xử_lý tình_huống " , Jean - Baptiste_Mouret - đồng_tác_giả nghiên_cứu , nói .
+" Những trực_giác này cho_phép chúng chọn vài cách khác nhau để thử , và sau những lần thử này , chúng sẽ chọn một_cách có lợi nhất .
+Chúng_tôi đã chế_tạo ra các robot có_thể làm tương_tự " , ông giải_thích .
+Trước khi vận_hành , robot này sử_dụng thuật_toán mới để tạo ra một bản_đồ chi_tiết về không_gian .
+Điều này cho_phép nó phát_triển trực_giác nhất_định về những hành_vi mà nó có_thể thực_hiện và ưu_thế của các hành_vi đó .
+Về cơ_bản , robot có_thể xây_dựng một thư_viện các chuyển_động khác nhau và thiết_lập các bộ_phận cơ_thể mà nó có_thể dựa vào nếu bị_thương , ngay cả khi nó bị gãy hoặc cụt chân .
+Tuy_nhiên quá_trình này sẽ mất quá nhiều thời_gian và có khả_năng làm hỏng thiết_bị , do_đó các nhà_khoa_học đã lập sẵn bản_đồ bằng mô_phỏng máy_tính .
+Khi làm như_vậy , họ có_thể kiểm_tra và lập bản_đồ hơn 13.000 cách đi khác nhau cho robot , bao_gồm cả khi " chân robot bị hỏng , gãy và rơi ra , và cánh_tay robot bị gãy " , theo các nhà_nghiên_cứu .
+Các nhà_khoa_học gọi quá_trình này là " một thuật_toán và thử_nghiệm thông_minh " , cuối_cùng cho_phép robot thích_ứng với các tình_huống trong tối_đa 2 phút .
+Với nghiên_cứu này , họ hi_vọng sẽ giúp robot ' sống_sót ' lâu hơn khi làm các nhiệm_vụ nguy_hiểm như cứu người trong cháy rừng hoặc động_đất .
+
+Các nhà_khoa_học hi_vọng sẽ giúp robot ' sống_sót ' lâu hơn khi làm các nhiệm_vụ nguy_hiểm như cứu người trong cháy rừng hoặc động_đất - Ảnh : Đại_học Pierre và Marie_Curie

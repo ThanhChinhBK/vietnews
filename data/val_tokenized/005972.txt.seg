@@ -1,0 +1,27 @@
+Tìm thấy đường_biển dài nhất nằm trên một đường_thẳng
+
+Con đường dài 32.089,7 km , bắt_đầu từ bờ biển Sonmiani , Pakistan và điểm cuối là huyện Karaginsky , vùng Kamchatka , Nga .
+
+Nhìn lướt qua những hình_ảnh trên , chúng_ta có_thể thấy những con_đường này dường_như không thẳng .
+Nhưng hãy nhớ Trái_đất có hình_cầu và khi trải nó ra mặt_phẳng thì những cung_tròn sẽ thành đường_thẳng .
+Hai nhà_khoa_học Rohan_Chabukswar từ Trung_tâm Nghiên_cứu Công_nghệ Hoa_Kỳ và Kushal_Mukherjee từ IBM Research_Ấn_Độ đã tìm ra con_đường thẳng trên biển dài nhất thế_giới với chiều_dài 32.089,7 km .
+Con đường bắt_đầu từ bờ biển Sonmiani , Pakistan , băng qua eo_biển giữa Madagascar và lục_địa Phi , tiếp_tục băng qua eo_biển giữa lục_địa Nam_Mỹ và lục_địa Nam_Cực , cuối_cùng hướng về phía bắc tây bắc băng qua Thái_Bình_Dương đến điểm cuối là huyện Karaginsky , vùng Kamchatka , Nga .
+Điều thú_vị là đường_thuỷ gần giống với con đường này do một người không chuyên tìm thấy dựa trên bản_đồ 6 năm trước .
+Theo trang Science , cuối năm 2012 , một người dùng trang Reddit tên Patrick_Anderson - luật_sư môi_trường ở Decatur , Georgia ( Mỹ ) cho_rằng chuyến hải_trình 32.090,3 km từ miền nam Pakistan tới miền đông bắc Nga chính là con_đường thẳng trên biển dài nhất Trái_đất .
+Anderson mày_mò trên bản_đồ rồi ước_tính kết_quả .
+Sau đó , ông dùng máy_tính để cho thấy đây là một con_đường thẳng và tính_toán chiều_dài của nó .
+Khi thấy video của Anderson trên internet , Rohan_Chabukswar và Kushal_Mukherjee vô_cùng hứng_thú với đề_tài này và quyết_định đi tìm câu trả_lời .
+Trước_tiên , 2 nhà_khoa_học thu_thập dữ_liệu về địa_hình Trái_đất từ Đoàn Uỷ_nhiệm Quản_trị Khí_quyển và Đại_dương Quốc_gia Mỹ ( NOAA ) .
+Họ dùng thuật_toán trên máy_tính vẽ những đường_thẳng ( trên quả địa_cầu là những cung_tròn ) cách nhau 1,8 km ngoài thực_địa .
+Chabukswar và Mukherjee thu được tập_hợp 233.280.000 đường_thẳng , mỗi đường lại chứa khoảng 21.600 điểm cách nhau 1,8 km nằm trên đất_liền hoặc trên biển .
+Tính ra có khoảng 5.038.848.000.000 điểm cần phải tính khoảng_cách .
+Sau đó , họ dùng phương_pháp giải thuật phân nhánh và giới hạn ( brand and bound ) hoạt_động bằng cách xem_xét tất_cả khả_năng có_thể xảy ra để xác_định con_đường thẳng dài nhất trên biển .
+Thuật_toán sau đó kiểm_tra tính khả_thi của từng nhánh trên sơ_đồ , xem_xét các tổ_hợp trong một nhánh và cố_gắng tìm những kết_quả gần với giá_trị tối_ưu nhất .
+Sau khoảng 10 phút tính_toán chạy máy_tính , 2 nhà_khoa_học tìm được đáp_án .
+Cũng trong nghiên_cứu này , Chabukswar và Mukherjee sử_dụng kỹ_thuật tương_tự tìm_kiếm con_đường thằng trên bộ dài nhất trên Trái_đất .
+Các máy_tính mất 45 phút tính_toán ra con_đường dài 11.241 km chạy qua 15 quốc_gia khác nhau , bắc đầu từ tỉnh Quảng_Châu , miền đông Trung_Quốc đến Sagres miền tây Bồ_Đào_Nha .
+
+Màu xanh là con đường_biển " thắng_tắp " dài nhất .
+Màu đỏ là con đường_thẳng trên bộ dài nhất - Ảnh : Science .
+Con đường dài 32.089,7 km - Ảnh : Science .
+Con đường_thẳng trên bộ dài nhất thế_giới chạy qua 15 quốc_gia - Ảnh : Science

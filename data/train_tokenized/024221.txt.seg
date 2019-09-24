@@ -1,0 +1,18 @@
+Lại lộ thông_tin của 540 triệu tài_khoản người dùng Facebook
+
+Hãng bảo_mật mạng UpGuard cho_biết vừa phát_hiện hai tập_hợp dữ_liệu chứa thông_tin cá_nhân của hàng trăm triệu tài_khoản người dùng Facebook , cả hai đều trong tình_trạng ai cũng có_thể tiếp_cận .
+
+Theo trang tin công_nghệ Gizmodo , ngày 3-4 ( giờ Mỹ ) , Hãng bảo_mật UpGuard thông_báo về các bộ dữ_liệu bị rò_rỉ , một trong số đó là của hãng truyền_thông tên là Cultura_Colectiva có trụ_sở tại Mexico .
+Bộ dữ_liệu này được cho là chứa hơn 146 GB dữ_liệu thông_tin của hơn 540 triệu tài_khoản người dùng Facebook .
+Trong đó bao_gồm những thông_tin như các comment ( bình_luận ) , like , các biểu_tượng tương_tác cảm_xúc , tên tài_khoản , ID người dùng Facebook ...
+Bộ dữ_liệu rò_rỉ thứ hai liên_quan tới ứng_dụng được tích_hợp trên nền_tảng Facebook có tên " At the pool " và đã làm tiết_lộ khoảng 22.000 mật_khẩu .
+Theo Hãng bảo_mật UpGuard , các mật_khẩu này được dự_đoán là mật_khẩu của người dùng sử_dụng cho ứng_dụng " At_the Pool " chứ không hẳn là mật_khẩu của tài_khoản Facebook , tuy_nhiên người dùng có nguy_cơ sử_dụng cùng một mật_khẩu cho các tài_khoản khác nhau .
+Cũng theo UpGuard , cơ_sở_dữ_liệu bị rò_rỉ cũng chứa dữ_liệu của bạn_bè người dùng , các like , group và những địa_điểm họ đã " check in " .
+Đáng lo_ngại ở chỗ cả hai tập_hợp dữ_liệu này đều được lưu_trữ trong nhiều bucket ( thuật_ngữ riêng chỉ phần lưu_trữ dữ_liệu của công_nghệ đám mây ) của dịch_vụ lưu_trữ đơn_giản bằng công_nghệ đám mây Amazon S3 không bảo_mật của Amazon .
+Theo đó hầu_như tất_cả mọi người đều có_thể tiếp_cận , không có mật_khẩu bảo_vệ các dữ_liệu này .
+Sau khi phát_hiện sự_cố , các bucket này đã được thiết_lập chế_độ bảo_vệ hoặc gỡ xuống .
+Phản_hồi với trang Gizmodo về sự_việc , đại_diện Facebook cho_biết : " Các chính_sách của Facebook nghiêm_cấm việc lưu_trữ thông_tin Facebook trên cơ_sở_dữ_liệu công_cộng .
+Sau khi được thông_báo về vấn_đề , chúng_tôi đã làm_việc với Amazon để gỡ xuống các dữ_liệu đó .
+Chúng_tôi cam_kết hợp_tác với các nhà phát_triển trên nền_tảng của mình để bảo_vệ dữ_liệu người dùng " .
+
+Ảnh ( minh_hoạ ) : REUTERS

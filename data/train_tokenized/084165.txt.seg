@@ -1,0 +1,20 @@
+Mã độc Coinhive mật phục chờ móc bóp ' thợ đào Bitcoin '
+
+Mã độc Coinhive đang ẩn mình trên các website Việt_Nam để chờ những " thợ đào Bitcoin " và các loại tiền ảo , tiền điện_tử tương_tự .
+
+Ứng_cứu về việc phát_hiện , ngăn_chặn mã độc " đào " tiền ảo bất_hợp_pháp là nội_dung lệnh điều_phối vừa được Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT , thuộc Bộ Thông_tin và Truyền_thông ) công_bố .
+Ông Nguyễn_Khắc_Lịch , Phó giám_đốc VNCERT cho_biết qua theo_dõi trên không_gian mạng Việt_Nam , Trung_tâm này đã ghi_nhận được rất nhiều sự_cố an_toàn thông_tin về mã độc khai_thác tiền điện_tử Coinhive ẩn mình trên các website .
+Khi người dùng truy_cập vào trang_web , thư_viện mã Coinhive sẽ tự_động chạy trên máy_tính người dùng dưới dạng tiện_ích mở_rộng hoặc trực_tiếp trong trình_duyệt nhằm mục_đích " đào " tiền ảo Bitcoin , Monero … bằng cách sử_dụng trái_phép tài_nguyên của người dùng như CPU , ổ_cứng , bộ_nhớ … và gửi về ví điện_tử của tin_tặc .
+Để ngăn_chặn tình_trạng này , Trung_tâm VNCERT đã ra_lệnh điều_phối thực_hiện khẩn_cấp các công_việc theo ngăn_chặn mã độc gửi tới nhiều nơi , trong đó , chỉ rõ các yêu_cầu phòng_tránh mã độc Coinhive .
+Trung_tâm này khuyên cần phải kiểm_tra , rà_soát mã nguồn để phát_hiện các mã được chèn vào .
+Dấu_hiệu nhận_biết gồm các từ khoá trong mã nguồn website coinhive.com , coinhive , coin - hive , coinhive.min.js , authedmine.com , authedmine.min.js .
+Khi phát_hiện website bị chèn các mã khai_thác như đã nêu trên , cần rà_soát và kiểm_tra lại lỗ_hổng trên máy_chủ , lỗ_hổng trên website , kiểm_tra các tài_khoản ...
+Đồng_thời cần triển_khai các biện_pháp ngăn_chặn việc chạy các đoạn mã trái_phép Coinhive trên máy_tính , giám_sát và gỡ xử_lý trên các máy_tính trong mạng có xuất_hiện các kết_nối đến các địa_chỉ tên_miền afminer.com , coin-have.com , coinerra.com , coinhive.com , coinnebula.com , crypto-loot.com , hashforcash.us , jescoin.com , ppoi.org , authedmine.com .
+Ngoài_ra , phải sử_dụng tường lửa để chặn các kết_nối ra các địa_chỉ nói trên .
+Theo VNCERT , các quản_trị mạng cũng cần rà quét , kiểm_tra hệ_thống để tìm ra và loại_bỏ các đoạn mã có trong các phần_mềm mở_rộng " Add - on " của trình_duyệt web , khuyến_nghị người dùng cài_đặt các tiện_ích mở_rộng " No Coin_Chrome " hay " minerBlock " đối_với Chrome , cài_đặt " NoScripts " cho Firefox .
+VNCERT cũng khuyến_nghị các đơn_vị cần hướng_dẫn người dùng kiểm_tra hiệu_suất sử_dụng CPU của máy_tính bằng các ứng_dụng như Windows_Task_Manager và Resource_Monitor .
+Trong trường_hợp phát_hiện máy_tính có_thể đã bị nhiễm Coinhive hoặc các lỗ hỗng thì_phải xử_lý , và khắc_phục , cũng như loại_bỏ các chương_trình đã bị tin_tặc chèn vào .
+
+" Trại trâu " , từ dùng chỉ các " mỏ " đào Bitcoin ở Đắk_Lắk .
+Chủ_nhân đã đầu_tư gần 2 tỷ đồng .
+Tiếng ồn và hơi nóng tản ra từ máy_móc là đặc_trưng của các mỏ đào Bitcoin - Ảnh : XUÂN_TIẾN .

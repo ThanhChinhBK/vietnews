@@ -1,0 +1,21 @@
+Google dẹp dự_án công_cụ tìm_kiếm có kiểm_duyệt ở Trung_Quốc
+
+Sau nhiều khó_khăn và vấp phải phản_đối từ chính nhân_viên của mình , Công_ty Google quyết_định dẹp dự_án công_cụ tìm_kiếm Dragonfly , theo báo The_Intercept .
+
+Dragonfly là một hệ_thống phân_tích dữ_liệu do Google tạo ra , nhằm phát_triển công_cụ tìm_kiếm " có kiểm_duyệt " cho thị_trường Trung_Quốc .
+Các nhân_viên trong dự_án này đã sử_dụng một website tìm_kiếm của Trung_Quốc có tên 265.com .
+Google đã mua lại 265.com từ năm 2008 từ tỉ_phú Trung_Quốc_Cai_Wensheng .
+Website này trước đó đặt mục_tiêu trở_thành " trang_chủ được dùng nhiều nhất Trung_Quốc " , hoạt_động giống như Google với các mảng tìm_kiếm , cập_nhật tin_tức , thị_trường , chuyến bay , khách_sạn …
+Tuy_nhiên , tất_cả những yêu_cầu tìm_kiếm trên 265.com đều dẫn về nền_tảng Baidu - một " Google của Trung_Quốc " .
+Ít_nhất một trong số các kỹ_sư lập_trình của Google được phép truy_cập vào API - giao_diện lập_trình ứng_dụng , để liên_kết với 265.com , nhưng các nhân_viên còn lại trong đội bảo_mật của Google đều không được thông_báo điều gì về 265.com .
+Về nguyên_tắc , dự_án Dragonfly sẽ dựa vào dữ_liệu từ 265.com để tạo ra một " danh_sách đen " cho công_cụ tìm_kiếm của mình .
+Danh_sách này dùng để chặn truy_cập , loại_bỏ các kết_quả tìm_kiếm về nhân_quyền , biểu_tình hay vấn_đề " dân_chủ " .
+Nói cách khác , công_cụ tìm_kiếm mà Google muốn phát_triển tại thị_trường Trung_Quốc có sự can_thiệp về nội_dung rõ_ràng , và điều này đã gặp chỉ_trích từ bên ngoài lẫn nội_bộ .
+Theo hai nguồn thạo tin của The_Intercept , các lãnh_đạo Google đã buộc phải giam dự_án này lại " ít_nhất trong ngắn_hạn " , và việc này bị xem như cú đánh trời giáng vào các giám_đốc , bao_gồm cả giám_đốc_điều_hành ( CEO ) Sundar_Pichai - người trong hai năm qua đã đặt dự_án Trung_Quốc làm ưu_tiên .
+Báo The_Intercept cũng cho_biết nhiều kỹ_sư Google trong dự_án Dragonfly đã được điều_chuyển sang công_tác ở những dự_án khác ở Brazil , Indonesia và Nga .
+Thất_bại này của Google một lần nữa phản_ánh khó_khăn của các công_ty công_nghệ Mỹ trong việc khai_thác thị_trường màu_mỡ ở Trung_Quốc .
+Cho đến nay , các công_ty như Facebook hay Twitter vẫn bị cấm hoạt_động tại Trung_Quốc , ngoại_trừ việc có văn_phòng thực_hiện giao_dịch , quảng_cáo .
+Hồi giữa năm , Facebook tiếp_tục nỗ_lực ( đã 10 năm qua ) thông_qua sáng_kiến lập khu hỗ_trợ cho những phát_minh công_nghệ .
+Tuy_nhiên chỉ một ngày sau khi có tin Facebook được chính_quyền chấp_thuận kế_hoạch này , mọi thông_tin về điều đó đã biến mất .
+
+Giám_đốc_điều_hành của Google , ông Sundar_Pichai - Ảnh : REUTERS

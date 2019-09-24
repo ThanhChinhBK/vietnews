@@ -1,0 +1,31 @@
+Người Việt nghiên_cứu trị chuyến bay trễ cho Singapore
+
+Nhóm nghiên_cứu thuộc ĐH Quốc_gia TP. HCM đã thực_hiện dự_án dùng trí_tuệ_nhân_tạo dự_đoán chuyến bay trễ . Dự_án vừa được chuyển_giao cho Viện Nghiên_cứu và quản_lý hàng_không ATMRI ( thuộc ĐH Công_nghệ Nangyang , Singapore ) .
+
+Trưởng dự_án là PGS.TS Quản_Thành_Thơ cùng ba thành_viên là thạc_sĩ Bùi_Quốc_Minh , Phạm_Đức_Thịnh và cử_nhân Nguyễn_An_Dân .
+Nhóm tập_trung nghiên_cứu dự_án tại Viện John von Neumann ( JVN ) thuộc ĐH Quốc_gia TP. HCM từ tháng 8 năm nay .
+Dự_đoán chuyến bay trễ theo phút
+Dự_án ứng_dụng học máy ( machine learning ) - phương_pháp mô_phỏng trí_tuệ con_người - để phân_tích nguyên_nhân và dự_đoán các chuyến bay trễ giờ .
+PGS.TS Quản_Thành_Thơ kể : " Trước chúng_tôi đã có một_số nhóm nghiên_cứu nổi_tiếng ở Singapore đưa ra lời_giải cho bài_toán này nhưng chưa hoàn_toàn thuyết_phục ATMRI về chuyên_môn .
+Hai thành_viên trong nhóm đã sang Singapore trình_bày giải_pháp và được yêu_cầu đăng_ký đấu_thầu trên cổng thông_tin chính_thức gebiz.gov.sg .
+Tôi nghĩ dự_án đã thuyết_phục nhờ chuyên_môn và giá bỏ_thầu hợp_lý " .
+Được cung_cấp bộ dữ_liệu về 12 sân_bay chính ở khu_vực Đông_Nam_Á trong 10 tháng , nhóm bắt_đầu phân_tích , xây_dựng mô_hình và báo_cáo kết_quả cho viện và Cục Hàng_không Singapore vừa_qua .
+Dự_án sẽ kết_thúc vào ngày 31-12 .
+Phó trưởng dự_án , thạc_sĩ Phạm_Đức_Thịnh , chia_sẻ : " Chúng_tôi kết_hợp các mô_hình thống_kê và học máy để giải_thích sự ảnh_hưởng qua_lại giữa các sân_bay khi có sự_cố , dự_đoán thời_gian chuyến bay trễ giờ theo đơn_vị phút .
+Cùng với sự xuất_hiện của dữ_liệu ADS - B trong ba năm gần đây ( công_nghệ giám_sát , trong đó máy_bay xác_định vị_trí thông_qua điều hướng vệ_tinh và phát_sóng định_kỳ ) , chúng_tôi kết_hợp các ý_tưởng về mô_hình_hoá trong việc phân_tích và dự_báo chuyến bay trễ cho các chuyến bay đáp ở khu_vực Đông_Nam_Á , từ đây hoàn_toàn có khả_năng mở_rộng cho các chuyến bay đáp tại các sân_bay khác trên thế_giới " .
+Sau gần bốn tháng thực_hiện , vừa_qua JVN đã chuyển_giao kết_quả nghiên_cứu cho ATMRI bao_gồm : xử_lý , khảo_sát và phân_tích dữ_liệu ADS - B để xây_dựng các phân_bố xác_suất và độ trễ ở từng sân_bay , trên cả đường_bay ; xác_định sự tương_quan về độ trễ giữa các sân_bay trong mạng_lưới ; xác_định một_số nguyên_nhân quyết_định tới độ trễ ; xây_dựng đường_bay chuẩn khi máy_bay đáp ở các sân_bay .
+Các đặc_trưng này sẽ được mô_hình đánh_giá và phân_tích mức_độ ảnh_hưởng trong các chuyến bay trễ .
+Theo nhóm nghiên_cứu , các mô_hình dự_báo khác nhau đã được xây_dựng và thử_nghiệm trên dữ_liệu gần nhất tại Đông_Nam Á. Kết_quả nghiên_cứu có_thể hỗ_trợ nâng_cao chất_lượng dịch_vụ sân_bay và các hãng hàng_không .
+Tăng hiệu_quả cho các hãng bay
+Theo báo_cáo từ Cục Hàng_không Việt_Nam , trong tháng 11 vừa_qua , bốn hãng hàng_không lớn có 237.802 chuyến bay , 87,6 % số đó cất_cánh đúng giờ , 12,4 % trễ ( tương_đương 29.500 chuyến ) và huỷ chuyến .
+Trong đó , máy_bay về muộn là nguyên_nhân chủ_yếu , tiếp đến là thiết_bị và dịch_vụ cảng bay , hãng hàng_không , quản_lý và điều_hành bay , thời_tiết ...
+Trước_nay ngành hàng_không thường dự_đoán độ trễ chuyến bay bằng các phương_pháp truyền_thống như thống_kê , phân_tích dữ_liệu trong quá_khứ .
+Thạc_sĩ Thịnh cho biết : " Đây là một trong những nghiên_cứu tiên_phong thử_nghiệm việc ứng_dụng học máy ( hay trí_tuệ_nhân_tạo ) trên dữ_liệu ADS - B cho chúng_ta thêm dữ_liệu đường_bay để làm mô_hình theo thời_gian thực .
+Chẳng_hạn , khi máy_bay ở vị_trí X , tại thời_điểm như_vậy có bao_nhiêu khả_năng bị trễ .
+Mô_hình dự_báo này còn tính_toán các yếu_tố ảnh_hưởng quan_trọng như dịch_vụ hãng bay , loại máy_bay , giờ đáp , mật_độ sân_bay " .
+Bình_thường khi có thông_báo trễ , sân_bay phải điều_phối nhân_lực , thiết_bị để đón máy_bay tới .
+Nếu dự_đoán không chính_xác , kế_hoạch điều_phối sẽ kém hiệu_quả , cả hệ_thống phải chờ_đợi máy_bay , điều_chỉnh nhiều lần trong khi hiệu_suất thực_tế sân_bay vẫn đảm_bảo .
+Từ yêu_cầu đó , nghiên_cứu xác_định những đường_bay thực_tế đại_diện cho tập dữ_liệu để các hãng bay đánh_giá hiệu_quả so với đường_bay chuẩn hiện có , đề_xuất thay_đổi kế_hoạch bay theo mùa .
+Ngoài_ra , đây cũng là bước đệm để tính thời_gian trễ thực_tế khi máy_bay đi vào không_phận và chờ đáp ...
+
+Nhóm tác_giả của Viện JVN ( ĐH Quốc_gia TP. HCM ) nghiên_cứu dự_án đánh_giá sự chậm_trễ của các chuyến bay bằng máy học vào chiều 22-12 - Ảnh : NHƯ_HÙNG

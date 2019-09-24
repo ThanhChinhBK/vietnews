@@ -1,0 +1,25 @@
+Cổng soát vé ở ga chưa phân_biệt được vé sai thông_tin
+
+Trong những ngày đầu thực_hiện , cổng soát vé tự_động chỉ phân_biệt được vé thật , vé giả mà không phân_biệt được vé có trùng khớp thông_tin với người đi tàu hay không .
+
+Công_ty_cổ_phần Vận_tải đường_sắt Sài_Gòn vừa báo_cáo Tổng_công_ty Đường_sắt VN một_số tồn_tại , hạn_chế của cổng soát vé tự_động trong những ngày đầu soát vé hành_khách .
+Cụ_thể , kết_cấu cổng soát vé tự_động đặt tại ga không chắc_chắn , dễ bị xê_dịch khi va_chạm mạnh .
+Vì_thế , cổng này cần phải được gia_cố lại cho chắc_chắn .
+Sau khi lắp_đặt , Tổng_công_ty Đường_sắt VN qui_định chỉ kiểm_soát vé hành_khách một lần chính_thức tại cổng kiểm_soát vé tự_động , bãi_bỏ qui_định soát vé tại cửa toa xe_khách lên tàu .
+Với vé tàu hợp_lệ ( vé tàu thật , đúng chuyến tàu , ngày đi , giờ đi ) sẽ được cổng soát vé mở ra để khách đi vào ga lên tàu .
+Nhưng theo Công_ty_cổ_phần Vận_tải đường_sắt Sài_Gòn , điều này gặp hạn_chế khi quá_trình sử_dụng cho thấy một thẻ lên tàu có_thể được sử_dụng để qua cổng nhiều lần và nhiều trường_hợp không đọc được mã_vạch do thẻ lên tàu bị mờ .
+Mặt_khác , cổng soát vé tự_động chỉ phân_biệt được vé thật , vé giả mà không phân_biệt được hành_khách đi tàu có thông_tin cá_nhân trùng khớp với vé lên tàu hay không .
+Vì_thế , dù đã có cổng kiểm_soát các nhân_viên đường_sắt cũng phải duy_trì để kiểm_tra tính hợp_lệ của vé tàu khi đi qua cổng .
+Cổng soát vé tự_động chỉ thực_hiện quét mã vạch thẻ lên tàu , chưa có chức_năng thực_hiện quét mã_vạch trên điện_thoại , máy_tính bảng .
+Với những hạn_chế trên , công_ty_cổ_phần Vận_tải đường_sắt Sài_Gòn đề_xuất Tổng_công_ty Đường_sắt VN cho_phép tổ tiếp_viên trên tàu thực_hiện kiểm_soát vé hành_khách tại cửa toa trước khi khách lên tàu , đồng_thời bổ_sung thêm các chức_năng mới cho phù_hợp .
+Trước đó , Tổng_công_ty Đường_sắt VN đã đầu_tư và đưa vào sử_dụng cổng soát vé tự_động tại ga Sài_Gòn và Hà_Nội kể từ ngày 15-12 .
+Việc đầu_tư này nhằm đảm_bảo tình_hình trật_tự tại các ga , hạn_chế đối_tượng xấu , buôn_bán hàng rong lên tàu .
+Những người đưa_tiễn khách đi tàu sẽ được bố_trí đứng ở ngoài khu_vực cổng kiểm_soát vé .
+Về quy_trình , khách đi tàu sẽ quét mã vé trên giấy hoặc trên màn_hình điện_thoại vào đầu_đọc của cổng soát vé .
+Cổng soát vé gửi thông_tin đã giải_mã từ QRCode về phần_mềm kiểm_tra của đường_sắt để kiểm_tra tính hợp_lệ .
+Nếu vé hợp_lệ , cổng tự_động mở chốt cửa cho một người qua .
+Nếu vé không hợp_lệ , sẽ không mở cổng và thông_báo cho hành_khách biết trạng_thái qua đèn LED và âm_thanh .
+
+Khách đi qua cổng soát vé tại ga Sài_Gòn .
+- Ảnh Đ . P .
+Hành_khách lên tàu ở ga Sài_Gòn - Ảnh Đ . P .

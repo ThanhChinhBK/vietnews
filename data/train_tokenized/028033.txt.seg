@@ -1,0 +1,13 @@
+Ứng_dụng giúp phát_hiện tổn_thương não
+
+Chấn_thương não rất khó phát_hiện bởi các triệu_chứng thường không xuất_hiện nhiều giờ , nhiều ngày , thậm_chí nhiều tuần sau khi bị_thương .
+
+Hệ_quả là nhiều trường_hợp không được chẩn_đoán kịp_thời , để lại nhiều hậu_quả đáng tiếc .
+Riêng tại Mỹ , theo số_liệu từ Trung_tâm Phòng_chống và Kiểm_soát dịch_bệnh Mỹ ( CDC ) , ước_tính mỗi năm có khoảng 1/2 trong số 3,8 triệu ca chấn_thương sọ não do các chấn_thương thể_thao gây ra và không được chẩn_đoán kịp_thời .
+Để giải_quyết vấn_đề này , các nhà_nghiên_cứu tại Đại_học Washington , Mỹ đã phát_triển một ứng_dụng smartphone có tên gọi PupilScreen có_thể phát_hiện chấn_thương não ngay_lập_tức bằng cách phân_tích mắt của người bị chấn_động đầu .
+Theo Newsweek , các nhà_nghiên_cứu đã tạo ra một thuật toán_học có_thể phát_hiện ra dấu_hiệu chấn_thương não thông_qua cách_thức người đó phản_ứng với ánh_sáng .
+Họ đã dùng đèn flash của máy_ảnh điện_thoại iPhone để kích_thích mắt và ghi lại phản_ứng của người tham_gia thử_nghiệm trong ba giây .
+Sau đó , họ dùng thuật_toán nêu trên để xử_lý dữ_liệu và xác_định các điểm_ảnh từ đồng_tử trong mỗi khung hình và đo những thay_đổi về kích_thước đồng_tử .
+Thông_qua PupilScreen , họ có_thể xác_định phản_ứng ánh_sáng từ đồng_tử của người_bệnh như một thiết_bị đo đồng_tử được sử_dụng tại các bệnh_viện với chi_phí đắt_đỏ .
+Dự_kiến phiên_bản thương_mại PupilScreen sẽ được phát_hành trong 2 năm tới .
+
